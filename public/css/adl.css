@@ -32,9 +32,13 @@
     content: "\e901";
 }
 
-/* Custom font for the app */
 body {
   color: #ccbc99;
+  background: url('../img/mapbg.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 #password-screen {
   background-color: black;

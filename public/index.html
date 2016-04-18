@@ -31,9 +31,6 @@
           </div>
         </div>
 
-        <div class="bg-layer">
-          <div id="adl-map"></div>
-        </div>
         <div id="adl-map-overlay" class="bg-layer"></div>
 
         <header>
@@ -107,7 +104,6 @@
 
         <script>
           var map, initOptions, exploreOptions, watchOptions;
-          var markers = {};
           var isWatching = true;
           var styles = [
             {
@@ -124,45 +120,6 @@
               ]
             }
           ];
-
-          function initMap() {
-            initOptions = {
-              center: {lat: 9.1576882, lng: 16.1456723},
-              zoom: 5,
-              maxZoom: 5,
-              minZoom: 5,
-              mapTypeId: google.maps.MapTypeId.SATELLITE,
-              mapTypeControl: false,
-              streetViewControl: false,
-              zoomControl: false
-            };
-            exploreOptions = {
-              mapTypeId: google.maps.MapTypeId.HYBRID,
-              styles: styles
-            };
-            watchOptions = {
-              mapTypeId: google.maps.MapTypeId.SATELLITE,
-              styles: {}
-            };
-            map = new google.maps.Map(document.getElementById('adl-map'), initOptions);
-
-            var nigeria = new google.maps.Marker({
-              position: {lat:9.8305941, lng:7.8743232},
-              map: map,
-              title: "Nigeria",
-              icon: "http://maps.google.com/mapfiles/ms/icons/red-dot.png"
-            });
-
-            var ghana = new google.maps.Marker({
-              position: {lat:8.0539901, lng:-1.2199273},
-              map: map,
-              title: "Ghana",
-              icon: "http://maps.google.com/mapfiles/ms/icons/red-dot.png"
-            });
-
-            markers.m1 = nigeria;
-            markers.m2 = ghana;
-          }
 
           // On page load
           $(function () {
@@ -207,10 +164,6 @@
               }
               $video.velocity("fadeOut", {duration:500});
               $intro.velocity("fadeOut", {duration:500});
-              $mapOverlay.velocity("fadeOut", {duration:500});
-              $mapContent.velocity("fadeIn", {delay:500, duration:500, complete: function (el) {
-                map.setOptions(exploreOptions);
-              }});
               isWatching = false;
             });
 
@@ -223,17 +176,12 @@
               if (isInfoOn) {
                 $closeBtn.click();
               }
-              $mapContent.velocity("fadeOut", {duration:500, complete: function (el) {
-                map.setOptions(watchOptions);
-              }});
               $video.velocity("fadeIn", {delay:500, duration:500});
               $intro.velocity("fadeIn", {delay:500, duration:500});
-              $mapOverlay.velocity("fadeIn", {delay:500, duration:500});
               isWatching = true;
             });
 
             $infoBtn.click(function (ev) {
-              console.log("$infoBtn");
               if (isInfoOn) {
                 return false;
               }
@@ -241,14 +189,12 @@
               $infoContent.velocity("fadeIn", {delay:500, duration:500});
               $closeBtn.velocity("fadeIn", {delay:500, duration:500});
               if (!isWatching) {
-                $mapContent.velocity("fadeOut", {duration:500});
-                $mapOverlay.velocity("fadeIn", {duration:500});
+                console.log("something specific to explore page here?");
               }
               isInfoOn = true;
             });
 
             $closeBtn.click(function (ev) {
-              console.log("$closeBtn");
               if (!isInfoOn) {
                 return false;
               }
@@ -256,26 +202,12 @@
               $closeBtn.velocity("fadeOut", {duration:500});
               $infoBtn.velocity("fadeIn", {delay:500, duration:500});
               if (!isWatching) {
-                $mapContent.velocity("fadeIn", {duration:500});
-                $mapOverlay.velocity("fadeOut", {duration:500});
+                console.log("something specific to explore page here?");
               }
               isInfoOn = false;
             });
 
-            $mediaItem.hover(
-              // hover on
-              function (ev) {
-                var marker = markers[this.id];
-                marker.setIcon("http://maps.google.com/mapfiles/ms/icons/green-dot.png");
-                map.panTo(marker.getPosition());
-              },
-              // hover off
-              function (ev) {
-                markers[this.id].setIcon("http://maps.google.com/mapfiles/ms/icons/red-dot.png");
-              }
-            );
-
-            // ON LOAD
+            // handle window / video resize
             $(window).resize(function (ev) {
               var width = $body.width() * 0.75;
               $embed.width(width);
@@ -283,7 +215,6 @@
             }).resize();
           });
         </script>
-        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAr9dAZw4tz4j6DMh4mW9POijsdQcDLNSQ&callback=initMap" async defer></script>
 
         <!-- Google Analytics: change UA-XXXXX-X to be your site's ID.
         <script>
