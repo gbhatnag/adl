@@ -1,0 +1,299 @@
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>African Drumming Laws</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+        <!-- Place favicon.ico in the root directory -->
+
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="css/adl.css">
+        <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+    </head>
+    <body>
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+        <div id="password-screen">
+          <div class="vertically-center">
+            <h1>African Drumming Laws</h1>
+            <img src="img/adl-logo-t.png" style="width:300px;" />
+            <form id="password-form">
+              <input type="password" placeholder="PASSWORD" id="password" name="password" />
+              <button type="submit" class="nav-btn">ENTER</button>
+            </form>
+          </div>
+        </div>
+
+        <div class="bg-layer">
+          <div id="adl-map"></div>
+        </div>
+        <div id="adl-map-overlay" class="bg-layer"></div>
+
+        <header>
+          <img id="adl-logo" src="img/adl-logo-t.png" />
+          <p id="intro">One line of introductory text here: what's the goal/thesis of the project? Who does the work serve and how?</p>
+        </header>
+
+        <div id="adl-video">
+          <iframe width="640" height="360" src="https://www.youtube.com/embed/937SQ8-6RV4?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+        </div>
+
+        <nav>
+          <ul>
+            <li>
+              <button id="watch-btn" class="nav-btn active">WATCH</button>
+            </li>
+            <li>
+              <button id="explore-btn" class="nav-btn">EXPLORE</button>
+            </li>
+          </ul>
+          <button id="info-btn" class="control-btn nav-btn"><span class="icon-help"></span></button>
+          <button id="close-btn" class="control-btn nav-btn" style="display:none;"><span class="icon-cancel"></span></button>
+        </nav>
+
+        <div class="side-drawer" id="adl-map-content" style="display:none;">
+          <h3>Explore Colonial-Era African Drumming</h3>
+          <div class="media-item" id="m1">
+            <img width="320" src="img/DSC02927-m.jpg" />
+            <p><strong>Iyaalu Dundun (Nigeria/Yoruba)</strong></p>
+            <p>Double-headed hourglass tension drum played with a curved stick.
+              Functions as a speech surrogate or "talking drum" that imitates
+              the tones and inflections of the Yoruba language. Pitch is controlled
+              by applying pressure to the cords with the hand and wrist. The <em>iyaalu</em>
+              ("mother drum") is the leader of the <em>dundun</em> ensemble.
+            </p>
+          </div>
+          <div class="media-item" id="m2">
+            <img width="320" src="img/DSC02938-m.jpg" />
+            <p><strong>Axatse (Ghana/Ewe)</strong></p>
+            <p>Gourd rattle covered with a net of beads or seeds. Typically struck
+              against the thigh and palm. <em>Axatsewu</em> is a style of Ewe social
+              dance music that features rattles.
+            </p>
+            <p><strong>Gankogui (Ghana/Ewe)</strong></p>
+            <p>Iron double bell, consisting of low-pitched and high-pitched gongs,
+              that is played with a wooden stick. The timeline pattern played on
+              <em>gankogui</em> forms the backbone of all traditional Ewe music.
+            </p>
+          </div>
+        </div>
+
+        <footer>
+          <div class="side-drawer" id="adl-info" style="display:none;">
+            <h3>About The African Drumming Laws Project</h3>
+            <p>A few sentences of context.</p>
+            <h4>Collaborators</h4>
+            <p class="title">LA Law Library</p>
+            <p>More details here</p>
+            <p class="title">UCLA Ethnomusicology</p>
+            <p>More details here</p>
+            <p class="title"><a href="http://revolutionari.es" target="_blank">The Revolutionaries</a></p>
+            <p>More details here</p>
+          </div>
+        </footer>
+
+        <script src="js/vendor/jquery-1.12.0.min.js"></script>
+        <script src="js/vendor/velocity.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/2.2.2/isotope.pkgd.min.js"></script>
+        <script src="js/plugins.js"></script>
+        <script src="js/main.js"></script>
+
+        <script>
+          var map, initOptions, exploreOptions, watchOptions;
+          var markers = {};
+          var isWatching = true;
+          var styles = [
+            {
+              "featureType": "administrative",
+              "elementType": "labels",
+              "stylers": [
+                { "visibility": "on" }
+              ]
+            },{
+              "featureType": "administrative",
+              "elementType": "geometry",
+              "stylers": [
+                { "visibility": "on" }
+              ]
+            }
+          ];
+
+          function initMap() {
+            initOptions = {
+              center: {lat: 9.1576882, lng: 16.1456723},
+              zoom: 5,
+              maxZoom: 5,
+              minZoom: 5,
+              mapTypeId: google.maps.MapTypeId.SATELLITE,
+              mapTypeControl: false,
+              streetViewControl: false,
+              zoomControl: false
+            };
+            exploreOptions = {
+              mapTypeId: google.maps.MapTypeId.HYBRID,
+              styles: styles
+            };
+            watchOptions = {
+              mapTypeId: google.maps.MapTypeId.SATELLITE,
+              styles: {}
+            };
+            map = new google.maps.Map(document.getElementById('adl-map'), initOptions);
+
+            var nigeria = new google.maps.Marker({
+              position: {lat:9.8305941, lng:7.8743232},
+              map: map,
+              title: "Nigeria",
+              icon: "http://maps.google.com/mapfiles/ms/icons/red-dot.png"
+            });
+
+            var ghana = new google.maps.Marker({
+              position: {lat:8.0539901, lng:-1.2199273},
+              map: map,
+              title: "Ghana",
+              icon: "http://maps.google.com/mapfiles/ms/icons/red-dot.png"
+            });
+
+            markers.m1 = nigeria;
+            markers.m2 = ghana;
+          }
+
+          // On page load
+          $(function () {
+            var $body        = $("body");
+            var $exploreBtn  = $("#explore-btn");
+            var $watchBtn    = $("#watch-btn");
+            var $infoBtn     = $("#info-btn");
+            var isInfoOn     = false;
+            var $closeBtn    = $("#close-btn");
+            var $infoContent = $("#adl-info");
+            var $video       = $("#adl-video");
+            var $embed       = $("iframe", $video);
+            var aspect       = $embed.height() / $embed.width();
+            var $intro       = $("#intro");
+            var $mapOverlay  = $("#adl-map-overlay");
+            var $mapContent  = $("#adl-map-content");
+            var $mediaItem   = $(".media-item");
+            var $pwdScreen   = $("#password-screen");
+            var $pwdForm     = $("#password-form", $pwdScreen);
+            var $pwdInput    = $("#password", $pwdForm);
+            var $pwdSubmit   = $("button", $pwdForm);
+
+            // EVENTS
+            $pwdForm.submit(function (ev) {
+              if ($pwdInput.val() === "ATUMPAN") {
+                $pwdScreen.velocity("fadeOut", {duration:500});
+              } else {
+                alert("Incorrect password. Please try again.");
+                $pwdInput.val('');
+                $pwdInput.focus();
+              }
+              return false;
+            })
+            $exploreBtn.click(function (ev) {
+              if (!isWatching) {
+                return false;
+              }
+              $watchBtn.removeClass("active");
+              $exploreBtn.addClass("active");
+              if (isInfoOn) {
+                $closeBtn.click();
+              }
+              $video.velocity("fadeOut", {duration:500});
+              $intro.velocity("fadeOut", {duration:500});
+              $mapOverlay.velocity("fadeOut", {duration:500});
+              $mapContent.velocity("fadeIn", {delay:500, duration:500, complete: function (el) {
+                map.setOptions(exploreOptions);
+              }});
+              isWatching = false;
+            });
+
+            $watchBtn.click(function (ev) {
+              if (isWatching) {
+                return false;
+              }
+              $exploreBtn.removeClass("active");
+              $watchBtn.addClass("active");
+              if (isInfoOn) {
+                $closeBtn.click();
+              }
+              $mapContent.velocity("fadeOut", {duration:500, complete: function (el) {
+                map.setOptions(watchOptions);
+              }});
+              $video.velocity("fadeIn", {delay:500, duration:500});
+              $intro.velocity("fadeIn", {delay:500, duration:500});
+              $mapOverlay.velocity("fadeIn", {delay:500, duration:500});
+              isWatching = true;
+            });
+
+            $infoBtn.click(function (ev) {
+              console.log("$infoBtn");
+              if (isInfoOn) {
+                return false;
+              }
+              $infoBtn.velocity("fadeOut", {duration:500});
+              $infoContent.velocity("fadeIn", {delay:500, duration:500});
+              $closeBtn.velocity("fadeIn", {delay:500, duration:500});
+              if (!isWatching) {
+                $mapContent.velocity("fadeOut", {duration:500});
+                $mapOverlay.velocity("fadeIn", {duration:500});
+              }
+              isInfoOn = true;
+            });
+
+            $closeBtn.click(function (ev) {
+              console.log("$closeBtn");
+              if (!isInfoOn) {
+                return false;
+              }
+              $infoContent.velocity("fadeOut", {duration:500});
+              $closeBtn.velocity("fadeOut", {duration:500});
+              $infoBtn.velocity("fadeIn", {delay:500, duration:500});
+              if (!isWatching) {
+                $mapContent.velocity("fadeIn", {duration:500});
+                $mapOverlay.velocity("fadeOut", {duration:500});
+              }
+              isInfoOn = false;
+            });
+
+            $mediaItem.hover(
+              // hover on
+              function (ev) {
+                var marker = markers[this.id];
+                marker.setIcon("http://maps.google.com/mapfiles/ms/icons/green-dot.png");
+                map.panTo(marker.getPosition());
+              },
+              // hover off
+              function (ev) {
+                markers[this.id].setIcon("http://maps.google.com/mapfiles/ms/icons/red-dot.png");
+              }
+            );
+
+            // ON LOAD
+            $(window).resize(function (ev) {
+              var width = $body.width() * 0.75;
+              $embed.width(width);
+              $embed.height(width * aspect);
+            }).resize();
+          });
+        </script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAr9dAZw4tz4j6DMh4mW9POijsdQcDLNSQ&callback=initMap" async defer></script>
+
+        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID.
+        <script>
+            (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+            function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+            e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+            e.src='https://www.google-analytics.com/analytics.js';
+            r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+            ga('create','UA-XXXXX-X','auto');ga('send','pageview');
+        </script>
+        -->
+    </body>
+</html>

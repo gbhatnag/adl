@@ -1,0 +1,187 @@
+/* From icomoon */
+@font-face {
+    font-family: 'icomoon';
+    src:    url('fonts/icomoon.eot?ughzmv');
+    src:    url('fonts/icomoon.eot?ughzmv#iefix') format('embedded-opentype'),
+        url('fonts/icomoon.ttf?ughzmv') format('truetype'),
+        url('fonts/icomoon.woff?ughzmv') format('woff'),
+        url('fonts/icomoon.svg?ughzmv#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-help:before {
+    content: "\e900";
+}
+.icon-cancel:before {
+    content: "\e901";
+}
+
+/* Custom font for the app */
+body {
+  color: #ccbc99;
+}
+#password-screen {
+  background-color: black;
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  display: table;
+  z-index: 11;
+  text-align: center;
+}
+.vertically-center {
+  display: table-cell;
+  vertical-align: middle;
+}
+#password-screen h1 {
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+#password {
+  border: 3px solid #008751;
+  background: white;
+  padding: 13px;
+  width: 150px;
+  color: black;
+  font-weight: bold;
+}
+.bg-layer {
+  position:fixed;
+  top:0;
+  left:0;
+  height:100%;
+  width:100%;
+  z-index:-2;
+}
+#adl-map {
+  height:100%;
+}
+#adl-map-overlay {
+  z-index:-1;
+  background-color:rgba(0,0,0,0.7);
+}
+header {
+  margin:0;
+  padding:20px;
+  text-align:center;
+}
+header #adl-logo {
+  width:300px;
+}
+header #intro {
+  font-size: 18px;
+  padding-bottom: 30px;
+}
+nav {
+  position:absolute;
+  top:113px;
+  left:0;
+  width:100%;
+}
+nav ul {
+  text-align:center;
+  margin:0;
+  padding:0;
+}
+nav ul li {
+  display:inline-block;
+  margin:0;
+}
+button.nav-btn {
+  border: none;
+  background: white;
+  padding: 13px;
+  width: 113px;
+  color: black;
+  font-weight: bold;
+}
+button.nav-btn:hover,
+button.nav-btn.active {
+  padding-bottom:4px;
+  border-bottom:9px solid #008751;
+}
+#watch-btn {
+  margin-right:130px;
+}
+#explore-btn {
+  margin-left:130px;
+}
+button.control-btn {
+  position:fixed;
+  top:20px;
+  right:20px;
+  width:48px;
+  z-index:4;
+}
+button.control-btn {
+  padding:12px 13px 8px 13px;
+}
+button.control-btn:hover {
+  padding-bottom:1px;
+}
+button.control-btn span {
+  font-size:24px;
+  line-height:24px;
+}
+#adl-video {
+	padding-bottom:150px;
+}
+#adl-video iframe {
+  margin-left:12.5%;
+}
+.side-drawer {
+  position:fixed;
+  right:0;
+  bottom:0;
+  width:320px;
+  height:100%;
+  background-color:rgba(0,0,0,0.7);
+  z-index:3;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+.side-drawer h3 {
+  padding: 97px 0 0;
+  margin: 14px;
+}
+.side-drawer p {
+  font-size:14px;
+}
+.title {
+  font-weight:bold;
+  padding-top:1.5em;
+}
+.media-item {
+  margin:28px 0;
+  cursor:pointer;
+  padding:0 0 9px 0;
+}
+.media-item:hover {
+  background-color:rgba(0,135,81,0.33);
+}
+.media-item img {
+  display:block;
+  padding-bottom:1em;
+}
+.media-item p {
+  font-size:14px;
+  margin:1em;
+}
