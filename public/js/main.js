@@ -20,6 +20,8 @@ $(function () {
   var $pwdInput    = $("#password", $pwdForm);
   var $pwdSubmit   = $("button", $pwdForm);
   var $laws        = $("#adl-laws");
+  var $lawsTemplate= $("#laws-template");
+  var $lawsRendered= $("#laws-rendered");
   var years = {
     '*': [{label:"All years", year:"*"}, {label:"1956", year:1956}, {label:"1957", year:1957}, {label:"1958", year:1958}],
     malawi: [{label:"All years", year:"*"}, {label:"1957", year:1957}],
@@ -33,16 +35,23 @@ $(function () {
     if (areLawsLoaded) {
       return;
     }
-    $lawsGrid = $("#laws-grid").isotope({
-      itemSelector: '.law-item',
-      percentPosition: true,
-      masonry: {
-        columnWidth: '.grid-sizer'
-      }
-    });
-    $lawsGrid.imagesLoaded().progress(function () {
-      $lawsGrid.isotope('layout');
-      areLawsLoaded = true;
+    // render template
+    $.getJSON("../laws/laws.json", function (json) {
+      var rendered = Mustache.render($lawsTemplate.html(), json);
+      $lawsRendered.html(rendered);
+
+      // set up the grid
+      $lawsGrid = $("#laws-grid").isotope({
+        itemSelector: '.law-item',
+        percentPosition: true,
+        masonry: {
+          columnWidth: '.grid-sizer'
+        }
+      });
+      $lawsGrid.imagesLoaded().progress(function () {
+        $lawsGrid.isotope('layout');
+        areLawsLoaded = true;
+      });
     });
   };
   var filterGrid = function (country, year) {

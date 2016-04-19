@@ -1,0 +1,949 @@
+{
+  "laws": {
+    "HkF2aMNl": {
+      "key": "HkF2aMNl",
+      "countryID": "gambia",
+      "thumbPath": "/laws/gambia/The Gambia (1926).jpeg",
+      "pdfPath": "/laws/gambia/The Gambia (1926).pdf",
+      "countryLabel": "The Gambia",
+      "name": "The Gambia",
+      "year": "1926"
+    },
+    "Hket2aMNe": {
+      "key": "Hket2aMNe",
+      "countryID": "gambia",
+      "thumbPath": "/laws/gambia/The Gambia (1942).jpeg",
+      "pdfPath": "/laws/gambia/The Gambia (1942).pdf",
+      "countryLabel": "The Gambia",
+      "name": "The Gambia",
+      "year": "1942"
+    },
+    "SJ-Fh6zVe": {
+      "key": "SJ-Fh6zVe",
+      "countryID": "gambia",
+      "thumbPath": "/laws/gambia/The Gambia (1955).jpeg",
+      "pdfPath": "/laws/gambia/The Gambia (1955).pdf",
+      "countryLabel": "The Gambia",
+      "name": "The Gambia",
+      "year": "1955"
+    },
+    "rJGthafVg": {
+      "key": "rJGthafVg",
+      "countryID": "ghana",
+      "thumbPath": "/laws/ghana/Ghana (1920).jpeg",
+      "pdfPath": "/laws/ghana/Ghana (1920).pdf",
+      "countryLabel": "Ghana",
+      "name": "Ghana",
+      "year": "1920"
+    },
+    "S1mKnpfVe": {
+      "key": "S1mKnpfVe",
+      "countryID": "ghana",
+      "thumbPath": "/laws/ghana/Ghana (1928).jpeg",
+      "pdfPath": "/laws/ghana/Ghana (1928).pdf",
+      "countryLabel": "Ghana",
+      "name": "Ghana",
+      "year": "1928"
+    },
+    "SJVKhpGNx": {
+      "key": "SJVKhpGNx",
+      "countryID": "ghana",
+      "thumbPath": "/laws/ghana/Ghana (1951).jpeg",
+      "pdfPath": "/laws/ghana/Ghana (1951).pdf",
+      "countryLabel": "Ghana",
+      "name": "Ghana",
+      "year": "1951"
+    },
+    "H1HKnTzNg": {
+      "key": "H1HKnTzNg",
+      "countryID": "ghana",
+      "thumbPath": "/laws/ghana/Ghana (1997).jpeg",
+      "pdfPath": "/laws/ghana/Ghana (1997).pdf",
+      "countryLabel": "Ghana",
+      "name": "Ghana",
+      "year": "1997"
+    },
+    "S18YnTf4e": {
+      "key": "S18YnTf4e",
+      "countryID": "ghana",
+      "thumbPath": "/laws/ghana/Ghana (2005).jpeg",
+      "pdfPath": "/laws/ghana/Ghana (2005).pdf",
+      "countryLabel": "Ghana",
+      "name": "Ghana",
+      "year": "2005"
+    },
+    "H1vt3pGVx": {
+      "key": "H1vt3pGVx",
+      "countryID": "malawi",
+      "thumbPath": "/laws/malawi/Malawi (1933).jpeg",
+      "pdfPath": "/laws/malawi/Malawi (1933).pdf",
+      "countryLabel": "Malawi",
+      "name": "Malawi",
+      "year": "1933"
+    },
+    "HyOK3pz4e": {
+      "key": "HyOK3pz4e",
+      "countryID": "malawi",
+      "thumbPath": "/laws/malawi/Malawi (1957).jpeg",
+      "pdfPath": "/laws/malawi/Malawi (1957).pdf",
+      "countryLabel": "Malawi",
+      "name": "Malawi",
+      "year": "1957"
+    },
+    "ByKYn6f4e": {
+      "key": "ByKYn6f4e",
+      "countryID": "northern_nigeria",
+      "thumbPath": "/laws/northern_nigeria/Kwara (1958).jpeg",
+      "pdfPath": "/laws/northern_nigeria/Kwara (1958).pdf",
+      "countryLabel": "Kwara",
+      "name": "Kwara",
+      "year": "1958"
+    },
+    "r1cYn6zVg": {
+      "key": "r1cYn6zVg",
+      "countryID": "northern_nigeria",
+      "thumbPath": "/laws/northern_nigeria/Northern Nigeria (1965).jpeg",
+      "pdfPath": "/laws/northern_nigeria/Northern Nigeria (1965).pdf",
+      "countryLabel": "Northern Nigeria",
+      "name": "Northern Nigeria",
+      "year": "1965"
+    },
+    "BJjKh6MVe": {
+      "key": "BJjKh6MVe",
+      "countryID": "seychelles",
+      "thumbPath": "/laws/seychelles/Seychelles (1952).jpeg",
+      "pdfPath": "/laws/seychelles/Seychelles (1952).pdf",
+      "countryLabel": "Seychelles",
+      "name": "Seychelles",
+      "year": "1952"
+    },
+    "HJhFn6fEe": {
+      "key": "HJhFn6fEe",
+      "countryID": "uganda",
+      "thumbPath": "/laws/uganda/Uganda (1951).jpeg",
+      "pdfPath": "/laws/uganda/Uganda (1951).pdf",
+      "countryLabel": "Uganda",
+      "name": "Uganda",
+      "year": "1951"
+    },
+    "B16t3afVe": {
+      "key": "B16t3afVe",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Abeokuta (1956).jpeg",
+      "pdfPath": "/laws/western_nigeria/Abeokuta (1956).pdf",
+      "countryLabel": "Abeokuta",
+      "name": "Abeokuta",
+      "year": "1956"
+    },
+    "HJCFnpMEg": {
+      "key": "HJCFnpMEg",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Abeokuta (1960).jpeg",
+      "pdfPath": "/laws/western_nigeria/Abeokuta (1960).pdf",
+      "countryLabel": "Abeokuta",
+      "name": "Abeokuta",
+      "year": "1960"
+    },
+    "SkkxY3aMNl": {
+      "key": "SkkxY3aMNl",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Abeokuta (1962).jpeg",
+      "pdfPath": "/laws/western_nigeria/Abeokuta (1962).pdf",
+      "countryLabel": "Abeokuta",
+      "name": "Abeokuta",
+      "year": "1962"
+    },
+    "B1egYhaf4e": {
+      "key": "B1egYhaf4e",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Abeokuta (1965).jpeg",
+      "pdfPath": "/laws/western_nigeria/Abeokuta (1965).pdf",
+      "countryLabel": "Abeokuta",
+      "name": "Abeokuta",
+      "year": "1965"
+    },
+    "S1ZxKnaGNe": {
+      "key": "S1ZxKnaGNe",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ado-Agbessa (1956).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ado-Agbessa (1956).pdf",
+      "countryLabel": "Ado-Agbessa",
+      "name": "Ado-Agbessa",
+      "year": "1956"
+    },
+    "rkfeYnpz4g": {
+      "key": "rkfeYnpz4g",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Afijio (1967).jpeg",
+      "pdfPath": "/laws/western_nigeria/Afijio (1967).pdf",
+      "countryLabel": "Afijio",
+      "name": "Afijio",
+      "year": "1967"
+    },
+    "B17lF26G4e": {
+      "key": "B17lF26G4e",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Agege (1956).jpeg",
+      "pdfPath": "/laws/western_nigeria/Agege (1956).pdf",
+      "countryLabel": "Agege",
+      "name": "Agege",
+      "year": "1956"
+    },
+    "rJVlKh6zNe": {
+      "key": "rJVlKh6zNe",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Agege (1962).jpeg",
+      "pdfPath": "/laws/western_nigeria/Agege (1962).pdf",
+      "countryLabel": "Agege",
+      "name": "Agege",
+      "year": "1962"
+    },
+    "H1SgtnTG4x": {
+      "key": "H1SgtnTG4x",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Aiyedade (1958).jpeg",
+      "pdfPath": "/laws/western_nigeria/Aiyedade (1958).pdf",
+      "countryLabel": "Aiyedade",
+      "name": "Aiyedade",
+      "year": "1958"
+    },
+    "HyUgY26zNl": {
+      "key": "HyUgY26zNl",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ajeromi (1962).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ajeromi (1962).pdf",
+      "countryLabel": "Ajeromi",
+      "name": "Ajeromi",
+      "year": "1962"
+    },
+    "BkweFhpfEl": {
+      "key": "BkweFhpfEl",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Akoko South (1964).jpeg",
+      "pdfPath": "/laws/western_nigeria/Akoko South (1964).pdf",
+      "countryLabel": "Akoko South",
+      "name": "Akoko South",
+      "year": "1964"
+    },
+    "Sy_xKnpG4g": {
+      "key": "Sy_xKnpG4g",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Akoko South (1970).jpeg",
+      "pdfPath": "/laws/western_nigeria/Akoko South (1970).pdf",
+      "countryLabel": "Akoko South",
+      "name": "Akoko South",
+      "year": "1970"
+    },
+    "SkYxYhpM4x": {
+      "key": "SkYxYhpM4x",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Akoko West (1965).jpeg",
+      "pdfPath": "/laws/western_nigeria/Akoko West (1965).pdf",
+      "countryLabel": "Akoko West",
+      "name": "Akoko West",
+      "year": "1965"
+    },
+    "HJceF2aM4x": {
+      "key": "HJceF2aM4x",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Awori (1961).jpeg",
+      "pdfPath": "/laws/western_nigeria/Awori (1961).pdf",
+      "countryLabel": "Awori",
+      "name": "Awori",
+      "year": "1961"
+    },
+    "rkixY36GNg": {
+      "key": "rkixY36GNg",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Control of Drumming Adoptive Bye-Laws Order (1956).jpeg",
+      "pdfPath": "/laws/western_nigeria/Control of Drumming Adoptive Bye-Laws Order (1956).pdf",
+      "countryLabel": "Control of Drumming Adoptive Bye-Laws Order",
+      "name": "Control of Drumming Adoptive Bye-Laws Order",
+      "year": "1956"
+    },
+    "SJhetn6zEx": {
+      "key": "SJhetn6zEx",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Edunabon_Moro (1959).jpeg",
+      "pdfPath": "/laws/western_nigeria/Edunabon_Moro (1959).pdf",
+      "countryLabel": "Edunabon_Moro",
+      "name": "Edunabon_Moro",
+      "year": "1959"
+    },
+    "HkaxKnaM4g": {
+      "key": "HkaxKnaM4g",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Egba-Ikereku (1956).jpeg",
+      "pdfPath": "/laws/western_nigeria/Egba-Ikereku (1956).pdf",
+      "countryLabel": "Egba-Ikereku",
+      "name": "Egba-Ikereku",
+      "year": "1956"
+    },
+    "Bk0xKnTfVg": {
+      "key": "Bk0xKnTfVg",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Egbedore (1962).jpeg",
+      "pdfPath": "/laws/western_nigeria/Egbedore (1962).pdf",
+      "countryLabel": "Egbedore",
+      "name": "Egbedore",
+      "year": "1962"
+    },
+    "BJ1-t3TfEe": {
+      "key": "BJ1-t3TfEe",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Egun-Awori (1958) 1.jpeg",
+      "pdfPath": "/laws/western_nigeria/Egun-Awori (1958) 1.pdf",
+      "countryLabel": "Egun-Awori",
+      "name": "Egun-Awori",
+      "year": "1958"
+    },
+    "BkeZYnaMEl": {
+      "key": "BkeZYnaMEl",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Egun-Awori (1958) 2.jpeg",
+      "pdfPath": "/laws/western_nigeria/Egun-Awori (1958) 2.pdf",
+      "countryLabel": "Egun-Awori",
+      "name": "Egun-Awori",
+      "year": "1958"
+    },
+    "HJZ-FhTMVg": {
+      "key": "HJZ-FhTMVg",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Egun-Awori (1958) 3.jpeg",
+      "pdfPath": "/laws/western_nigeria/Egun-Awori (1958) 3.pdf",
+      "countryLabel": "Egun-Awori",
+      "name": "Egun-Awori",
+      "year": "1958"
+    },
+    "B1MZF36fEg": {
+      "key": "B1MZF36fEg",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Egun-Awori (1958) 4.jpeg",
+      "pdfPath": "/laws/western_nigeria/Egun-Awori (1958) 4.pdf",
+      "countryLabel": "Egun-Awori",
+      "name": "Egun-Awori",
+      "year": "1958"
+    },
+    "HyXWFhTf4x": {
+      "key": "HyXWFhTf4x",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Egun-Awori (1958) 5.jpeg",
+      "pdfPath": "/laws/western_nigeria/Egun-Awori (1958) 5.pdf",
+      "countryLabel": "Egun-Awori",
+      "name": "Egun-Awori",
+      "year": "1958"
+    },
+    "B1E-tnaf4x": {
+      "key": "B1E-tnaf4x",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ekiti Northern (1965).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ekiti Northern (1965).pdf",
+      "countryLabel": "Ekiti Northern",
+      "name": "Ekiti Northern",
+      "year": "1965"
+    },
+    "H1HbK2az4g": {
+      "key": "H1HbK2az4g",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ekiti Western (1958).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ekiti Western (1958).pdf",
+      "countryLabel": "Ekiti Western",
+      "name": "Ekiti Western",
+      "year": "1958"
+    },
+    "Hk8Zt26zVl": {
+      "key": "Hk8Zt26zVl",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Eredo (1958).jpeg",
+      "pdfPath": "/laws/western_nigeria/Eredo (1958).pdf",
+      "countryLabel": "Eredo",
+      "name": "Eredo",
+      "year": "1958"
+    },
+    "S1vbth6GVe": {
+      "key": "S1vbth6GVe",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ese-Odo (1965).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ese-Odo (1965).pdf",
+      "countryLabel": "Ese-Odo",
+      "name": "Ese-Odo",
+      "year": "1965"
+    },
+    "H1uZY3TGVe": {
+      "key": "H1uZY3TGVe",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ese-Odo 2 (1965).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ese-Odo 2 (1965).pdf",
+      "countryLabel": "Ese-Odo 2",
+      "name": "Ese-Odo 2",
+      "year": "1965"
+    },
+    "ByFbKnaf4x": {
+      "key": "ByFbKnaf4x",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ese-Odo 3 (1965).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ese-Odo 3 (1965).pdf",
+      "countryLabel": "Ese-Odo 3",
+      "name": "Ese-Odo 3",
+      "year": "1965"
+    },
+    "HkqWFhaMNx": {
+      "key": "HkqWFhaMNx",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ibarapa East (1967).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ibarapa East (1967).pdf",
+      "countryLabel": "Ibarapa East",
+      "name": "Ibarapa East",
+      "year": "1967"
+    },
+    "H1sWK3pzEl": {
+      "key": "H1sWK3pzEl",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ibarapa West (1967).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ibarapa West (1967).pdf",
+      "countryLabel": "Ibarapa West",
+      "name": "Ibarapa West",
+      "year": "1967"
+    },
+    "B1hWthTf4g": {
+      "key": "B1hWthTf4g",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ibeju (1962).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ibeju (1962).pdf",
+      "countryLabel": "Ibeju",
+      "name": "Ibeju",
+      "year": "1962"
+    },
+    "Hk6bY3Tz4l": {
+      "key": "Hk6bY3Tz4l",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ife (1968).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ife (1968).pdf",
+      "countryLabel": "Ife",
+      "name": "Ife",
+      "year": "1968"
+    },
+    "Sy0WFn6MNl": {
+      "key": "Sy0WFn6MNl",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ifetedo (1960).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ifetedo (1960).pdf",
+      "countryLabel": "Ifetedo",
+      "name": "Ifetedo",
+      "year": "1960"
+    },
+    "BkkMth6fNe": {
+      "key": "BkkMth6fNe",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ijebu East Central (1965).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ijebu East Central (1965).pdf",
+      "countryLabel": "Ijebu East Central",
+      "name": "Ijebu East Central",
+      "year": "1965"
+    },
+    "rJxMK2pf4e": {
+      "key": "rJxMK2pf4e",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ijebu Eastern (1956).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ijebu Eastern (1956).pdf",
+      "countryLabel": "Ijebu Eastern",
+      "name": "Ijebu Eastern",
+      "year": "1956"
+    },
+    "rJWGt36M4l": {
+      "key": "rJWGt36M4l",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ijebu Imusin (1964).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ijebu Imusin (1964).pdf",
+      "countryLabel": "Ijebu Imusin",
+      "name": "Ijebu Imusin",
+      "year": "1964"
+    },
+    "HkMGF3pz4g": {
+      "key": "HkMGF3pz4g",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ijebu North-Western (1959).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ijebu North-Western (1959).pdf",
+      "countryLabel": "Ijebu North-Western",
+      "name": "Ijebu North-Western",
+      "year": "1959"
+    },
+    "Sy7GKhpf4l": {
+      "key": "Sy7GKhpf4l",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ijebu North-Western (1963).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ijebu North-Western (1963).pdf",
+      "countryLabel": "Ijebu North-Western",
+      "name": "Ijebu North-Western",
+      "year": "1963"
+    },
+    "HyVztnazNx": {
+      "key": "HyVztnazNx",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ijebu Northern (1959).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ijebu Northern (1959).pdf",
+      "countryLabel": "Ijebu Northern",
+      "name": "Ijebu Northern",
+      "year": "1959"
+    },
+    "rySMK3TzNl": {
+      "key": "rySMK3TzNl",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ijebu Northern (1965).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ijebu Northern (1965).pdf",
+      "countryLabel": "Ijebu Northern",
+      "name": "Ijebu Northern",
+      "year": "1965"
+    },
+    "rJLzt36fNg": {
+      "key": "rJLzt36fNg",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ijebu Southern (1959).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ijebu Southern (1959).pdf",
+      "countryLabel": "Ijebu Southern",
+      "name": "Ijebu Southern",
+      "year": "1959"
+    },
+    "BkPMK3pf4g": {
+      "key": "BkPMK3pf4g",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ijebu Waterside (1959).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ijebu Waterside (1959).pdf",
+      "countryLabel": "Ijebu Waterside",
+      "name": "Ijebu Waterside",
+      "year": "1959"
+    },
+    "SJufF2TG4x": {
+      "key": "SJufF2TG4x",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ijebu-Igbo (1964).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ijebu-Igbo (1964).pdf",
+      "countryLabel": "Ijebu-Igbo",
+      "name": "Ijebu-Igbo",
+      "year": "1964"
+    },
+    "BJKfKh6MEe": {
+      "key": "BJKfKh6MEe",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ijebu-Igbo (1975).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ijebu-Igbo (1975).pdf",
+      "countryLabel": "Ijebu-Igbo",
+      "name": "Ijebu-Igbo",
+      "year": "1975"
+    },
+    "rkcMtnpzEx": {
+      "key": "rkcMtnpzEx",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ijebu-Ode (1961).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ijebu-Ode (1961).pdf",
+      "countryLabel": "Ijebu-Ode",
+      "name": "Ijebu-Ode",
+      "year": "1961"
+    },
+    "rJjMY26M4g": {
+      "key": "rJjMY26M4g",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ijede (1958).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ijede (1958).pdf",
+      "countryLabel": "Ijede",
+      "name": "Ijede",
+      "year": "1958"
+    },
+    "rJ3fY2azNe": {
+      "key": "rJ3fY2azNe",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ikale Orisunmeta (1964).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ikale Orisunmeta (1964).pdf",
+      "countryLabel": "Ikale Orisunmeta",
+      "name": "Ikale Orisunmeta",
+      "year": "1964"
+    },
+    "ByTft3aG4l": {
+      "key": "ByTft3aG4l",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ikenne (1959).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ikenne (1959).pdf",
+      "countryLabel": "Ikenne",
+      "name": "Ikenne",
+      "year": "1959"
+    },
+    "SJAMt3aGVe": {
+      "key": "SJAMt3aGVe",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ikirun (1961).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ikirun (1961).pdf",
+      "countryLabel": "Ikirun",
+      "name": "Ikirun",
+      "year": "1961"
+    },
+    "B1JmFhaf4x": {
+      "key": "B1JmFhaf4x",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ikirun (1970).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ikirun (1970).pdf",
+      "countryLabel": "Ikirun",
+      "name": "Ikirun",
+      "year": "1970"
+    },
+    "HyeQF2pGNx": {
+      "key": "HyeQF2pGNx",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ikole (1965).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ikole (1965).pdf",
+      "countryLabel": "Ikole",
+      "name": "Ikole",
+      "year": "1965"
+    },
+    "r1WmFhpGNx": {
+      "key": "r1WmFhpGNx",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ikorodu (1958).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ikorodu (1958).pdf",
+      "countryLabel": "Ikorodu",
+      "name": "Ikorodu",
+      "year": "1958"
+    },
+    "SJzXFhTzEe": {
+      "key": "SJzXFhTzEe",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ikosi (1959).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ikosi (1959).pdf",
+      "countryLabel": "Ikosi",
+      "name": "Ikosi",
+      "year": "1959"
+    },
+    "SyQmFhaG4e": {
+      "key": "SyQmFhaG4e",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ikosi (1962).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ikosi (1962).pdf",
+      "countryLabel": "Ikosi",
+      "name": "Ikosi",
+      "year": "1962"
+    },
+    "S1NmFnpf4e": {
+      "key": "S1NmFnpf4e",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ila (1965).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ila (1965).pdf",
+      "countryLabel": "Ila",
+      "name": "Ila",
+      "year": "1965"
+    },
+    "ryHmKh6MVx": {
+      "key": "ryHmKh6MVx",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ila (1970).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ila (1970).pdf",
+      "countryLabel": "Ila",
+      "name": "Ila",
+      "year": "1970"
+    },
+    "Bk8QYnpM4e": {
+      "key": "Bk8QYnpM4e",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ilaje (1965).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ilaje (1965).pdf",
+      "countryLabel": "Ilaje",
+      "name": "Ilaje",
+      "year": "1965"
+    },
+    "rywQt3pMNl": {
+      "key": "rywQt3pMNl",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ilaro (1956).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ilaro (1956).pdf",
+      "countryLabel": "Ilaro",
+      "name": "Ilaro",
+      "year": "1956"
+    },
+    "SkdXt3pzVe": {
+      "key": "SkdXt3pzVe",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ileoluji_Okeigbo (1956).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ileoluji_Okeigbo (1956).pdf",
+      "countryLabel": "Ileoluji_Okeigbo",
+      "name": "Ileoluji_Okeigbo",
+      "year": "1956"
+    },
+    "HJt7FhaMVg": {
+      "key": "HJt7FhaMVg",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ilugun_Alaro (1956).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ilugun_Alaro (1956).pdf",
+      "countryLabel": "Ilugun_Alaro",
+      "name": "Ilugun_Alaro",
+      "year": "1956"
+    },
+    "rk57t3afVg": {
+      "key": "rk57t3afVg",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ilugun_Alaro (1958).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ilugun_Alaro (1958).pdf",
+      "countryLabel": "Ilugun_Alaro",
+      "name": "Ilugun_Alaro",
+      "year": "1958"
+    },
+    "BJoQYnaf4x": {
+      "key": "BJoQYnaf4x",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Imala (1961).jpeg",
+      "pdfPath": "/laws/western_nigeria/Imala (1961).pdf",
+      "countryLabel": "Imala",
+      "name": "Imala",
+      "year": "1961"
+    },
+    "HyhmKhTzEe": {
+      "key": "HyhmKhTzEe",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Imala (1964).jpeg",
+      "pdfPath": "/laws/western_nigeria/Imala (1964).pdf",
+      "countryLabel": "Imala",
+      "name": "Imala",
+      "year": "1964"
+    },
+    "BkaQYh6zEg": {
+      "key": "BkaQYh6zEg",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ipara (1959).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ipara (1959).pdf",
+      "countryLabel": "Ipara",
+      "name": "Ipara",
+      "year": "1959"
+    },
+    "HJR7FhaMNx": {
+      "key": "HJR7FhaMNx",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Iperu (1965).jpeg",
+      "pdfPath": "/laws/western_nigeria/Iperu (1965).pdf",
+      "countryLabel": "Iperu",
+      "name": "Iperu",
+      "year": "1965"
+    },
+    "Bky4K2TzNe": {
+      "key": "Bky4K2TzNe",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ipetumodu (1964).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ipetumodu (1964).pdf",
+      "countryLabel": "Ipetumodu",
+      "name": "Ipetumodu",
+      "year": "1964"
+    },
+    "rkeEYnazVe": {
+      "key": "rkeEYnazVe",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ipokia (1958).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ipokia (1958).pdf",
+      "countryLabel": "Ipokia",
+      "name": "Ipokia",
+      "year": "1958"
+    },
+    "SJWNK26zNx": {
+      "key": "SJWNK26zNx",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Irekari (1965).jpeg",
+      "pdfPath": "/laws/western_nigeria/Irekari (1965).pdf",
+      "countryLabel": "Irekari",
+      "name": "Irekari",
+      "year": "1965"
+    },
+    "BkGNKhaGEl": {
+      "key": "BkGNKhaGEl",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Irekari (1970).jpeg",
+      "pdfPath": "/laws/western_nigeria/Irekari (1970).pdf",
+      "countryLabel": "Irekari",
+      "name": "Irekari",
+      "year": "1970"
+    },
+    "BJQEt2pzEg": {
+      "key": "BJQEt2pzEg",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Irepo (1975).jpeg",
+      "pdfPath": "/laws/western_nigeria/Irepo (1975).pdf",
+      "countryLabel": "Irepo",
+      "name": "Irepo",
+      "year": "1975"
+    },
+    "H14VKhTMEg": {
+      "key": "H14VKhTMEg",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ishara (1959).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ishara (1959).pdf",
+      "countryLabel": "Ishara",
+      "name": "Ishara",
+      "year": "1959"
+    },
+    "r1HNt26GNg": {
+      "key": "r1HNt26GNg",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Iwo (1968).jpeg",
+      "pdfPath": "/laws/western_nigeria/Iwo (1968).pdf",
+      "countryLabel": "Iwo",
+      "name": "Iwo",
+      "year": "1968"
+    },
+    "HyUVtnazNe": {
+      "key": "HyUVtnazNe",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Lekki (1964).jpeg",
+      "pdfPath": "/laws/western_nigeria/Lekki (1964).pdf",
+      "countryLabel": "Lekki",
+      "name": "Lekki",
+      "year": "1964"
+    },
+    "HJDEthpzVl": {
+      "key": "HJDEthpzVl",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Makun (Shagamu) (1959).jpeg",
+      "pdfPath": "/laws/western_nigeria/Makun (Shagamu) (1959).pdf",
+      "countryLabel": "Makun",
+      "name": "Makun",
+      "year": "Shag"
+    },
+    "HkOVY36MVx": {
+      "key": "HkOVY36MVx",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Makun (Shagamu) (1962).jpeg",
+      "pdfPath": "/laws/western_nigeria/Makun (Shagamu) (1962).pdf",
+      "countryLabel": "Makun",
+      "name": "Makun",
+      "year": "Shag"
+    },
+    "Bkt4t3TzVe": {
+      "key": "Bkt4t3TzVe",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Mushin (1963).jpeg",
+      "pdfPath": "/laws/western_nigeria/Mushin (1963).pdf",
+      "countryLabel": "Mushin",
+      "name": "Mushin",
+      "year": "1963"
+    },
+    "Sy54tn6fVx": {
+      "key": "Sy54tn6fVx",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ode Remo (1971).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ode Remo (1971).pdf",
+      "countryLabel": "Ode Remo",
+      "name": "Ode Remo",
+      "year": "1971"
+    },
+    "ryjNFnazEx": {
+      "key": "ryjNFnazEx",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Offin (Shagamu) (1958).jpeg",
+      "pdfPath": "/laws/western_nigeria/Offin (Shagamu) (1958).pdf",
+      "countryLabel": "Offin",
+      "name": "Offin",
+      "year": "Shag"
+    },
+    "B124K2pfVl": {
+      "key": "B124K2pfVl",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ogere (1958).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ogere (1958).pdf",
+      "countryLabel": "Ogere",
+      "name": "Ogere",
+      "year": "1958"
+    },
+    "rk6NFnpG4l": {
+      "key": "rk6NFnpG4l",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Oka (1960).jpeg",
+      "pdfPath": "/laws/western_nigeria/Oka (1960).pdf",
+      "countryLabel": "Oka",
+      "name": "Oka",
+      "year": "1960"
+    },
+    "B1RNF36GNg": {
+      "key": "B1RNF36GNg",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Okeho_Iganna (1965).jpeg",
+      "pdfPath": "/laws/western_nigeria/Okeho_Iganna (1965).pdf",
+      "countryLabel": "Okeho_Iganna",
+      "name": "Okeho_Iganna",
+      "year": "1965"
+    },
+    "r1JrFhazNl": {
+      "key": "r1JrFhazNl",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ondo (1975).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ondo (1975).pdf",
+      "countryLabel": "Ondo",
+      "name": "Ondo",
+      "year": "1975"
+    },
+    "rkgHt3pGVe": {
+      "key": "rkgHt3pGVe",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Ondo Western (1965).jpeg",
+      "pdfPath": "/laws/western_nigeria/Ondo Western (1965).pdf",
+      "countryLabel": "Ondo Western",
+      "name": "Ondo Western",
+      "year": "1965"
+    },
+    "rkWBF3pfNx": {
+      "key": "rkWBF3pfNx",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Oshunmaiyegun (1964).jpeg",
+      "pdfPath": "/laws/western_nigeria/Oshunmaiyegun (1964).pdf",
+      "countryLabel": "Oshunmaiyegun",
+      "name": "Oshunmaiyegun",
+      "year": "1964"
+    },
+    "HyMrtn6zEe": {
+      "key": "HyMrtn6zEe",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Otta (1958).jpeg",
+      "pdfPath": "/laws/western_nigeria/Otta (1958).pdf",
+      "countryLabel": "Otta",
+      "name": "Otta",
+      "year": "1958"
+    },
+    "Bk7St3pf4x": {
+      "key": "Bk7St3pf4x",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Otun (1965).jpeg",
+      "pdfPath": "/laws/western_nigeria/Otun (1965).pdf",
+      "countryLabel": "Otun",
+      "name": "Otun",
+      "year": "1965"
+    },
+    "HyESFnpGEe": {
+      "key": "HyESFnpGEe",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Owo (1964).jpeg",
+      "pdfPath": "/laws/western_nigeria/Owo (1964).pdf",
+      "countryLabel": "Owo",
+      "name": "Owo",
+      "year": "1964"
+    },
+    "H1HSYnTM4l": {
+      "key": "H1HSYnTM4l",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Oyo Southern (1964).jpeg",
+      "pdfPath": "/laws/western_nigeria/Oyo Southern (1964).pdf",
+      "countryLabel": "Oyo Southern",
+      "name": "Oyo Southern",
+      "year": "1964"
+    },
+    "rJLHt26fNe": {
+      "key": "rJLHt26fNe",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Shaki (1965).jpeg",
+      "pdfPath": "/laws/western_nigeria/Shaki (1965).pdf",
+      "countryLabel": "Shaki",
+      "name": "Shaki",
+      "year": "1965"
+    },
+    "HJDSt26f4e": {
+      "key": "HJDSt26f4e",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Warri (1959).jpeg",
+      "pdfPath": "/laws/western_nigeria/Warri (1959).pdf",
+      "countryLabel": "Warri",
+      "name": "Warri",
+      "year": "1959"
+    }
+  }
+}

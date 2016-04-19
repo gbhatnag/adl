@@ -74,6 +74,7 @@
           </div>
           <div id="laws-grid">
             <div class="grid-sizer"></div>
+            <div id="laws-rendered"></div>
             <!--
             <div class="law-item {{countryId}} {{year}}">
               <a href="{{pdfPath}}">
@@ -83,7 +84,7 @@
                 <p class="law-year">{{year}}</p>
               </a>
             </div>
-            -->
+
             <div class="law-item malawi 1957">
               <a href="laws/malawi/1957/Malawi (1957).pdf">
                 <img class="law-thumb" src="laws/malawi/1957/Malawi (1957).jpeg" />
@@ -140,6 +141,7 @@
                 <p class="law-year">1958</p>
               </a>
             </div>
+            -->
           </div>
         </div>
 
@@ -157,9 +159,22 @@
           </div>
         </footer>
 
+        <script id="laws-template" type="x-tmpl-mustache">
+          {{#laws}}
+            <div class="law-item {{countryId}} {{year}}">
+              <a href="{{pdfPath}}">
+                <img class="law-thumb" src="{{thumbPath}}" />
+                <p class="law-name">{{name}}</p>
+                <p class="law-country">{{country}}</p>
+                <p class="law-year">{{year}}</p>
+              </a>
+            </div>
+          {{/laws}}
+        </script>
         <script src="js/vendor/jquery-1.12.0.min.js"></script>
         <script src="https://npmcdn.com/imagesloaded@4.1/imagesloaded.pkgd.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/2.2.2/isotope.pkgd.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/2.2.1/mustache.min.js"></script>
         <script src="js/vendor/velocity.min.js"></script>
         <script src="js/vendor/selectize.min.js"></script>
         <script src="js/plugins.js"></script>
