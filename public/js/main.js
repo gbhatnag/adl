@@ -21,7 +21,7 @@ $(function () {
   var $pwdSubmit   = $("button", $pwdForm);
   var $laws        = $("#adl-laws");
   var $lawsTemplate= $("#laws-template");
-  var $lawsRendered= $("#laws-rendered");
+  var $lawsRendered= $("#laws-grid");
   var years = {
     '*': [{label:"All years", year:"*"}, {label:"1956", year:1956}, {label:"1957", year:1957}, {label:"1958", year:1958}],
     malawi: [{label:"All years", year:"*"}, {label:"1957", year:1957}],
@@ -43,10 +43,7 @@ $(function () {
       // set up the grid
       $lawsGrid = $("#laws-grid").isotope({
         itemSelector: '.law-item',
-        percentPosition: true,
-        masonry: {
-          columnWidth: '.grid-sizer'
-        }
+        layoutMode: 'fitRows'
       });
       $lawsGrid.imagesLoaded().progress(function () {
         $lawsGrid.isotope('layout');

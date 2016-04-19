@@ -32,6 +32,7 @@
     content: "\e901";
 }
 
+/* Custom styles */
 body {
   color: #fff;
   background: url('../img/mapbg.jpg') no-repeat center center fixed;
@@ -201,14 +202,14 @@ button.control-btn span {
 /*
  * LAWS
  */
- #laws-filters {
-   text-align:center;
- }
- #laws-filters .selectize-control.single {
-   width:200px;
-   margin:0 5px;
-   display:inline-block;
- }
+#laws-filters {
+  text-align:center;
+}
+#laws-filters .selectize-control.single {
+  width:200px;
+  margin:0 5px;
+  display:inline-block;
+}
 #laws-grid {
   margin-top: 2em;
 }
@@ -217,20 +218,29 @@ button.control-btn span {
   display: block;
   clear: both;
 }
-.grid-sizer {width:25%;}
+.grid-sizer {width:160px;}
 .law-item {
   float:left;
-  width:25%;
+  width:160px;
+  height:306px;
 }
-a, a:hover, a:visited {
+.law-item:hover {
+  background-color: rgba(154,202,60,0.37);
+}
+a.block, a.block:hover, a.block:visited {
   color: white;
+  display: block;
   text-decoration: none;
 }
 .law-item img.law-thumb {
-  width: 90%;
+  width: 140px;
+  height: 225px;
   display: block;
-  padding: 5%;
+  padding: 10px;
 }
 .law-item p {
-  padding: 0 5%;
+  font-size: 12px;
+  padding: 0 10px;
+  margin:0;
+  line-height: 18px;
 }
