@@ -33,12 +33,15 @@
 }
 
 body {
-  color: #ccbc99;
+  color: #fff;
   background: url('../img/mapbg.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+p {
+  color: #ddd;
 }
 #password-screen {
   background-color: black;
@@ -86,17 +89,22 @@ header {
   margin:0;
   padding:20px;
   text-align:center;
+  height:345px;
 }
 header #adl-logo {
   width:300px;
+  position: relative;
+  top: -40px;
 }
 .intro {
   font-size: 18px;
   padding-bottom: 30px;
+  position: relative;
+  top: -60px;
 }
 nav {
   position:absolute;
-  top:113px;
+  top:161px;
   left:0;
   width:100%;
 }
@@ -197,7 +205,7 @@ button.control-btn span {
    text-align:center;
  }
  #laws-filters .selectize-control.single {
-   width:150px;
+   width:200px;
    margin:0 5px;
    display:inline-block;
  }

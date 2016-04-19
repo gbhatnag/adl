@@ -13,7 +13,8 @@ $(function () {
   var $video       = $("#adl-video");
   var $embed       = $("iframe", $video);
   var aspect       = $embed.height() / $embed.width();
-  var $intro       = $("#intro");
+  var $waIntro     = $("#watch-intro");
+  var $exIntro     = $("#explore-intro");
   var $pwdScreen   = $("#password-screen");
   var $pwdForm     = $("#password-form", $pwdScreen);
   var $pwdInput    = $("#password", $pwdForm);
@@ -94,7 +95,8 @@ $(function () {
       $pwdInput.focus();
     }
     return false;
-  })
+  });
+
   $exploreBtn.click(function (ev) {
     if (!isWatching) {
       return false;
@@ -105,7 +107,8 @@ $(function () {
       $closeBtn.click();
     }
     $video.velocity("fadeOut", {duration:500});
-    $intro.velocity("fadeOut", {duration:500});
+    $waIntro.velocity("fadeOut", {duration:500});
+    $exIntro.velocity("fadeIn", {delay:500, duration:500});
     $laws.velocity("fadeIn", {delay:500, duration:500, complete:function (ev) {
         if (!areLawsLoaded) {
           loadLaws();
@@ -125,8 +128,9 @@ $(function () {
       $closeBtn.click();
     }
     $laws.velocity("fadeOut", {duration:500});
+    $exIntro.velocity("fadeOut", {duration:500});
     $video.velocity("fadeIn", {delay:500, duration:500});
-    $intro.velocity("fadeIn", {delay:500, duration:500});
+    $waIntro.velocity("fadeIn", {delay:500, duration:500});
     isWatching = true;
   });
 
