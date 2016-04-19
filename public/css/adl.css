@@ -90,7 +90,7 @@ header {
 header #adl-logo {
   width:300px;
 }
-header #intro {
+.intro {
   font-size: 18px;
   padding-bottom: 30px;
 }
@@ -188,4 +188,41 @@ button.control-btn span {
 .media-item p {
   font-size:14px;
   margin:1em;
+}
+
+/*
+ * LAWS
+ */
+ #laws-filters {
+   text-align:center;
+ }
+ #laws-filters .selectize-control.single {
+   width:150px;
+   margin:0 5px;
+   display:inline-block;
+ }
+#laws-grid {
+  margin-top: 2em;
+}
+#laws-grid:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+.grid-sizer {width:25%;}
+.law-item {
+  float:left;
+  width:25%;
+}
+a, a:hover, a:visited {
+  color: white;
+  text-decoration: none;
+}
+.law-item img.law-thumb {
+  width: 90%;
+  display: block;
+  padding: 5%;
+}
+.law-item p {
+  padding: 0 5%;
 }
