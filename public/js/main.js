@@ -238,9 +238,9 @@ $(function () {
   var $body        = $("body");
   var $exploreBtn  = $("#explore-btn");
   var $watchBtn    = $("#watch-btn");
-  var $infoBtn     = $("#info-btn");
+  var $infoBtn     = $(".info-btn");
   var isInfoOn     = false;
-  var $closeBtn    = $("#close-btn");
+  var $closeBtn    = $(".close-btn");
   var $infoContent = $("#adl-info");
   var $video       = $("#adl-video");
   var $embed       = $("iframe", $video);
@@ -383,9 +383,6 @@ $(function () {
     $infoBtn.velocity("fadeOut", {duration:500});
     $infoContent.velocity("fadeIn", {delay:500, duration:500});
     $closeBtn.velocity("fadeIn", {delay:500, duration:500});
-    if (!isWatching) {
-      console.log("something specific to explore page here?");
-    }
     isInfoOn = true;
   });
 
@@ -396,9 +393,6 @@ $(function () {
     $infoContent.velocity("fadeOut", {duration:500});
     $closeBtn.velocity("fadeOut", {duration:500});
     $infoBtn.velocity("fadeIn", {delay:500, duration:500});
-    if (!isWatching) {
-      console.log("something specific to explore page here?");
-    }
     isInfoOn = false;
   });
 

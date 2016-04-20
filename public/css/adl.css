@@ -60,6 +60,8 @@ a:hover, .link:hover {
   display: table;
   z-index: 11;
   text-align: center;
+  top:0;
+  left:0;
 }
 .vertically-center {
   display: table-cell;
@@ -95,7 +97,7 @@ a:hover, .link:hover {
 }
 header {
   margin:0;
-  padding:20px;
+  padding:10px;
   text-align:center;
   height:345px;
 }
@@ -148,14 +150,8 @@ button.control-btn {
   position:fixed;
   top:20px;
   right:20px;
-  width:48px;
+  width:82px;
   z-index:4;
-}
-button.control-btn {
-  padding:12px 13px 8px 13px;
-}
-button.control-btn:hover {
-  padding-bottom:1px;
 }
 button.control-btn span {
   font-size:24px;
@@ -269,4 +265,44 @@ a.block, a.block:hover, a.block:visited {
   padding: 0 10px;
   margin:0;
   line-height: 18px;
+}
+
+/*
+ * Mobile view
+ */
+@media (max-width: 640px) {
+  nav {
+    position: fixed;
+    top: 20px;
+    font-size: 11px;
+    z-index:4;
+  }
+  nav ul {
+    text-align:left;
+  }
+  #watch-btn {
+    margin:0 5px 0 20px;
+  }
+  #explore-btn {
+    margin:0;
+  }
+  button.nav-btn {
+    width:82px;
+  }
+  header {
+    padding:0;
+  }
+  header h1 {
+    margin:2.5em 0 0;
+  }
+  header #adl-logo {
+    top: -30px;
+  }
+  header p.intro {
+    top:-85px;
+    padding:10px;
+  }
+  #adl-video, #adl-laws {
+    margin-top:25px;
+  }
 }
