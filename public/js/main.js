@@ -23,11 +23,12 @@ $(function () {
   var $lawsTemplate= $("#laws-template");
   var $lawsRendered= $("#laws-grid");
   var years = {
-    '*': [{label:"All years", year:"*"}, {label:"1956", year:1956}, {label:"1957", year:1957}, {label:"1958", year:1958}],
+    all: [{label:"All years", year:"*"}, {label:"1956", year:1956}, {label:"1957", year:1957}, {label:"1958", year:1958}],
     malawi: [{label:"All years", year:"*"}, {label:"1957", year:1957}],
     western_nigeria: [{label:"All years", year:"*"}, {label:"1956", year:1956}, {label:"1958", year:1958}]
   };
-  var selectedCountry = selectedYear = "*";
+  var selectedCountry = "all";
+  var selectedYear = "All Years";
   var $lawsGrid, selectCountryAPI, selectYearAPI;
 
   var areLawsLoaded = false;
@@ -53,11 +54,11 @@ $(function () {
   };
   var filterGrid = function (country, year) {
     var filter = '.' + selectedCountry + '.' + selectedYear;
-    if (country === "*" && year === "*") {
+    if (country === "all" && year === "All Years") {
       filter = '';
-    } else if (country === "*") {
+    } else if (country === "all") {
       filter = '.' + selectedYear;
-    } else if (year === "*") {
+    } else if (year === "All Years") {
       filter = '.' + selectedCountry;
     }
     $lawsGrid.isotope({filter: filter});
@@ -65,7 +66,7 @@ $(function () {
 
   // Init Components
   var $selectYear = $("#year").selectize({
-    valueField: 'year',
+    valueField: 'label',
     labelField: 'label',
     searchField: ['label'],
     onChange: function (value) {
