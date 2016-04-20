@@ -44,6 +44,13 @@ body {
 p {
   color: #ddd;
 }
+a, a:visited, .link {
+  color: #008751;
+  text-decoration: none;
+}
+a:hover, .link:hover {
+  color: #9aca3c;
+}
 #password-screen {
   background-color: black;
   position: fixed;
@@ -164,7 +171,8 @@ button.control-btn span {
   position:fixed;
   right:0;
   bottom:0;
-  width:320px;
+  width:300px;
+  padding:0 10px;
   height:100%;
   background-color:rgba(0,0,0,0.7);
   z-index:3;
@@ -173,14 +181,32 @@ button.control-btn span {
 }
 .side-drawer h3 {
   padding: 97px 0 0;
-  margin: 14px;
+  margin: 1em 0;
 }
-.side-drawer p {
+.side-drawer h4 {
+  margin: 2em 0 0;
+}
+p.body {
   font-size:14px;
 }
-.title {
-  font-weight:bold;
-  padding-top:1.5em;
+.side-drawer ul {
+  list-style-position: outside;
+  padding: 0;
+  font-size: 14px;
+  margin: 1em 0;
+}
+.side-drawer ul li {
+  margin-bottom: 7px;
+}
+.side-drawer img {
+  width:300px;
+  margin-bottom:1em;
+}
+.side-drawer canvas {
+  margin-bottom:2em;
+}
+p.title {
+  margin:1em 0 0.5em;
 }
 .media-item {
   margin:28px 0;
