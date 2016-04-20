@@ -1,3 +1,235 @@
+var countries = {
+  options: [
+    {
+      value: "all",
+      label: "All Countries"
+    },
+    {
+      value: "gambia",
+      label: "The Gambia"
+    },
+    {
+      value: "ghana",
+      label: "Ghana"
+    },
+    {
+      value: "malawi",
+      label: "Malawi"
+    },
+    {
+      value: "northern_nigeria",
+      label: "Northern Nigeria"
+    },
+    {
+      value: "seychelles",
+      label: "Seychelles"
+    },
+    {
+      value: "uganda",
+      label: "Uganda"
+    },
+    {
+      value: "western_nigeria",
+      label: "Western Nigeria"
+    }
+  ]
+};
+var years = {
+"all": [
+  {
+    "label": "All Years"
+  },
+  {
+    "label": "1920"
+  },
+  {
+    "label": "1926"
+  },
+  {
+    "label": "1928"
+  },
+  {
+    "label": "1933"
+  },
+  {
+    "label": "1942"
+  },
+  {
+    "label": "1951"
+  },
+  {
+    "label": "1952"
+  },
+  {
+    "label": "1955"
+  },
+  {
+    "label": "1956"
+  },
+  {
+    "label": "1957"
+  },
+  {
+    "label": "1958"
+  },
+  {
+    "label": "1959"
+  },
+  {
+    "label": "1960"
+  },
+  {
+    "label": "1961"
+  },
+  {
+    "label": "1962"
+  },
+  {
+    "label": "1963"
+  },
+  {
+    "label": "1964"
+  },
+  {
+    "label": "1965"
+  },
+  {
+    "label": "1967"
+  },
+  {
+    "label": "1968"
+  },
+  {
+    "label": "1970"
+  },
+  {
+    "label": "1971"
+  },
+  {
+    "label": "1975"
+  },
+  {
+    "label": "1997"
+  },
+  {
+    "label": "2005"
+  }
+],
+"gambia": [
+  {
+    "label": "All Years"
+  },
+  {
+    "label": "1926"
+  },
+  {
+    "label": "1942"
+  },
+  {
+    "label": "1955"
+  }
+],
+"ghana": [
+  {
+    "label": "All Years"
+  },
+  {
+    "label": "1920"
+  },
+  {
+    "label": "1928"
+  },
+  {
+    "label": "1951"
+  },
+  {
+    "label": "1997"
+  },
+  {
+    "label": "2005"
+  }
+],
+"malawi": [
+  {
+    "label": "All Years"
+  },
+  {
+    "label": "1933"
+  },
+  {
+    "label": "1957"
+  }
+],
+"northern_nigeria": [
+  {
+    "label": "All Years"
+  },
+  {
+    "label": "1958"
+  },
+  {
+    "label": "1965"
+  }
+],
+"seychelles": [
+  {
+    "label": "1952"
+  }
+],
+"uganda": [
+  {
+    "label": "1951"
+  }
+],
+"western_nigeria": [
+  {
+    "label": "All Years"
+  },
+  {
+    "label": "1956"
+  },
+  {
+    "label": "1958"
+  },
+  {
+    "label": "1959"
+  },
+  {
+    "label": "1960"
+  },
+  {
+    "label": "1961"
+  },
+  {
+    "label": "1962"
+  },
+  {
+    "label": "1963"
+  },
+  {
+    "label": "1964"
+  },
+  {
+    "label": "1965"
+  },
+  {
+    "label": "1967"
+  },
+  {
+    "label": "1968"
+  },
+  {
+    "label": "1970"
+  },
+  {
+    "label": "1971"
+  },
+  {
+    "label": "1975"
+  }
+]
+};
+
 var map, initOptions, exploreOptions, watchOptions;
 var isWatching = true;
 
@@ -22,11 +254,7 @@ $(function () {
   var $laws        = $("#adl-laws");
   var $lawsTemplate= $("#laws-template");
   var $lawsRendered= $("#laws-grid");
-  var years = {
-    all: [{label:"All years", year:"*"}, {label:"1956", year:1956}, {label:"1957", year:1957}, {label:"1958", year:1958}],
-    malawi: [{label:"All years", year:"*"}, {label:"1957", year:1957}],
-    western_nigeria: [{label:"All years", year:"*"}, {label:"1956", year:1956}, {label:"1958", year:1958}]
-  };
+
   var selectedCountry = "all";
   var selectedYear = "All Years";
   var $lawsGrid, selectCountryAPI, selectYearAPI;
@@ -66,6 +294,8 @@ $(function () {
 
   // Init Components
   var $selectYear = $("#year").selectize({
+    options: years.all,
+    items: ['All Years'],
     valueField: 'label',
     labelField: 'label',
     searchField: ['label'],
@@ -78,6 +308,11 @@ $(function () {
     }
   });
   var $selectCountry = $("#country").selectize({
+    options: countries.options,
+    items: ['all'],
+    valueField: 'value',
+    labelField: 'label',
+    searchField: ['label'],
     onChange: function (value) {
       if (!value.length) {
         return;
