@@ -230,56 +230,16 @@ var years = {
 ]
 };
 
-var map, initOptions, exploreOptions, watchOptions;
-var isWatching = true;
-
 // On page load
 $(function () {
-  var $body        = $("body");
-  var $exploreBtn  = $("#explore-btn");
-  var $watchBtn    = $("#watch-btn");
-  var $infoBtn     = $(".info-btn");
-  var isInfoOn     = false;
-  var $closeBtn    = $(".close-btn");
-  var $infoContent = $("#adl-info");
-  var $video       = $("#adl-video");
-  var $embed       = $("iframe", $video);
-  var aspect       = $embed.height() / $embed.width();
-  var $waIntro     = $("#watch-intro");
-  var $exIntro     = $("#explore-intro");
-  var $pwdScreen   = $("#password-screen");
-  var $pwdForm     = $("#password-form", $pwdScreen);
-  var $pwdInput    = $("#password", $pwdForm);
-  var $pwdSubmit   = $("button", $pwdForm);
-  var $laws        = $("#adl-laws");
-  var $lawsTemplate= $("#laws-template");
-  var $lawsRendered= $("#laws-grid");
-
+  var $lawsCount      = $("#laws-count");
+  var $lawsTemplate   = $("#laws-template");
+  var $lawsRendered   = $("#laws-grid");
   var selectedCountry = "all";
-  var selectedYear = "All Years";
+  var selectedYear    = "All Years";
   var $lawsGrid, selectCountryAPI, selectYearAPI;
 
-  var areLawsLoaded = false;
-  var loadLaws = function () {
-    if (areLawsLoaded) {
-      return;
-    }
-    // render template
-    $.getJSON("../laws/laws.json", function (json) {
-      var rendered = Mustache.render($lawsTemplate.html(), json);
-      $lawsRendered.html(rendered);
-
-      // set up the grid
-      $lawsGrid = $("#laws-grid").isotope({
-        itemSelector: '.law-item',
-        layoutMode: 'fitRows'
-      });
-      $lawsGrid.imagesLoaded().progress(function () {
-        $lawsGrid.isotope('layout');
-        areLawsLoaded = true;
-      });
-    });
-  };
+  // filter the isotope grid with the given country, year
   var filterGrid = function (country, year) {
     var filter = '.' + selectedCountry + '.' + selectedYear;
     if (country === "all" && year === "All Years") {
@@ -292,7 +252,15 @@ $(function () {
     $lawsGrid.isotope({filter: filter});
   };
 
-  // Init Components
+  // every time there's a grid redraw, update the UI
+  var updateGridUI = function () {
+    var count = $(".law-item:visible").length;
+    var text = " laws";
+    if (count === 1) text = " law";
+    $lawsCount.html(count + text);
+  };
+
+  // initialize filtering components
   var $selectYear = $("#year").selectize({
     options: years.all,
     items: ['All Years'],
@@ -327,79 +295,20 @@ $(function () {
   selectCountryAPI = $selectCountry[0].selectize;
   selectYearAPI    = $selectYear[0].selectize;
 
-  // EVENTS
-  $pwdForm.submit(function (ev) {
-    if ($pwdInput.val() === "ATUMPAN") {
-      $pwdScreen.velocity("fadeOut", {duration:500});
-    } else {
-      alert("Incorrect password. Please try again.");
-      $pwdInput.val('');
-      $pwdInput.focus();
-    }
-    return false;
-  });
+  // fetch and render laws
+  $.getJSON("../laws/laws.json", function (json) {
+    var rendered = Mustache.render($lawsTemplate.html(), json);
+    $lawsRendered.html(rendered);
 
-  $exploreBtn.click(function (ev) {
-    if (!isWatching) {
-      return false;
-    }
-    $watchBtn.removeClass("active");
-    $exploreBtn.addClass("active");
-    if (isInfoOn) {
-      $closeBtn.click();
-    }
-    $video.velocity("fadeOut", {duration:500});
-    $waIntro.velocity("fadeOut", {duration:500});
-    $exIntro.velocity("fadeIn", {delay:500, duration:500});
-    $laws.velocity("fadeIn", {delay:500, duration:500, complete:function (ev) {
-        if (!areLawsLoaded) {
-          loadLaws();
-        }
-      }
+    // set up the grid
+    $lawsGrid = $("#laws-grid").isotope({
+      itemSelector: '.law-item',
+      layoutMode: 'fitRows'
     });
-    isWatching = false;
+    $lawsGrid.on('layoutComplete', updateGridUI);
+    $lawsGrid.on('arrangeComplete', updateGridUI);
+    $lawsGrid.imagesLoaded().progress(function () {
+      $lawsGrid.isotope('layout');
+    });
   });
-
-  $watchBtn.click(function (ev) {
-    if (isWatching) {
-      return false;
-    }
-    $exploreBtn.removeClass("active");
-    $watchBtn.addClass("active");
-    if (isInfoOn) {
-      $closeBtn.click();
-    }
-    $laws.velocity("fadeOut", {duration:500});
-    $exIntro.velocity("fadeOut", {duration:500});
-    $video.velocity("fadeIn", {delay:500, duration:500});
-    $waIntro.velocity("fadeIn", {delay:500, duration:500});
-    isWatching = true;
-  });
-
-  $infoBtn.click(function (ev) {
-    if (isInfoOn) {
-      return false;
-    }
-    $infoBtn.velocity("fadeOut", {duration:500});
-    $infoContent.velocity("fadeIn", {delay:500, duration:500});
-    $closeBtn.velocity("fadeIn", {delay:500, duration:500});
-    isInfoOn = true;
-  });
-
-  $closeBtn.click(function (ev) {
-    if (!isInfoOn) {
-      return false;
-    }
-    $infoContent.velocity("fadeOut", {duration:500});
-    $closeBtn.velocity("fadeOut", {duration:500});
-    $infoBtn.velocity("fadeIn", {delay:500, duration:500});
-    isInfoOn = false;
-  });
-
-  // handle window / video resize
-  $(window).resize(function (ev) {
-    var width = $body.width() * 0.75;
-    $embed.width(width);
-    $embed.height(width * aspect);
-  }).resize();
 });

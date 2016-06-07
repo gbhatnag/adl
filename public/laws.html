@@ -63,23 +63,24 @@
 
             <div id="page-wrapper">
                 <div class="row">
-                    <div class="col-lg-12">
-                        <p class="lead">To access the laws, please click on an image to
+                    <div class="col-xs-12">
+                        <p class="big">To access the laws, please click on an image to
                           download a PDF file containing the full text.</p>
                     </div>
                     <!-- /.col-lg-12 -->
                 </div>
                 <!-- /.row -->
-                <div class="row">
-                    <div class="col-lg-12">
-                      <div id="adl-laws">
+                <div id="adl-laws" class="row">
+                    <div class="col-xs-12">
                         <div id="laws-filters">
-                          <select id="country" name="country"></select>
-                          <select id="year" name="year"></select>
+                          <p id="filter-controls">Showing &nbsp; <span id="laws-count"></span> &nbsp;
+                            from <select id="country" name="country"></select>
+                            published during <select id="year" name="year"></select>
+                          </p>
                         </div>
 
                         <div id="laws-grid">
-                          <!--
+                          <!--  SAMPLE MARKUP BELOW
                           <div class="grid-sizer"></div>
                           <div class="law-item malawi 1957">
                             <a class="block" href="laws/malawi/Malawi (1957).pdf">
@@ -139,7 +140,6 @@
                           </div>
                         -->
                         </div>
-                      </div>
                     </div>
                 </div>
                 <!-- /.row -->
@@ -152,7 +152,7 @@
           <div class="grid-sizer"></div>
           {{#laws}}
             <div class="law-item {{countryID}} {{year}}">
-              <a class="block" href="{{pdfPath}}">
+              <a class="block noline" href="{{pdfPath}}" target="_blank">
                 <img class="law-thumb" src="{{thumbPath}}" />
                 <p class="law-name">{{name}}</p>
                 <p class="law-country">{{countryLabel}}</p>
