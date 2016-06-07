@@ -1,0 +1,184 @@
+<!doctype html>
+<html class="no-js" lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>The Laws // African Drumming Laws</title>
+        <meta name="description" content="The ADL project aims to provide a better understanding of how and why the British controlled and criminalized drumming, dancing and related gatherings that were so crucial to the civic and spiritual growth of native African communities.">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+        <link href='https://fonts.googleapis.com/css?family=Lato:400,700,300' rel='stylesheet' type='text/css'>
+
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+
+        <link href="bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+        <link href="bower_components/metisMenu/dist/metisMenu.min.css" rel="stylesheet">
+        <link href="dist/css/sb-admin-2.css" rel="stylesheet">
+        <link href="bower_components/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="css/adl.css">
+        <link rel="stylesheet" href="css/vendor/selectize.default.css">
+        <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+    </head>
+    <body>
+        <!--[if lt IE 9]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+        <div id="adl-map-overlay" class="bg-layer"></div>
+        <div id="wrapper">
+            <!-- Navigation -->
+            <nav class="navbar navbar-default navbar-static-top" role="navigation" style="margin-bottom: 0">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand noline" href="index.html"><img id="adl-logo" src="img/adl-logo-text.png" /></a>
+                </div>
+                <!-- /.navbar-header -->
+
+                <div class="navbar-default sidebar" role="navigation">
+                    <div class="sidebar-nav navbar-collapse">
+                        <ul class="nav" id="side-menu">
+                            <li>
+                                <a href="index.html" class="noline"><i class="fa fa-globe fa-fw"></i> The Project</a>
+                            </li>
+                            <li>
+                                <a href="laws.html" class="active noline"><i class="fa fa-book fa-fw"></i> The Laws</a>
+                            </li>
+                            <li>
+                                <a href="drums.html" class="noline"><i class="fa fa-dot-circle-o fa-fw"></i> The Drums</a>
+                            </li>
+                            <li>
+                                <a href="community.html" class="noline"><i class="fa fa-comments fa-fw"></i> The Community</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- /.sidebar-collapse -->
+                </div>
+                <!-- /.navbar-static-side -->
+            </nav>
+
+            <div id="page-wrapper">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <p class="lead">To access the laws, please click on an image to
+                          download a PDF file containing the full text.</p>
+                    </div>
+                    <!-- /.col-lg-12 -->
+                </div>
+                <!-- /.row -->
+                <div class="row">
+                    <div class="col-lg-12">
+                      <div id="adl-laws">
+                        <div id="laws-filters">
+                          <select id="country" name="country"></select>
+                          <select id="year" name="year"></select>
+                        </div>
+
+                        <div id="laws-grid">
+                          <!--
+                          <div class="grid-sizer"></div>
+                          <div class="law-item malawi 1957">
+                            <a class="block" href="laws/malawi/Malawi (1957).pdf">
+                              <img class="law-thumb" src="laws/malawi/Malawi (1957).jpeg" />
+                              <p class="law-name">Malawi</p>
+                              <p class="law-country">Malawi</p>
+                              <p class="law-year">1957</p>
+                            </a>
+                          </div>
+                          <div class="law-item western_nigeria 1956">
+                            <a class="block" href="laws/western_nigeria/Abeokuta (1956).pdf">
+                              <img class="law-thumb" src="laws/western_nigeria/Abeokuta (1956).jpeg" />
+                              <p class="law-name">Abeokuta</p>
+                              <p class="law-country">Western Nigeria</p>
+                              <p class="law-year">1956</p>
+                            </a>
+                          </div>
+                          <div class="law-item western_nigeria 1956">
+                            <a class="block" href="laws/western_nigeria/Ado-Agbessa (1956).pdf">
+                              <img class="law-thumb" src="laws/western_nigeria/Ado-Agbessa (1956).jpeg" />
+                              <p class="law-name">Ado-Igbessa</p>
+                              <p class="law-country">Western Nigeria</p>
+                              <p class="law-year">1956</p>
+                            </a>
+                          </div>
+                          <div class="law-item western_nigeria 1956">
+                            <a class="block" href="laws/western_nigeria/Agege (1956).pdf">
+                              <img class="law-thumb" src="laws/western_nigeria/Agege (1956).jpeg" />
+                              <p class="law-name">Agege</p>
+                              <p class="law-country">Western Nigeria</p>
+                              <p class="law-year">1956</p>
+                            </a>
+                          </div>
+                          <div class="law-item western_nigeria 1958">
+                            <a class="block" href="laws/western_nigeria/Eredo (1958).pdf">
+                              <img class="law-thumb" src="laws/western_nigeria/Eredo (1958).jpeg" />
+                              <p class="law-name">Eredo</p>
+                              <p class="law-country">Western Nigeria</p>
+                              <p class="law-year">1958</p>
+                            </a>
+                          </div>
+                          <div class="law-item western_nigeria 1958">
+                            <a class="block" href="laws/western_nigeria/Ijede (1958).pdf">
+                              <img class="law-thumb" src="laws/western_nigeria/Ijede (1958).jpeg" />
+                              <p class="law-name">Ijede</p>
+                              <p class="law-country">Western Nigeria</p>
+                              <p class="law-year">1958</p>
+                            </a>
+                          </div>
+                          <div class="law-item western_nigeria 1958">
+                            <a class="block" href="laws/western_nigeria/Ikorodu (1958).pdf">
+                              <img class="law-thumb" src="laws/western_nigeria/Ikorodu (1958).jpeg" />
+                              <p class="law-name">Ikorodu</p>
+                              <p class="law-country">Western Nigeria</p>
+                              <p class="law-year">1958</p>
+                            </a>
+                          </div>
+                        -->
+                        </div>
+                      </div>
+                    </div>
+                </div>
+                <!-- /.row -->
+            </div>
+            <!-- /#page-wrapper -->
+        </div>
+        <!-- /#wrapper -->
+
+        <script id="laws-template" type="x-tmpl-mustache">
+          <div class="grid-sizer"></div>
+          {{#laws}}
+            <div class="law-item {{countryID}} {{year}}">
+              <a class="block" href="{{pdfPath}}">
+                <img class="law-thumb" src="{{thumbPath}}" />
+                <p class="law-name">{{name}}</p>
+                <p class="law-country">{{countryLabel}}</p>
+                <p class="law-year">{{year}}</p>
+              </a>
+            </div>
+          {{/laws}}
+        </script>
+
+        <script src="js/vendor/jquery-1.12.0.min.js"></script>
+        <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+        <script src="bower_components/metisMenu/dist/metisMenu.min.js"></script>
+        <script src="https://npmcdn.com/imagesloaded@4.1/imagesloaded.pkgd.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/2.2.2/isotope.pkgd.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/2.2.1/mustache.min.js"></script>
+        <script src="js/vendor/velocity.min.js"></script>
+        <script src="js/vendor/selectize.min.js"></script>
+        <script src="js/main.js"></script>
+
+        <script>
+            (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+            function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+            e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+            e.src='https://www.google-analytics.com/analytics.js';
+            r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+            ga('create','UA-76698417-1','auto');ga('send','pageview');
+        </script>
+    </body>
+</html>

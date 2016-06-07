@@ -35,6 +35,7 @@
 /* Custom styles */
 body {
   color: #fff;
+  font-family: 'Lato', sans-serif;
   background: url('../img/mapbg.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -42,15 +43,24 @@ body {
   background-size: cover;
 }
 p {
-  color: #ddd;
+  font-size: 18px;
+  line-height: 27px;
+}
+p.lead {
+  font-size: 36px;
+  line-height: 54px;
 }
 a, a:visited, .link {
-  color: #008751;
+  color: #c2fbd5;
   text-decoration: none;
+  border-bottom: 1px solid #536c5b;
 }
 a:hover, .link:hover {
-  color: #9aca3c;
+  color: #c2fbd5;
+  border-bottom: 1px solid #c2fbd5;
+  text-decoration: none;
 }
+a.noline {border:none;}
 #password-screen {
   background-color: black;
   position: fixed;
@@ -95,73 +105,14 @@ a:hover, .link:hover {
   z-index:-1;
   background-color:rgba(0,0,0,0.7);
 }
-header {
-  margin:0;
-  padding:10px;
-  text-align:center;
-  height:345px;
-}
-header #adl-logo {
-  width:300px;
-  position: relative;
-  top: -40px;
+#adl-video {
+  margin-top: 54px;
 }
 .intro {
   font-size: 18px;
   padding-bottom: 30px;
   position: relative;
   top: -60px;
-}
-nav {
-  position:absolute;
-  top:161px;
-  left:0;
-  width:100%;
-}
-nav ul {
-  text-align:center;
-  margin:0;
-  padding:0;
-}
-nav ul li {
-  display:inline-block;
-  margin:0;
-}
-button.nav-btn {
-  border: none;
-  background: white;
-  padding: 13px;
-  width: 113px;
-  color: black;
-  font-weight: bold;
-}
-button.nav-btn:hover,
-button.nav-btn.active {
-  padding-bottom:4px;
-  border-bottom:9px solid #008751;
-}
-#watch-btn {
-  margin-right:130px;
-}
-#explore-btn {
-  margin-left:130px;
-}
-button.control-btn {
-  position:fixed;
-  top:20px;
-  right:20px;
-  width:82px;
-  z-index:4;
-}
-button.control-btn span {
-  font-size:24px;
-  line-height:24px;
-}
-#adl-video {
-	padding-bottom:150px;
-}
-#adl-video iframe {
-  margin-left:12.5%;
 }
 .side-drawer {
   position:fixed;
@@ -267,42 +218,37 @@ a.block, a.block:hover, a.block:visited {
   line-height: 18px;
 }
 
+/* Footer */
+.footer-sidebar {
+  position:fixed;
+  bottom: 15px;
+  left: 15px;
+}
+.footer-sidebar img {
+  width: 220px;
+  opacity: 0.2;
+}
+@media (min-width:768px) {
+  .footer-content {
+    margin-left: 280px;
+    padding-bottom: 15px;
+    padding-top: 125px;
+  }
+}
+
 /*
- * Mobile view
+ * Theme overrides
  */
-@media (max-width: 640px) {
-  nav {
-    position: fixed;
-    top: 20px;
-    font-size: 11px;
-    z-index:4;
-  }
-  nav ul {
-    text-align:left;
-  }
-  #watch-btn {
-    margin:0 5px 0 20px;
-  }
-  #explore-btn {
-    margin:0;
-  }
-  button.nav-btn {
-    width:82px;
-  }
-  header {
-    padding:0;
-  }
-  header h1 {
-    margin:2.5em 0 0;
-  }
-  header #adl-logo {
-    top: -30px;
-  }
-  header p.intro {
-    top:-85px;
-    padding:10px;
-  }
-  #adl-video, #adl-laws {
-    margin-top:25px;
-  }
+.navbar-default, #page-wrapper, .navbar, .sidebar ul li {
+  background-color: transparent;
+  border: none;
+}
+.navbar-brand {height:auto;}
+.nav>li>a {font-size:18px;}
+.nav>li>a:focus, .nav>li>a:hover, .sidebar ul li a.active {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+@media (min-width: 768px) {
+  .sidebar {margin-top:150px; position:fixed;}
+  #adl-logo {margin:20px 0 0 7px;}
 }
