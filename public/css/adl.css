@@ -228,11 +228,12 @@ a.block, a.block:hover, a.block:visited {
   width: 220px;
   opacity: 0.2;
 }
+.footer-content {
+  padding: 125px 15px 15px 15px;
+}
 @media (min-width:768px) {
   .footer-content {
-    margin-left: 280px;
-    padding-bottom: 15px;
-    padding-top: 125px;
+    margin-left: 265px;
   }
 }
 
