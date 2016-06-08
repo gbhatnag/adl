@@ -1,0 +1,137 @@
+<!doctype html>
+<html class="no-js" lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>The Drums // African Drumming Laws</title>
+        <meta name="description" content="The ADL project aims to provide a better understanding of how and why the British controlled and criminalized drumming, dancing and related gatherings that were so crucial to the civic and spiritual growth of native African communities.">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+        <link href='https://fonts.googleapis.com/css?family=Lato:400,700,300' rel='stylesheet' type='text/css'>
+
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+
+        <link href="bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+        <link href="bower_components/metisMenu/dist/metisMenu.min.css" rel="stylesheet">
+        <link href="dist/css/sb-admin-2.css" rel="stylesheet">
+        <link href="bower_components/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="css/adl.css">
+        <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+    </head>
+    <body>
+        <!--[if lt IE 9]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+        <div id="adl-map"></div>
+        <div id="wrapper" style="display:none;">
+          <div id="page-wrapper">
+            <div id="drum-content">
+              <div class="row">
+                  <div class="col-xs-12">
+                      <p class="big">MAP HERE PLEASE.</p>
+                      <p class="center">
+                        <a href="#" id="map-launcher">Launch Fullscreen Map</a>
+                      </p>
+                  </div>
+                  <!-- /.col-lg-12 -->
+              </div>
+              <!-- /.row -->
+            </div>
+            <!-- /#drum-content -->
+            <div id="drum-chooser">
+              <div class="row">
+                <div class="col-xs-12">
+                  <a id="dundun" href="#" class="drum-item noline" title="Iyaalu Dundun">
+                    <img class="img-responsive" src="img/drums/dundun.jpg" />
+                  </a>
+                  <a id="sakara" href="#" class="drum-item noline" title="Sakara">
+                    <img class="img-responsive" src="img/drums/sakara.jpg" />
+                  </a>
+                  <a id="moresoon" href="#" class="drum-item noline" title="More Coming Soon...">
+                    <img class="img-responsive" src="img/drums/moresoon.jpg" />
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+            <!-- /#page-wrapper -->
+        </div>
+        <!-- /#wrapper -->
+
+        <script src="js/vendor/jquery-1.12.0.min.js"></script>
+        <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+        <script src="bower_components/metisMenu/dist/metisMenu.min.js"></script>
+        <script>
+          var map, initOptions;
+          var markers = {};
+          var styles = [
+            {
+              "featureType": "administrative",
+              "elementType": "labels",
+              "stylers": [
+                { "visibility": "on" }
+              ]
+            },{
+              "featureType": "administrative",
+              "elementType": "geometry",
+              "stylers": [
+                { "visibility": "on" }
+              ]
+            }
+          ];
+
+          function initMap() {
+            console.log("init map");
+            initOptions = {
+              center: {lat: 9.081999, lng: 8.675277},
+              zoom: 7,
+              maxZoom: 7,
+              minZoom: 7,
+              mapTypeId: google.maps.MapTypeId.HYBRID,
+              mapTypeControl: false,
+              streetViewControl: false,
+              zoomControl: false
+            };
+            map = new google.maps.Map(document.getElementById('adl-map'), initOptions);
+
+            var nigeria = new google.maps.Marker({
+              position: {lat:9.8305941, lng:7.8743232},
+              map: map,
+              title: "Nigeria",
+              icon: "http://maps.google.com/mapfiles/ms/icons/red-dot.png"
+            });
+
+            var ghana = new google.maps.Marker({
+              position: {lat:8.0539901, lng:-1.2199273},
+              map: map,
+              title: "Ghana",
+              icon: "http://maps.google.com/mapfiles/ms/icons/red-dot.png"
+            });
+
+            markers.m1 = nigeria;
+            markers.m2 = ghana;
+          }
+
+          // On page load
+          $(function () {
+            var $map = $("#adl-map");
+            var resizemap = function () {
+              console.log("resizing map");
+              $map.height($(window).height());
+            };
+            $(window).resize(resizemap);
+            resizemap();
+          });
+        </script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAr9dAZw4tz4j6DMh4mW9POijsdQcDLNSQ&callback=initMap" async defer></script>
+        <script>
+            (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+            function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+            e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+            e.src='https://www.google-analytics.com/analytics.js';
+            r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+            ga('create','UA-76698417-1','auto');ga('send','pageview');
+        </script>
+    </body>
+</html>

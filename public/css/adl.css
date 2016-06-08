@@ -47,8 +47,15 @@ p {
   font-size: 1.5em;
   line-height: 1.5;
 }
-p.big {
+.margintop {
+  margin-top: 50px;
+}
+.big, .feature-header {
   font-size: 2.5em;
+  margin-bottom: 1.5em;
+}
+.feature-header {
+  margin-bottom: 10px;
 }
 a, a:visited, .link {
   color: #c2fbd5;
@@ -75,14 +82,12 @@ a:hover > p > img {opacity:0.7;}
   z-index:-2;
 }
 #adl-map {
-  height:100%;
+  height:0;
+  width:100%;
 }
 #adl-map-overlay {
   z-index:-1;
   background-color:rgba(0,0,0,0.7);
-}
-#adl-video {
-  margin-top: 3.2em;
 }
 #features {
   margin-top: 8em;
@@ -148,9 +153,6 @@ p.title {
 /*
  * LAWS
  */
-#adl-laws {
-  margin-top: 2em;
-}
 #laws-count {
   font-weight: 700;
 }
@@ -164,7 +166,7 @@ p.title {
   display: inline-flex;
 }
 #laws-grid {
-  margin-top: 2em;
+  margin-top: 1em;
 }
 #laws-grid:after {
   content: '';
@@ -179,7 +181,7 @@ p.title {
   margin: 0 0 20px 0;
 }
 .law-item:hover {
-  background-color: rgba(154,202,60,0.37);
+  background-color: rgba(194,251,213,0.25);
 }
 a.block, a.block:hover, a.block:visited {
   color: white;

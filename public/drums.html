@@ -64,8 +64,12 @@
             <div id="page-wrapper">
                 <div class="row">
                     <div class="col-xs-12">
-                        <p class="big">Learn about traditional African drums and their origin using the interactive map.</p>
-                        <p>Coming soon... ?</p>
+                        <p class="big">Learn about traditional African drums and
+                          how they were controlled through British colonial law
+                          using the interactive map.</p>
+                        <p class="center">
+                          <a href="#" id="map-launcher">Launch Fullscreen Map</a>
+                        </p>
                     </div>
                     <!-- /.col-lg-12 -->
                 </div>
@@ -99,6 +103,20 @@
         <script src="js/vendor/jquery-1.12.0.min.js"></script>
         <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
         <script src="bower_components/metisMenu/dist/metisMenu.min.js"></script>
+
+        <script>
+         $(function () {
+           var wrapper = document.getElementById("wrapper");
+           $("#map-launcher").click(function (ev) {
+             if (wrapper.mozRequestFullScreen) {
+                document.documentElement.mozRequestFullScreen();
+              } else {
+                document.documentElement.webkitRequestFullScreen(Element.ALLOW_KEYBOARD_INPUT);
+              }
+             window.location.replace("/map.html");
+           });
+         });
+       </script>
 
         <script>
             (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
