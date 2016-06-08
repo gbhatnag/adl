@@ -24,104 +24,211 @@
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
         <div id="adl-map"></div>
-        <div id="wrapper" style="display:none;">
-          <div id="page-wrapper">
+        <div id="map-content">
             <div id="drum-content">
               <div class="row">
                   <div class="col-xs-12">
-                      <p class="big">MAP HERE PLEASE.</p>
-                      <p class="center">
-                        <a href="#" id="map-launcher">Launch Fullscreen Map</a>
+                      <p id="drum-help" class="alert alert-info" role="alert">
+                        <i class="fa fa-chevron-circle-down fa-fw"></i> Select a drum to reveal information and laws.
                       </p>
                   </div>
-                  <!-- /.col-lg-12 -->
               </div>
-              <!-- /.row -->
             </div>
-            <!-- /#drum-content -->
             <div id="drum-chooser">
-              <div class="row">
-                <div class="col-xs-12">
-                  <a id="dundun" href="#" class="drum-item noline" title="Iyaalu Dundun">
-                    <img class="img-responsive" src="img/drums/dundun.jpg" />
-                  </a>
-                  <a id="sakara" href="#" class="drum-item noline" title="Sakara">
-                    <img class="img-responsive" src="img/drums/sakara.jpg" />
-                  </a>
-                  <a id="moresoon" href="#" class="drum-item noline" title="More Coming Soon...">
-                    <img class="img-responsive" src="img/drums/moresoon.jpg" />
-                  </a>
-                </div>
+              <div id="drum-scroller">
+                <img id="dundun" class="drum-item" src="img/drums/dundun.jpg" title="Iyaalu Dundun" />
+                <img id="sakara" class="drum-item" src="img/drums/sakara.jpg" title="Sakara" />
+                <img id="more1" class="drum-item" src="img/drums/more1.jpg" title="Need more data..." />
+                <img id="more2" class="drum-item" src="img/drums/more2.jpg" title="Need more data..." />
+                <img id="more3" class="drum-item" src="img/drums/more3.jpg" title="Need more data..." />
+                <img id="more4" class="drum-item" src="img/drums/more4.jpg" title="Need more data..." />
+                <img id="more5" class="drum-item" src="img/drums/more5.jpg" title="Need more data..." />
+                <img id="moresoon" class="drum-item" src="img/drums/moresoon.jpg" title="More drums coming soon..." />
               </div>
+            </div>
+        </div>
+
+        <script id="infowindow-template" type="x-tmpl-mustache">
+          <div class="infowindow">
+            <p>{{name}}</p>
+            <p class="small">Laws from
+              {{#laws}}
+                <a href="{{pdfPath}}" target="_blank">{{year}}</a>,
+              {{/laws}}
+            </p>
+            <p class="small">Regulating {{#drums}} <strong>{{.}}</strong>, {{/drums}}</p>
+          </div>
+        </script>
+
+        <script id="drumwindow-template" type="x-tmpl-mustache">
+          <div class="druminfo row">
+            <div class="col-md-4">
+              <img class="img-responsive" src="{{imgPath}}" />
+            </div>
+            <div class="col-md-4">
+              <p>{{description}}</p>
+            </div>
+            <div class="col-md-4">
+              <p><strong>Regulated In</strong></p>
+              {{#laws}}
+                <p>{{.}}</p>
+              {{/laws}}
             </div>
           </div>
-            <!-- /#page-wrapper -->
-        </div>
-        <!-- /#wrapper -->
+        </script>
 
         <script src="js/vendor/jquery-1.12.0.min.js"></script>
         <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
         <script src="bower_components/metisMenu/dist/metisMenu.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/2.2.1/mustache.min.js"></script>
         <script>
-          var map, initOptions;
+          var map, initOptions, infoWindow;
+          var styles = [{
+            featureType: "road",
+            elementType: "labels",
+            stylers: [
+              { visibility: "off" }
+            ]
+          }, {
+            featureType: "road",
+            elementType: "geometry",
+            stylers: [
+              { visibility: "off" }
+            ]
+          }, {
+            featureType: "administrative",
+            elementType: "geometry",
+            stylers: [
+              { visibility: "off" }
+            ]
+          }, {
+            featureType: "administrative.country",
+            elementType: "geometry",
+            stylers: [
+              { visibility: "on" }
+            ]
+          }];
           var markers = {};
-          var styles = [
-            {
-              "featureType": "administrative",
-              "elementType": "labels",
-              "stylers": [
-                { "visibility": "on" }
-              ]
-            },{
-              "featureType": "administrative",
-              "elementType": "geometry",
-              "stylers": [
-                { "visibility": "on" }
-              ]
-            }
-          ];
+          var $infowindowTemplate = $("#infowindow-template");
 
           function initMap() {
-            console.log("init map");
             initOptions = {
-              center: {lat: 9.081999, lng: 8.675277},
+              center: {lat: 7.122696, lng: 5.635986},
               zoom: 7,
               maxZoom: 7,
               minZoom: 7,
               mapTypeId: google.maps.MapTypeId.HYBRID,
               mapTypeControl: false,
               streetViewControl: false,
-              zoomControl: false
+              zoomControl: false,
+              styles: styles
             };
             map = new google.maps.Map(document.getElementById('adl-map'), initOptions);
+            infowindow = new google.maps.InfoWindow();
 
-            var nigeria = new google.maps.Marker({
-              position: {lat:9.8305941, lng:7.8743232},
-              map: map,
-              title: "Nigeria",
-              icon: "http://maps.google.com/mapfiles/ms/icons/red-dot.png"
+            // fetch data for markers and infowindow
+            $.getJSON("../laws/laws.json", function (json) {
+              var laws = json.laws;
+              for (var i = 0; i < laws.length; i++) {
+                var law = laws[i];
+                if (law.location) {
+                  var marker = new google.maps.Marker({
+                    position: {lat:law.location.lat, lng:law.location.lon},
+                    map: map,
+                    title: law.name,
+                    key: law.key,
+                    icon: "http://maps.google.com/mapfiles/ms/icons/red-dot.png"
+                  });
+
+                  // stash this marker with law data
+                  var save = {
+                    marker: marker,
+                    law: law
+                  };
+                  markers[law.key] = save;
+
+                  // listen for clicks on this marker
+                  marker.addListener("click", function () {
+                    var l = markers[this.key].law;
+                    var mm = markers[this.key].marker;
+                    var infodata = {
+                      name: l.name,
+                      laws: [],
+                      drums: l.drums
+                    };
+                    for (var key in markers) {
+                      if (!markers.hasOwnProperty(key)) continue;
+                      var m = markers[key];
+                      if (m.law.name == l.name) {
+                        var ls = {
+                          year: m.law.year,
+                          pdfPath: m.law.pdfPath
+                        };
+                        infodata.laws.push(ls);
+                      }
+                    }
+                    var infocontent = Mustache.render($infowindowTemplate.html(), infodata);
+                    infowindow.close();
+                    infowindow.setContent(infocontent);
+                    infowindow.open(map, mm);
+                  });
+                }
+              }
             });
-
-            var ghana = new google.maps.Marker({
-              position: {lat:8.0539901, lng:-1.2199273},
-              map: map,
-              title: "Ghana",
-              icon: "http://maps.google.com/mapfiles/ms/icons/red-dot.png"
-            });
-
-            markers.m1 = nigeria;
-            markers.m2 = ghana;
           }
+
+          var descriptions = {
+            dundun: 'Double-headed hourglass tension drum played with a curved stick. Functions as a speech surrogate or "talking drum" that imitates the tones and inflectiosn of the Yoruba language. Pitch is controlled by applying pressure to the cords with the hand and wrist. The iyaalu ("mother drum") is the leader of the dundun ensemble.',
+            sakara: 'Clay frame drum, played with a slender wooden stick, used to accompany praise singing at Yoruba Muslim social-religious events.',
+            more1: 'We need to OCR the laws and process more data cross-referencing more drums and laws',
+            more2: 'We need to OCR the laws and process more data cross-referencing more drums and laws',
+            more3: 'We need to OCR the laws and process more data cross-referencing more drums and laws',
+            more4: 'We need to OCR the laws and process more data cross-referencing more drums and laws',
+            more5: 'We need to OCR the laws and process more data cross-referencing more drums and laws',
+            moresoon: 'We need to OCR the laws and process more data cross-referencing more drums and laws'
+          };
+
+          var drumlaws = {
+            dundun: ["Ijebu Northern, 1959", "Ijebu Waterside, 1959", "Ikenne, 1959", "Ikosi, 1959, 1962"],
+            sakara: ["Shaki, 1959", "Ipara, 1959", "Ishara, 1959", "Abeokuta, 1959, 1962"],
+            more1: ["need", "more", "data", "processing"],
+            more2: ["need", "more", "data", "processing"],
+            more3: ["need", "more", "data", "processing"],
+            more4: ["need", "more", "data", "processing"],
+            more5: ["need", "more", "data", "processing"],
+            moresoon: ["need", "more", "data", "processing"]
+          };
 
           // On page load
           $(function () {
+            var isHelpOn = true;
             var $map = $("#adl-map");
+            var $drumScroller = $("#drum-scroller");
+            var $drumwindowTemplate = $("#drumwindow-template");
             var resizemap = function () {
-              console.log("resizing map");
               $map.height($(window).height());
+              $drumScroller.width($(window).width());
             };
             $(window).resize(resizemap);
             resizemap();
+            $('.drum-item').tooltip();
+
+            // handle drum clicks
+            $(".drum-item").click(function (ev) {
+              if (isHelpOn) {
+                $("#drum-help").remove();
+                isHelpOn = false;
+              }
+              var $drum = $(this.id);
+              $(".drum-item").removeClass("selected");
+              $drum.addClass("selected");
+              var druminfo = {
+                imgPath: "img/drums/" + this.id + ".jpg",
+                description: descriptions[this.id],
+                laws: drumlaws[this.id]
+              };
+              $("#drum-content").html(Mustache.render($drumwindowTemplate.html(), druminfo));
+            });
           });
         </script>
         <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAr9dAZw4tz4j6DMh4mW9POijsdQcDLNSQ&callback=initMap" async defer></script>

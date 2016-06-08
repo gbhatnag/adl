@@ -133,7 +133,12 @@
       "thumbPath": "/laws/western_nigeria/Abeokuta (1956).jpeg",
       "pdfPath": "/laws/western_nigeria/Abeokuta (1956).pdf",
       "name": "Abeokuta",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 7.145309,
+        "lon": 3.359045
+      },
+      "drums": ["Sakara", "Iyaalu Dundun"]
     },
     {
       "key": "Bk0WMOU4x",
@@ -142,7 +147,12 @@
       "thumbPath": "/laws/western_nigeria/Abeokuta (1960).jpeg",
       "pdfPath": "/laws/western_nigeria/Abeokuta (1960).pdf",
       "name": "Abeokuta",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 7.145309,
+        "lon": 3.359045
+      },
+      "drums": ["Sakara", "Iyaalu Dundun"]
     },
     {
       "key": "Sy1eWG_INe",
@@ -151,7 +161,12 @@
       "thumbPath": "/laws/western_nigeria/Abeokuta (1962).jpeg",
       "pdfPath": "/laws/western_nigeria/Abeokuta (1962).pdf",
       "name": "Abeokuta",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 7.145309,
+        "lon": 3.359045
+      },
+      "drums": ["Sakara", "Iyaalu Dundun"]
     },
     {
       "key": "H1lx-MdI4l",
@@ -160,7 +175,12 @@
       "thumbPath": "/laws/western_nigeria/Abeokuta (1965).jpeg",
       "pdfPath": "/laws/western_nigeria/Abeokuta (1965).pdf",
       "name": "Abeokuta",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 7.145309,
+        "lon": 3.359045
+      },
+      "drums": ["Sakara", "Iyaalu Dundun"]
     },
     {
       "key": "S1-lWMOI4g",
@@ -430,7 +450,12 @@
       "thumbPath": "/laws/western_nigeria/Ifetedo (1960).jpeg",
       "pdfPath": "/laws/western_nigeria/Ifetedo (1960).pdf",
       "name": "Ifetedo",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 7.195197,
+        "lon": 4.70593
+      },
+      "drums": ["Sakara", "Iyaalu Dundun"]
     },
     {
       "key": "rkkzZMdINx",
@@ -565,7 +590,12 @@
       "thumbPath": "/laws/western_nigeria/Ikenne (1959).jpeg",
       "pdfPath": "/laws/western_nigeria/Ikenne (1959).pdf",
       "name": "Ikenne",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 6.871742,
+        "lon": 3.710512
+      },
+      "drums": ["Sakara"]
     },
     {
       "key": "By0zbz_I4x",
@@ -610,7 +640,12 @@
       "thumbPath": "/laws/western_nigeria/Ikosi (1959).jpeg",
       "pdfPath": "/laws/western_nigeria/Ikosi (1959).pdf",
       "name": "Ikosi",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 6.60877,
+        "lon": 3.703914
+      },
+      "drums": ["Iyaalu Dundun"]
     },
     {
       "key": "SyQQWMOLNe",
@@ -619,7 +654,12 @@
       "thumbPath": "/laws/western_nigeria/Ikosi (1962).jpeg",
       "pdfPath": "/laws/western_nigeria/Ikosi (1962).pdf",
       "name": "Ikosi",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 6.60877,
+        "lon": 3.703914
+      },
+      "drums": ["Iyaalu Dundun"]
     },
     {
       "key": "BJ4Q-Md8Eg",
@@ -772,7 +812,12 @@
       "thumbPath": "/laws/western_nigeria/Ishara (1959).jpeg",
       "pdfPath": "/laws/western_nigeria/Ishara (1959).pdf",
       "name": "Ishara",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 6.987191,
+        "lon": 3.677536
+      },
+      "drums": ["Sakara", "Iyaalu Dundun"]
     },
     {
       "key": "ByrE-z_L4g",
@@ -934,7 +979,12 @@
       "thumbPath": "/laws/western_nigeria/Shaki (1965).jpeg",
       "pdfPath": "/laws/western_nigeria/Shaki (1965).pdf",
       "name": "Shaki",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 8.672557,
+        "lon": 3.394332
+      },
+      "drums": ["Sakara"]
     },
     {
       "key": "rkwHZfdIEl",

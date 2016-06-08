@@ -84,6 +84,50 @@ a:hover > p > img {opacity:0.7;}
 #adl-map {
   height:0;
   width:100%;
+  position: fixed!important;
+  top:0;
+  left:0;
+}
+#map-content {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+#drum-help {
+  margin: 15px 30px;
+}
+#drum-content {
+  background-color:rgba(0,0,0,0.7);
+}
+#drum-chooser {
+  background: black;
+}
+#drum-scroller {
+  width:830px;
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+}
+img.drum-item {
+  width: 100px;
+  padding: 3px 3px;
+  cursor: pointer;
+}
+img.drum-item:hover, img.drum-item.selected {
+  background-color: #c2fbd5;
+}
+.infowindow {
+  color:black;
+}
+.infowindow p {
+  font-size:16px;
+}
+.infowindow p.small {
+  font-size:12px;
+}
+.infowindow p a {
+  color: #536c5b;
 }
 #adl-map-overlay {
   z-index:-1;
