@@ -144,15 +144,306 @@
       "key": "Bk0WMOU4x",
       "countryID": "western_nigeria",
       "year": "1960",
+      "date_of_publication": null,
+      "date_of_issue": "8 November 1960",
+      "date_of_effect": "17 November 1960",
       "thumbPath": "/laws/western_nigeria/Abeokuta (1960).jpeg",
       "pdfPath": "/laws/western_nigeria/Abeokuta (1960).pdf",
       "name": "Abeokuta",
+      "district": "Abeokuta",
       "countryLabel": "Western Nigeria",
       "location": {
         "lat": 7.145309,
         "lon": 3.359045
       },
-      "drums": ["Sakara", "Iyaalu Dundun"]
+      "drums": [
+        {
+          "drum_name": "Sakara",
+          "drum_id": "sakara",
+          "fee_schedules": [
+            {
+              "period_start": "6 am",
+              "period_end": "6 pm",
+              "fee": {
+                "s": 15,
+                "d": 0
+              }
+            },
+            {
+              "period_start": "6 pm",
+              "period_end": "6 am",
+              "fee": {
+                "s": 25,
+                "d": 0
+              }
+            }
+          ]
+        },
+        {
+          "drum_name": "Iya-Ilu",
+          "drum_id": "iyaalu",
+          "fee_schedules": [
+            {
+              "period_start": "6 am",
+              "period_end": "6 pm",
+              "fee": {
+                "s": 10,
+                "d": 0
+              }
+            },
+            {
+              "period_start": "6 pm",
+              "period_end": "6 am",
+              "fee": {
+                "s": 15,
+                "d": 0
+              }
+            }
+          ]
+        },
+        {
+          "drum_name": "Dundun",
+          "drum_id": "dundun",
+          "fee_schedules": [
+            {
+              "period_start": "6 am",
+              "period_end": "6 pm",
+              "fee": {
+                "s": 25,
+                "d": 0
+              }
+            },
+            {
+              "period_start": "6 pm",
+              "period_end": "6 am",
+              "fee": {
+                "s": 25,
+                "d": 0
+              }
+            }
+          ]
+        },
+        {
+          "drum_name": "Sekere",
+          "drum_id": "sekere",
+          "fee_schedules": [
+            {
+              "period_start": "6 am",
+              "period_end": "6 pm",
+              "fee": {
+                "s": 25,
+                "d": 0
+              }
+            },
+            {
+              "period_start": "6 pm",
+              "period_end": "6 am",
+              "fee": {
+                "s": 25,
+                "d": 0
+              }
+            }
+          ]
+        },
+        {
+          "drum_name": "Aro",
+          "drum_id": "aro",
+          "fee_schedules": [
+            {
+              "period_start": "6 am",
+              "period_end": "6 pm",
+              "fee": {
+                "s": 25,
+                "d": 0
+              }
+            },
+            {
+              "period_start": "6 pm",
+              "period_end": "6 am",
+              "fee": {
+                "s": 25,
+                "d": 0
+              }
+            }
+          ]
+        },
+        {
+          "drum_name": "Kete",
+          "drum_id": "kete",
+          "fee_schedules": [
+            {
+              "period_start": "6 am",
+              "period_end": "6 pm",
+              "fee": {
+                "s": 12,
+                "d": 6
+              }
+            },
+            {
+              "period_start": "6 pm",
+              "period_end": "6 am",
+              "fee": {
+                "s": 12,
+                "d": 6
+              }
+            }
+          ]
+        },
+        {
+          "drum_name": "Agasa",
+          "drum_id": "agasa",
+          "fee_schedules": [
+            {
+              "period_start": "6 am",
+              "period_end": "6 pm",
+              "fee": {
+                "s": 12,
+                "d": 6
+              }
+            },
+            {
+              "period_start": "6 pm",
+              "period_end": "6 am",
+              "fee": {
+                "s": 12,
+                "d": 6
+              }
+            }
+          ]
+        },
+        {
+          "drum_name": "Konkoma",
+          "drum_id": "konkoma",
+          "fee_schedules": [
+            {
+              "period_start": "6 am",
+              "period_end": "6 pm",
+              "fee": {
+                "s": 11,
+                "d": 0
+              }
+            },
+            {
+              "period_start": "6 pm",
+              "period_end": "6 am",
+              "fee": {
+                "s": 11,
+                "d": 0
+              }
+            }
+          ]
+        },
+        {
+          "drum_name": "Agidigbo",
+          "drum_id": "agidigbo",
+          "fee_schedules": [
+            {
+              "period_start": "6 am",
+              "period_end": "6 pm",
+              "fee": {
+                "s": 15,
+                "d": 0
+              }
+            },
+            {
+              "period_start": "6 pm",
+              "period_end": "6 am",
+              "fee": {
+                "s": 15,
+                "d": 0
+              }
+            }
+          ]
+        },
+        {
+          "drum_name": "Mambo Orchestra",
+          "drum_id": "mambo_orchestra",
+          "fee_schedules": [
+            {
+              "period_start": "6 am",
+              "period_end": "6 pm",
+              "fee": {
+                "s": 15,
+                "d": 0
+              }
+            },
+            {
+              "period_start": "6 pm",
+              "period_end": "6 am",
+              "fee": {
+                "s": 15,
+                "d": 0
+              }
+            }
+          ]
+        },
+        {
+          "drum_name": "Batakoto",
+          "drum_id": "batakoto",
+          "fee_schedules": [
+            {
+              "period_start": "6 am",
+              "period_end": "6 pm",
+              "fee": {
+                "s": 10,
+                "d": 0
+              }
+            },
+            {
+              "period_start": "6 pm",
+              "period_end": "6 am",
+              "fee": {
+                "s": 10,
+                "d": 0
+              }
+            }
+          ]
+        },
+        {
+          "drum_name": "Apala",
+          "drum_id": "apala",
+          "fee_schedules": [
+            {
+              "period_start": "6 am",
+              "period_end": "6 pm",
+              "fee": {
+                "s": 15,
+                "d": 0
+              }
+            },
+            {
+              "period_start": "6 pm",
+              "period_end": "6 am",
+              "fee": {
+                "s": 15,
+                "d": 0
+              }
+            }
+          ]
+        },
+        {
+          "drum_name": "Juju",
+          "drum_id": "juju",
+          "fee_schedules": [
+            {
+              "period_start": "6 am",
+              "period_end": "6 pm",
+              "fee": {
+                "s": 15,
+                "d": 0
+              }
+            },
+            {
+              "period_start": "6 pm",
+              "period_end": "6 am",
+              "fee": {
+                "s": 15,
+                "d": 0
+              }
+            }
+          ]
+        }
+      ]
     },
     {
       "key": "Sy1eWG_INe",
