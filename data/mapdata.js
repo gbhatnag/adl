@@ -5,7 +5,7 @@ const fs = require('fs');
 // filename constants
 var LAW_DATA = 'laws_wn.json';
 var OUTPUT_DATA = 'laws_wn_latlon.json';
-var DATA_FILE = 'mapdata/dc_latlon01.csv';
+var DATA_FILE = 'mapdata/dc_latlon03.csv';
 
 // load current JSON data
 var lawdata = JSON.parse(fs.readFileSync(LAW_DATA, 'utf8'));

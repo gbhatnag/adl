@@ -9,10 +9,13 @@
       "name": "Abeokuta",
       "countryLabel": "Western Nigeria",
       "location": {
-        "lat": 7.145309,
-        "lon": 3.359045
+        "lat": 7.161,
+        "lon": 3.348
       },
-      "drums": ["Sakara", "Iyaalu Dundun"]
+      "drums": [
+        "Sakara",
+        "Iyaalu Dundun"
+      ]
     },
     {
       "key": "Bk0WMOU4x",
@@ -27,8 +30,8 @@
       "district": "Abeokuta",
       "countryLabel": "Western Nigeria",
       "location": {
-        "lat": 7.145309,
-        "lon": 3.359045
+        "lat": 7.161,
+        "lon": 3.348
       },
       "drums": [
         {
@@ -328,10 +331,13 @@
       "name": "Abeokuta",
       "countryLabel": "Western Nigeria",
       "location": {
-        "lat": 7.145309,
-        "lon": 3.359045
+        "lat": 7.161,
+        "lon": 3.348
       },
-      "drums": ["Sakara", "Iyaalu Dundun"]
+      "drums": [
+        "Sakara",
+        "Iyaalu Dundun"
+      ]
     },
     {
       "key": "H1lx-MdI4l",
@@ -342,10 +348,13 @@
       "name": "Abeokuta",
       "countryLabel": "Western Nigeria",
       "location": {
-        "lat": 7.145309,
-        "lon": 3.359045
+        "lat": 7.161,
+        "lon": 3.348
       },
-      "drums": ["Sakara", "Iyaalu Dundun"]
+      "drums": [
+        "Sakara",
+        "Iyaalu Dundun"
+      ]
     },
     {
       "key": "S1-lWMOI4g",
@@ -354,7 +363,11 @@
       "thumbPath": "/laws/western_nigeria/Ado-Agbessa (1956).jpeg",
       "pdfPath": "/laws/western_nigeria/Ado-Agbessa (1956).pdf",
       "name": "Ado-Agbessa",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": null,
+        "lon": null
+      }
     },
     {
       "key": "ByGxWfd8Vg",
@@ -363,7 +376,11 @@
       "thumbPath": "/laws/western_nigeria/Afijio (1967).jpeg",
       "pdfPath": "/laws/western_nigeria/Afijio (1967).pdf",
       "name": "Afijio",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 7.713611,
+        "lon": 3.917222
+      }
     },
     {
       "key": "rkXlZf_I4g",
@@ -372,7 +389,11 @@
       "thumbPath": "/laws/western_nigeria/Agege (1956).jpeg",
       "pdfPath": "/laws/western_nigeria/Agege (1956).pdf",
       "name": "Agege",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 6.6229165,
+        "lon": 3.3203386
+      }
     },
     {
       "key": "S14gbzdIEl",
@@ -381,7 +402,11 @@
       "thumbPath": "/laws/western_nigeria/Agege (1962).jpeg",
       "pdfPath": "/laws/western_nigeria/Agege (1962).pdf",
       "name": "Agege",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 6.6229165,
+        "lon": 3.3203386
+      }
     },
     {
       "key": "HJHlWGuUVx",
@@ -390,7 +415,11 @@
       "thumbPath": "/laws/western_nigeria/Aiyedade (1958).jpeg",
       "pdfPath": "/laws/western_nigeria/Aiyedade (1958).pdf",
       "name": "Aiyedade",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 7.3441,
+        "lon": 4.2991
+      }
     },
     {
       "key": "B18lbz_8El",
@@ -399,7 +428,11 @@
       "thumbPath": "/laws/western_nigeria/Ajeromi (1962).jpeg",
       "pdfPath": "/laws/western_nigeria/Ajeromi (1962).pdf",
       "name": "Ajeromi",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 6.4554,
+        "lon": 3.3359
+      }
     },
     {
       "key": "SJPe-MOLNe",
@@ -408,7 +441,11 @@
       "thumbPath": "/laws/western_nigeria/Akoko South (1964).jpeg",
       "pdfPath": "/laws/western_nigeria/Akoko South (1964).pdf",
       "name": "Akoko South",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": null,
+        "lon": null
+      }
     },
     {
       "key": "SJ_lWG_LEg",
@@ -417,7 +454,11 @@
       "thumbPath": "/laws/western_nigeria/Akoko South (1970).jpeg",
       "pdfPath": "/laws/western_nigeria/Akoko South (1970).pdf",
       "name": "Akoko South",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": null,
+        "lon": null
+      }
     },
     {
       "key": "S1FgbzdUEg",
@@ -426,7 +467,11 @@
       "thumbPath": "/laws/western_nigeria/Akoko West (1965).jpeg",
       "pdfPath": "/laws/western_nigeria/Akoko West (1965).pdf",
       "name": "Akoko West",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": null,
+        "lon": null
+      }
     },
     {
       "key": "Hk9l-z_LEl",
@@ -435,7 +480,11 @@
       "thumbPath": "/laws/western_nigeria/Awori (1961).jpeg",
       "pdfPath": "/laws/western_nigeria/Awori (1961).pdf",
       "name": "Awori",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 7,
+        "lon": 3.85
+      }
     },
     {
       "key": "H1oebfOLVe",
@@ -453,7 +502,11 @@
       "thumbPath": "/laws/western_nigeria/Edunabon_Moro (1959).jpeg",
       "pdfPath": "/laws/western_nigeria/Edunabon_Moro (1959).pdf",
       "name": "Edunabon_Moro",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 7.55,
+        "lon": 4.45094
+      }
     },
     {
       "key": "r1axbfuU4g",
@@ -462,7 +515,11 @@
       "thumbPath": "/laws/western_nigeria/Egba-Ikereku (1956).jpeg",
       "pdfPath": "/laws/western_nigeria/Egba-Ikereku (1956).pdf",
       "name": "Egba-Ikereku",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": null,
+        "lon": null
+      }
     },
     {
       "key": "rJ0lbMu84x",
@@ -471,7 +528,11 @@
       "thumbPath": "/laws/western_nigeria/Egbedore (1962).jpeg",
       "pdfPath": "/laws/western_nigeria/Egbedore (1962).pdf",
       "name": "Egbedore",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 7.7887,
+        "lon": 4.4445
+      }
     },
     {
       "key": "HJJbbG_UNg",
@@ -525,7 +586,11 @@
       "thumbPath": "/laws/western_nigeria/Ekiti Northern (1965).jpeg",
       "pdfPath": "/laws/western_nigeria/Ekiti Northern (1965).pdf",
       "name": "Ekiti Northern",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": null,
+        "lon": null
+      }
     },
     {
       "key": "HJH-WMuLNx",
@@ -534,7 +599,11 @@
       "thumbPath": "/laws/western_nigeria/Ekiti Western (1958).jpeg",
       "pdfPath": "/laws/western_nigeria/Ekiti Western (1958).pdf",
       "name": "Ekiti Western",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": null,
+        "lon": null
+      }
     },
     {
       "key": "BkIZbfuLEe",
@@ -543,7 +612,11 @@
       "thumbPath": "/laws/western_nigeria/Eredo (1958).jpeg",
       "pdfPath": "/laws/western_nigeria/Eredo (1958).pdf",
       "name": "Eredo",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 6.70836,
+        "lon": 3.9146
+      }
     },
     {
       "key": "Syw-Zfu8Ex",
@@ -579,7 +652,11 @@
       "thumbPath": "/laws/western_nigeria/Ibarapa East (1967).jpeg",
       "pdfPath": "/laws/western_nigeria/Ibarapa East (1967).pdf",
       "name": "Ibarapa East",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 7.5854,
+        "lon": 3.5173
+      }
     },
     {
       "key": "Hyib-zOLVx",
@@ -588,7 +665,11 @@
       "thumbPath": "/laws/western_nigeria/Ibarapa West (1967).jpeg",
       "pdfPath": "/laws/western_nigeria/Ibarapa West (1967).pdf",
       "name": "Ibarapa West",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": null,
+        "lon": null
+      }
     },
     {
       "key": "Sy2W-fOUVe",
@@ -597,7 +678,11 @@
       "thumbPath": "/laws/western_nigeria/Ibeju (1962).jpeg",
       "pdfPath": "/laws/western_nigeria/Ibeju (1962).pdf",
       "name": "Ibeju",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 6.487,
+        "lon": 3.8927
+      }
     },
     {
       "key": "BJ6WbGuINx",
@@ -606,7 +691,11 @@
       "thumbPath": "/laws/western_nigeria/Ife (1968).jpeg",
       "pdfPath": "/laws/western_nigeria/Ife (1968).pdf",
       "name": "Ife",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 7.482,
+        "lon": 4.5507
+      }
     },
     {
       "key": "SkAW-GOIEx",
@@ -617,10 +706,13 @@
       "name": "Ifetedo",
       "countryLabel": "Western Nigeria",
       "location": {
-        "lat": 7.195197,
-        "lon": 4.70593
+        "lat": 7.1835,
+        "lon": 4.7
       },
-      "drums": ["Sakara", "Iyaalu Dundun"]
+      "drums": [
+        "Sakara",
+        "Iyaalu Dundun"
+      ]
     },
     {
       "key": "rkkzZMdINx",
@@ -629,7 +721,11 @@
       "thumbPath": "/laws/western_nigeria/Ijebu East Central (1965).jpeg",
       "pdfPath": "/laws/western_nigeria/Ijebu East Central (1965).pdf",
       "name": "Ijebu East Central",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": null,
+        "lon": null
+      }
     },
     {
       "key": "rJgMWfO8Ex",
@@ -638,7 +734,11 @@
       "thumbPath": "/laws/western_nigeria/Ijebu Eastern (1956).jpeg",
       "pdfPath": "/laws/western_nigeria/Ijebu Eastern (1956).pdf",
       "name": "Ijebu Eastern",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": null,
+        "lon": null
+      }
     },
     {
       "key": "HkZzZzd8Nl",
@@ -647,7 +747,11 @@
       "thumbPath": "/laws/western_nigeria/Ijebu Imusin (1964).jpeg",
       "pdfPath": "/laws/western_nigeria/Ijebu Imusin (1964).pdf",
       "name": "Ijebu Imusin",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": null,
+        "lon": null
+      }
     },
     {
       "key": "ByzGZGdIEe",
@@ -656,7 +760,11 @@
       "thumbPath": "/laws/western_nigeria/Ijebu North-Western (1959).jpeg",
       "pdfPath": "/laws/western_nigeria/Ijebu North-Western (1959).pdf",
       "name": "Ijebu North-Western",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": null,
+        "lon": null
+      }
     },
     {
       "key": "HkQzZfuUVx",
@@ -665,7 +773,11 @@
       "thumbPath": "/laws/western_nigeria/Ijebu North-Western (1963).jpeg",
       "pdfPath": "/laws/western_nigeria/Ijebu North-Western (1963).pdf",
       "name": "Ijebu North-Western",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": null,
+        "lon": null
+      }
     },
     {
       "key": "B1EfWM_LEx",
@@ -674,7 +786,11 @@
       "thumbPath": "/laws/western_nigeria/Ijebu Northern (1959).jpeg",
       "pdfPath": "/laws/western_nigeria/Ijebu Northern (1959).pdf",
       "name": "Ijebu Northern",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": null,
+        "lon": null
+      }
     },
     {
       "key": "SJSfZf_IVg",
@@ -683,7 +799,11 @@
       "thumbPath": "/laws/western_nigeria/Ijebu Northern (1965).jpeg",
       "pdfPath": "/laws/western_nigeria/Ijebu Northern (1965).pdf",
       "name": "Ijebu Northern",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": null,
+        "lon": null
+      }
     },
     {
       "key": "B1LzWfu8Ex",
@@ -692,7 +812,11 @@
       "thumbPath": "/laws/western_nigeria/Ijebu Southern (1959).jpeg",
       "pdfPath": "/laws/western_nigeria/Ijebu Southern (1959).pdf",
       "name": "Ijebu Southern",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": null,
+        "lon": null
+      }
     },
     {
       "key": "HkPzWfdLEe",
@@ -701,7 +825,11 @@
       "thumbPath": "/laws/western_nigeria/Ijebu Waterside (1959).jpeg",
       "pdfPath": "/laws/western_nigeria/Ijebu Waterside (1959).pdf",
       "name": "Ijebu Waterside",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 6.4545,
+        "lon": 4.5219
+      }
     },
     {
       "key": "Hyuf-GuLNx",
@@ -710,7 +838,11 @@
       "thumbPath": "/laws/western_nigeria/Ijebu-Igbo (1964).jpeg",
       "pdfPath": "/laws/western_nigeria/Ijebu-Igbo (1964).pdf",
       "name": "Ijebu-Igbo",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 6.9703057,
+        "lon": 4.0005264
+      }
     },
     {
       "key": "SkFMWM_INg",
@@ -719,7 +851,11 @@
       "thumbPath": "/laws/western_nigeria/Ijebu-Igbo (1975).jpeg",
       "pdfPath": "/laws/western_nigeria/Ijebu-Igbo (1975).pdf",
       "name": "Ijebu-Igbo",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 6.9703057,
+        "lon": 4.0005264
+      }
     },
     {
       "key": "Hk9z-zOL4e",
@@ -728,7 +864,11 @@
       "thumbPath": "/laws/western_nigeria/Ijebu-Ode (1961).jpeg",
       "pdfPath": "/laws/western_nigeria/Ijebu-Ode (1961).pdf",
       "name": "Ijebu-Ode",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 6.8140077,
+        "lon": 3.9151668
+      }
     },
     {
       "key": "BJofbzuUNg",
@@ -737,7 +877,11 @@
       "thumbPath": "/laws/western_nigeria/Ijede (1958).jpeg",
       "pdfPath": "/laws/western_nigeria/Ijede (1958).pdf",
       "name": "Ijede",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 6.5655788,
+        "lon": 3.5918641
+      }
     },
     {
       "key": "Sy2GWzOLEl",
@@ -746,7 +890,11 @@
       "thumbPath": "/laws/western_nigeria/Ikale Orisunmeta (1964).jpeg",
       "pdfPath": "/laws/western_nigeria/Ikale Orisunmeta (1964).pdf",
       "name": "Ikale Orisunmeta",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": null,
+        "lon": null
+      }
     },
     {
       "key": "S1pG-GOLVg",
@@ -757,10 +905,12 @@
       "name": "Ikenne",
       "countryLabel": "Western Nigeria",
       "location": {
-        "lat": 6.871742,
-        "lon": 3.710512
+        "lat": 6.8657885,
+        "lon": 3.7151785
       },
-      "drums": ["Sakara"]
+      "drums": [
+        "Sakara"
+      ]
     },
     {
       "key": "By0zbz_I4x",
@@ -769,7 +919,11 @@
       "thumbPath": "/laws/western_nigeria/Ikirun (1961).jpeg",
       "pdfPath": "/laws/western_nigeria/Ikirun (1961).pdf",
       "name": "Ikirun",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 7.91667,
+        "lon": 4.666667
+      }
     },
     {
       "key": "BJkQ-fdINx",
@@ -778,7 +932,11 @@
       "thumbPath": "/laws/western_nigeria/Ikirun (1970).jpeg",
       "pdfPath": "/laws/western_nigeria/Ikirun (1970).pdf",
       "name": "Ikirun",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 7.91667,
+        "lon": 4.666667
+      }
     },
     {
       "key": "Byem-MOUEx",
@@ -787,7 +945,11 @@
       "thumbPath": "/laws/western_nigeria/Ikole (1965).jpeg",
       "pdfPath": "/laws/western_nigeria/Ikole (1965).pdf",
       "name": "Ikole",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 7.7897,
+        "lon": 5.5106
+      }
     },
     {
       "key": "SkZQ-z_UNl",
@@ -796,7 +958,11 @@
       "thumbPath": "/laws/western_nigeria/Ikorodu (1958).jpeg",
       "pdfPath": "/laws/western_nigeria/Ikorodu (1958).pdf",
       "name": "Ikorodu",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 6.6191233,
+        "lon": 3.5041271
+      }
     },
     {
       "key": "ryMXbzu8Vx",
@@ -807,10 +973,12 @@
       "name": "Ikosi",
       "countryLabel": "Western Nigeria",
       "location": {
-        "lat": 6.60877,
-        "lon": 3.703914
+        "lat": 6.6131966,
+        "lon": 3.7061827
       },
-      "drums": ["Iyaalu Dundun"]
+      "drums": [
+        "Iyaalu Dundun"
+      ]
     },
     {
       "key": "SyQQWMOLNe",
@@ -821,10 +989,12 @@
       "name": "Ikosi",
       "countryLabel": "Western Nigeria",
       "location": {
-        "lat": 6.60877,
-        "lon": 3.703914
+        "lat": 6.6131966,
+        "lon": 3.7061827
       },
-      "drums": ["Iyaalu Dundun"]
+      "drums": [
+        "Iyaalu Dundun"
+      ]
     },
     {
       "key": "BJ4Q-Md8Eg",
@@ -833,7 +1003,11 @@
       "thumbPath": "/laws/western_nigeria/Ila (1965).jpeg",
       "pdfPath": "/laws/western_nigeria/Ila (1965).pdf",
       "name": "Ila",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 7.6666667,
+        "lon": 4.6666667
+      }
     },
     {
       "key": "B1BQWzd8Ve",
@@ -842,7 +1016,11 @@
       "thumbPath": "/laws/western_nigeria/Ila (1970).jpeg",
       "pdfPath": "/laws/western_nigeria/Ila (1970).pdf",
       "name": "Ila",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 7.6666667,
+        "lon": 4.6666667
+      }
     },
     {
       "key": "S1LQ-MdLVl",
@@ -851,7 +1029,11 @@
       "thumbPath": "/laws/western_nigeria/Ilaje (1965).jpeg",
       "pdfPath": "/laws/western_nigeria/Ilaje (1965).pdf",
       "name": "Ilaje",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 6.1972,
+        "lon": 4.7358
+      }
     },
     {
       "key": "SJP7Wz_84e",
@@ -860,7 +1042,11 @@
       "thumbPath": "/laws/western_nigeria/Ilaro (1956).jpeg",
       "pdfPath": "/laws/western_nigeria/Ilaro (1956).pdf",
       "name": "Ilaro",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 6.88653,
+        "lon": 3.0205
+      }
     },
     {
       "key": "HJOmZf_UNg",
@@ -869,7 +1055,11 @@
       "thumbPath": "/laws/western_nigeria/Ileoluji_Okeigbo (1956).jpeg",
       "pdfPath": "/laws/western_nigeria/Ileoluji_Okeigbo (1956).pdf",
       "name": "Ileoluji_Okeigbo",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 7.166667,
+        "lon": 4.71667
+      }
     },
     {
       "key": "ByFXWMuINx",
@@ -878,7 +1068,11 @@
       "thumbPath": "/laws/western_nigeria/Ilugun_Alaro (1956).jpeg",
       "pdfPath": "/laws/western_nigeria/Ilugun_Alaro (1956).pdf",
       "name": "Ilugun_Alaro",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": null,
+        "lon": null
+      }
     },
     {
       "key": "Hy5QbfuU4e",
@@ -887,7 +1081,11 @@
       "thumbPath": "/laws/western_nigeria/Ilugun_Alaro (1958).jpeg",
       "pdfPath": "/laws/western_nigeria/Ilugun_Alaro (1958).pdf",
       "name": "Ilugun_Alaro",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": null,
+        "lon": null
+      }
     },
     {
       "key": "HJoQZzdLEg",
@@ -896,7 +1094,11 @@
       "thumbPath": "/laws/western_nigeria/Imala (1961).jpeg",
       "pdfPath": "/laws/western_nigeria/Imala (1961).pdf",
       "name": "Imala",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 7.3,
+        "lon": 3.516667
+      }
     },
     {
       "key": "HknQZMOL4x",
@@ -905,7 +1107,11 @@
       "thumbPath": "/laws/western_nigeria/Imala (1964).jpeg",
       "pdfPath": "/laws/western_nigeria/Imala (1964).pdf",
       "name": "Imala",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 7.3,
+        "lon": 3.516667
+      }
     },
     {
       "key": "H1p7ZGu8Vg",
@@ -914,7 +1120,11 @@
       "thumbPath": "/laws/western_nigeria/Ipara (1959).jpeg",
       "pdfPath": "/laws/western_nigeria/Ipara (1959).pdf",
       "name": "Ipara",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 7,
+        "lon": 3.666667
+      }
     },
     {
       "key": "SJRQbf_UVx",
@@ -923,7 +1133,11 @@
       "thumbPath": "/laws/western_nigeria/Iperu (1965).jpeg",
       "pdfPath": "/laws/western_nigeria/Iperu (1965).pdf",
       "name": "Iperu",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 6.9117092,
+        "lon": 3.6643757
+      }
     },
     {
       "key": "rJJV-GdIVe",
@@ -932,7 +1146,11 @@
       "thumbPath": "/laws/western_nigeria/Ipetumodu (1964).jpeg",
       "pdfPath": "/laws/western_nigeria/Ipetumodu (1964).pdf",
       "name": "Ipetumodu",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 7.516667,
+        "lon": 4.45
+      }
     },
     {
       "key": "B1xE-GdLEx",
@@ -941,7 +1159,11 @@
       "thumbPath": "/laws/western_nigeria/Ipokia (1958).jpeg",
       "pdfPath": "/laws/western_nigeria/Ipokia (1958).pdf",
       "name": "Ipokia",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 6.533333,
+        "lon": 2.85
+      }
     },
     {
       "key": "SyW4bfO8El",
@@ -950,7 +1172,11 @@
       "thumbPath": "/laws/western_nigeria/Irekari (1965).jpeg",
       "pdfPath": "/laws/western_nigeria/Irekari (1965).pdf",
       "name": "Irekari",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": null,
+        "lon": null
+      }
     },
     {
       "key": "S1fNWfOUNl",
@@ -959,7 +1185,11 @@
       "thumbPath": "/laws/western_nigeria/Irekari (1970).jpeg",
       "pdfPath": "/laws/western_nigeria/Irekari (1970).pdf",
       "name": "Irekari",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": null,
+        "lon": null
+      }
     },
     {
       "key": "SJQ4WfuUEg",
@@ -968,7 +1198,11 @@
       "thumbPath": "/laws/western_nigeria/Irepo (1975).jpeg",
       "pdfPath": "/laws/western_nigeria/Irepo (1975).pdf",
       "name": "Irepo",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 9.032,
+        "lon": 3.9463
+      }
     },
     {
       "key": "HJEE-zu8Vl",
@@ -979,10 +1213,13 @@
       "name": "Ishara",
       "countryLabel": "Western Nigeria",
       "location": {
-        "lat": 6.987191,
-        "lon": 3.677536
+        "lat": 6.9923203,
+        "lon": 3.6808622
       },
-      "drums": ["Sakara", "Iyaalu Dundun"]
+      "drums": [
+        "Sakara",
+        "Iyaalu Dundun"
+      ]
     },
     {
       "key": "ByrE-z_L4g",
@@ -991,7 +1228,11 @@
       "thumbPath": "/laws/western_nigeria/Iwo (1968).jpeg",
       "pdfPath": "/laws/western_nigeria/Iwo (1968).pdf",
       "name": "Iwo",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 7.63333,
+        "lon": 4.183333
+      }
     },
     {
       "key": "BkUVWMOUVl",
@@ -1000,7 +1241,11 @@
       "thumbPath": "/laws/western_nigeria/Lekki (1964).jpeg",
       "pdfPath": "/laws/western_nigeria/Lekki (1964).pdf",
       "name": "Lekki",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 6.3606785,
+        "lon": 4.8333115
+      }
     },
     {
       "key": "BJvEWGOIVe",
@@ -1009,7 +1254,11 @@
       "thumbPath": "/laws/western_nigeria/Makun [Shagamu] (1959).jpeg",
       "pdfPath": "/laws/western_nigeria/Makun [Shagamu] (1959).pdf",
       "name": "Makun [Shagamu]",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 6.854495,
+        "lon": 3.6272405
+      }
     },
     {
       "key": "rkuVbf_IVx",
@@ -1018,7 +1267,11 @@
       "thumbPath": "/laws/western_nigeria/Makun [Shagamu] (1962).jpeg",
       "pdfPath": "/laws/western_nigeria/Makun [Shagamu] (1962).pdf",
       "name": "Makun [Shagamu]",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 6.854495,
+        "lon": 3.6272405
+      }
     },
     {
       "key": "H1tE-MuIEl",
@@ -1027,7 +1280,11 @@
       "thumbPath": "/laws/western_nigeria/Mushin (1963).jpeg",
       "pdfPath": "/laws/western_nigeria/Mushin (1963).pdf",
       "name": "Mushin",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 6.526262,
+        "lon": 3.3571405
+      }
     },
     {
       "key": "HyqVWGOIVl",
@@ -1036,7 +1293,11 @@
       "thumbPath": "/laws/western_nigeria/Ode Remo (1971).jpeg",
       "pdfPath": "/laws/western_nigeria/Ode Remo (1971).pdf",
       "name": "Ode Remo",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 6.970177,
+        "lon": 3.6757865
+      }
     },
     {
       "key": "SysEWG_UEe",
@@ -1045,7 +1306,11 @@
       "thumbPath": "/laws/western_nigeria/Offin [Shagamu] (1958).jpeg",
       "pdfPath": "/laws/western_nigeria/Offin [Shagamu] (1958).pdf",
       "name": "Offin [Shagamu]",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": null,
+        "lon": null
+      }
     },
     {
       "key": "S13EbfuIVl",
@@ -1054,7 +1319,11 @@
       "thumbPath": "/laws/western_nigeria/Ogere (1958).jpeg",
       "pdfPath": "/laws/western_nigeria/Ogere (1958).pdf",
       "name": "Ogere",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 6.9350435,
+        "lon": 3.6354235
+      }
     },
     {
       "key": "HkTVZfuLNg",
@@ -1063,7 +1332,11 @@
       "thumbPath": "/laws/western_nigeria/Oka (1960).jpeg",
       "pdfPath": "/laws/western_nigeria/Oka (1960).pdf",
       "name": "Oka",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 7.4477,
+        "lon": 5.6204
+      }
     },
     {
       "key": "SyR4bzuIEx",
@@ -1072,7 +1345,11 @@
       "thumbPath": "/laws/western_nigeria/Okeho_Iganna (1965).jpeg",
       "pdfPath": "/laws/western_nigeria/Okeho_Iganna (1965).pdf",
       "name": "Okeho_Iganna",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 7.98334,
+        "lon": 3.25094
+      }
     },
     {
       "key": "Hk1SZM_IEg",
@@ -1081,7 +1358,11 @@
       "thumbPath": "/laws/western_nigeria/Ondo (1975).jpeg",
       "pdfPath": "/laws/western_nigeria/Ondo (1975).pdf",
       "name": "Ondo",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 7.1,
+        "lon": 4.83333
+      }
     },
     {
       "key": "HkeH-fdINe",
@@ -1090,7 +1371,11 @@
       "thumbPath": "/laws/western_nigeria/Ondo Western (1965).jpeg",
       "pdfPath": "/laws/western_nigeria/Ondo Western (1965).pdf",
       "name": "Ondo Western",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 7.0164,
+        "lon": 4.7456
+      }
     },
     {
       "key": "rJZHbMOIVe",
@@ -1099,7 +1384,11 @@
       "thumbPath": "/laws/western_nigeria/Oshunmaiyegun (1964).jpeg",
       "pdfPath": "/laws/western_nigeria/Oshunmaiyegun (1964).pdf",
       "name": "Oshunmaiyegun",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 6.433333,
+        "lon": 3.5166667
+      }
     },
     {
       "key": "HyfHZz_I4e",
@@ -1108,7 +1397,11 @@
       "thumbPath": "/laws/western_nigeria/Otta (1958).jpeg",
       "pdfPath": "/laws/western_nigeria/Otta (1958).pdf",
       "name": "Otta",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 6.66667,
+        "lon": 3.7333333
+      }
     },
     {
       "key": "SymBWz_U4x",
@@ -1117,7 +1410,11 @@
       "thumbPath": "/laws/western_nigeria/Otun (1965).jpeg",
       "pdfPath": "/laws/western_nigeria/Otun (1965).pdf",
       "name": "Otun",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 7.4166667,
+        "lon": 3.35
+      }
     },
     {
       "key": "HJEBbf_UEe",
@@ -1126,7 +1423,11 @@
       "thumbPath": "/laws/western_nigeria/Owo (1964).jpeg",
       "pdfPath": "/laws/western_nigeria/Owo (1964).pdf",
       "name": "Owo",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 7.1962012,
+        "lon": 5.5868016
+      }
     },
     {
       "key": "BkBrWzO8Ng",
@@ -1135,7 +1436,11 @@
       "thumbPath": "/laws/western_nigeria/Oyo Southern (1964).jpeg",
       "pdfPath": "/laws/western_nigeria/Oyo Southern (1964).pdf",
       "name": "Oyo Southern",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 7.216667,
+        "lon": 4.233333
+      }
     },
     {
       "key": "rkLH-GuL4g",
@@ -1146,10 +1451,12 @@
       "name": "Shaki",
       "countryLabel": "Western Nigeria",
       "location": {
-        "lat": 8.672557,
-        "lon": 3.394332
+        "lat": 7.9,
+        "lon": 4.766667
       },
-      "drums": ["Sakara"]
+      "drums": [
+        "Sakara"
+      ]
     },
     {
       "key": "rkwHZfdIEl",
@@ -1158,7 +1465,11 @@
       "thumbPath": "/laws/western_nigeria/Warri (1959).jpeg",
       "pdfPath": "/laws/western_nigeria/Warri (1959).pdf",
       "name": "Warri",
-      "countryLabel": "Western Nigeria"
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 5.517,
+        "lon": 5.75
+      }
     }
   ]
 }
