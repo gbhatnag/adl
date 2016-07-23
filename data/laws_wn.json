@@ -3,31 +3,68 @@
     {
       "key": "rJ6-GuL4l",
       "countryID": "western_nigeria",
-      "year": "1956",
+      "adopted_from": [
+        {
+          "key": "H1oebfOLVe",
+          "citation": "W.R.L.N. 13 of 1956"
+        }
+      ],
+      "date_of_publication": "1956",
+      "date_of_issue": "3 September 1956",
+      "date_of_effect": "13 September 1956",
+      "citation": "W.R.L.N. 200 of 1956",
+      "signatories": [
+        {
+          "name": "R. E. BROWN",
+          "title": "Permanent Secretary",
+          "org": "Ministry of Justice and Local Government"
+        }
+      ],
       "thumbPath": "/laws/western_nigeria/Abeokuta (1956).jpeg",
       "pdfPath": "/laws/western_nigeria/Abeokuta (1956).pdf",
-      "name": "Abeokuta",
+      "council": "Abeokuta Urban District Council",
+      "title": "THE CONTROL OF DRUMMING ADOPTIVE BYE-LAWS ORDER, 1956 : ABEOKUTA URBAN DISTRICT COUNCIL",
       "countryLabel": "Western Nigeria",
       "location": {
         "lat": 7.161,
         "lon": 3.348
       },
-      "drums": [
-        "Sakara",
-        "Iyaalu Dundun"
-      ]
+      "drums": []
     },
     {
       "key": "Bk0WMOU4x",
       "countryID": "western_nigeria",
-      "year": "1960",
-      "date_of_publication": null,
+      "adopted_from": [
+        {
+          "key": "H1oebfOLVe",
+          "citation": "W.R.L.N. 13 of 1956"
+        },
+        {
+          "key": null,
+          "citation": "W.R.L.N. 297 of 1957"
+        }
+      ],
+      "date_of_publication": "1960",
       "date_of_issue": "8 November 1960",
       "date_of_effect": "17 November 1960",
       "thumbPath": "/laws/western_nigeria/Abeokuta (1960).jpeg",
       "pdfPath": "/laws/western_nigeria/Abeokuta (1960).pdf",
-      "name": "Abeokuta",
-      "district": "Abeokuta",
+      "title": "THE CONTROL OF DRUMMING ADOPTIVE BYE-LAWS ORDER, 1956 ABEOKUTA URBAN DISTRICT COUNCIL",
+      "council": "Abeokuta Urban District Council",
+      "citation": "W.R.L.N. 385 of 1960",
+      "signatories": [
+        {
+          "name": "J. M. BECKLEY",
+          "title": "Permanent Secretary",
+          "org": "Ministry of Justice and Local Government"
+        }
+      ],
+      "revokes": [
+        {
+          "key": "rJ6-GuL4l",
+          "citation": "W.R.L.N. 200 of 1956"
+        }
+      ],
       "countryLabel": "Western Nigeria",
       "location": {
         "lat": 7.161,
@@ -58,7 +95,7 @@
         },
         {
           "drum_name": "Iya-Ilu",
-          "drum_id": "iyaalu",
+          "drum_id": "iyailu",
           "fee_schedules": [
             {
               "period_start": "6 am",
@@ -489,11 +526,144 @@
     {
       "key": "H1oebfOLVe",
       "countryID": "western_nigeria",
-      "year": "1956",
+      "date_of_publication": "1956",
+      "date_of_issue": "25 January 1956",
+      "date_of_effect": "1956",
       "thumbPath": "/laws/western_nigeria/Control of Drumming Adoptive Bye-Laws Order (1956).jpeg",
       "pdfPath": "/laws/western_nigeria/Control of Drumming Adoptive Bye-Laws Order (1956).pdf",
-      "name": "Control of Drumming Adoptive Bye-Laws Order",
-      "countryLabel": "Western Nigeria"
+      "title": "THE CONTROL OF DRUMMING ADOPTIVE BYE-LAWS ORDER, 1956",
+      "council": null,
+      "countryLabel": "Western Nigeria",
+      "citation": "W.R.L.N. 13 of 1956",
+      "signatories": [
+        {
+          "name": "F. R. A. WILLIAMS",
+          "title": "Minister",
+          "org": "Ministry of Justice and Local Government"
+        }
+      ],
+      "drums": [
+        {
+          "drum_name": "Sakara",
+          "drum_id": "sakara",
+          "fee_schedules": [
+            {
+              "period_start": "6 am",
+              "period_end": "6 pm",
+              "fee": {
+                "s": 6,
+                "d": 0
+              }
+            },
+            {
+              "period_start": "6 pm",
+              "period_end": "6 am",
+              "fee": {
+                "s": 11,
+                "d": 0
+              }
+            }
+          ]
+        },
+        {
+          "drum_name": "Iya Ilu",
+          "drum_id": "iyailu",
+          "fee_schedules": [
+            {
+              "period_start": "6 am",
+              "period_end": "6 pm",
+              "fee": {
+                "s": 3,
+                "d": 6
+              }
+            }
+          ]
+        },
+        {
+          "drum_name": "Dundun",
+          "drum_id": "dundun",
+          "fee_schedules": [
+            {
+              "period_start": "6 am",
+              "period_end": "6 pm",
+              "fee": {
+                "s": 3,
+                "d": 6
+              }
+            }
+          ]
+        },
+        {
+          "drum_name": "Kete",
+          "drum_id": "kete",
+          "fee_schedules": [
+            {
+              "period_start": "6 pm",
+              "period_end": "6 am",
+              "fee": {
+                "s": 6,
+                "d": 0
+              }
+            }
+          ]
+        },
+        {
+          "drum_name": "Agasa",
+          "drum_id": "agasa",
+          "fee_schedules": [
+            {
+              "period_start": "6 pm",
+              "period_end": "6 am",
+              "fee": {
+                "s": 6,
+                "d": 0
+              }
+            }
+          ]
+        },
+        {
+          "drum_name": "Batakoto",
+          "drum_id": "batakoto",
+          "fee_schedules": [
+            {
+              "period_start": "6 am",
+              "period_end": "6 pm",
+              "fee": {
+                "s": 3,
+                "d": 6
+              }
+            }
+          ]
+        },
+        {
+          "drum_name": "Apala",
+          "drum_id": "apala",
+          "fee_schedules": [
+            {
+              "period_start": "6 pm",
+              "period_end": "6 am",
+              "fee": {
+                "s": 6,
+                "d": 0
+              }
+            }
+          ]
+        },
+        {
+          "drum_name": "Juju",
+          "drum_id": "juju",
+          "fee_schedules": [
+            {
+              "period_start": "6 pm",
+              "period_end": "6 am",
+              "fee": {
+                "s": 6,
+                "d": 0
+              }
+            }
+          ]
+        }
+      ]
     },
     {
       "key": "ry2gWfu8El",
