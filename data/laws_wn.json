@@ -362,44 +362,103 @@
     {
       "key": "Sy1eWG_INe",
       "countryID": "western_nigeria",
-      "year": "1962",
+      "adopted_from": [
+        {
+          "key": "Bk0WMOU4x",
+          "citation": "W.N.L.N. 385 of 1960"
+        }
+      ],
+      "date_of_publication": "1962",
+      "date_of_issue": "6 June 1962",
+      "date_of_effect": "21 June 1962",
       "thumbPath": "/laws/western_nigeria/Abeokuta (1962).jpeg",
       "pdfPath": "/laws/western_nigeria/Abeokuta (1962).pdf",
-      "name": "Abeokuta",
+      "title": "THE CONTROL OF DRUMMING ADOPTIVE BYE-LAWS ORDER, 1956 ABEOKUTA URBAN DISTRICT COUNCIL",
+      "council": "Abeokuta Urban District Council",
+      "citation": "W.N.L.N. 181 of 1962",
+      "signatories": [
+        {
+          "name": "I. O. OLUWADARE",
+          "title": "Secretary",
+          "org": "Ministry of Justice and Local Government"
+        },
+        {
+          "name": "P. DYSON",
+          "title": "Administrator",
+          "org": "Ministry of Justice and Local Government"
+        }
+      ],
       "countryLabel": "Western Nigeria",
       "location": {
         "lat": 7.161,
         "lon": 3.348
       },
-      "drums": [
-        "Sakara",
-        "Iyaalu Dundun"
-      ]
+      "drums": []
     },
     {
       "key": "H1lx-MdI4l",
       "countryID": "western_nigeria",
-      "year": "1965",
+      "adopted_from": [
+        {
+          "key": "--",
+          "citation": "W.R.L.N. 13 of 1956"
+        },
+        {
+          "key": "--",
+          "citation": "W.R.L.N. 297 of 1957"
+        }
+      ],
+      "date_of_publication": "1965",
+      "date_of_issue": "30 Aug 1965",
+      "date_of_effect": "30 Sept 1965",
       "thumbPath": "/laws/western_nigeria/Abeokuta (1965).jpeg",
       "pdfPath": "/laws/western_nigeria/Abeokuta (1965).pdf",
-      "name": "Abeokuta",
+      "title": "THE CONTROL OF DRUMMING ADOPTIVE BYE-LAWS ORDER, 1956 AND THE CONTROL OF DRUMMING ADOPTIVE BYE-LAWS (AMENDMENT) ORDER, 1957; ABEOKUTA URBAN DISTRICT COUNCIL (COMMITTEE FO MANAGEMENT)",
+      "council": "Abeokuta Urban District Council",
+      "citation": "W.N.L.N. 475 of 1965",
+      "signatories": [
+        {
+          "name": "J. A. O. AKANDE",
+          "title": "Chairman",
+          "org": "Abeokuta Urban District Council (Committee of Management)"
+        },
+        {
+          "name": "Y. A. O. SANNI",
+          "title": "Secretary",
+          "org": "Abeokuta Urban District Council (Committee of Management)"
+        }
+      ],
       "countryLabel": "Western Nigeria",
       "location": {
         "lat": 7.161,
         "lon": 3.348
       },
-      "drums": [
-        "Sakara",
-        "Iyaalu Dundun"
-      ]
+      "drums": []
     },
     {
       "key": "S1-lWMOI4g",
       "countryID": "western_nigeria",
-      "year": "1956",
+      "adopted_from": [
+        {
+          "key": "--",
+          "citation": "W.R.L.N. 13 of 1956"
+        }
+      ],
+      "date_of_publication": "1956",
+      "date_of_issue": "17 Nov 1956",
+      "date_of_effect": "29 Nov 1956",
       "thumbPath": "/laws/western_nigeria/Ado-Agbessa (1956).jpeg",
       "pdfPath": "/laws/western_nigeria/Ado-Agbessa (1956).pdf",
-      "name": "Ado-Agbessa",
+      "title": "THE CONTROL OF DRUMMING ADOPTIVE BYE-LAWS ORDER, 1956: ADO-IGBESSA DISTRICT COUNCIL",
+      "council": "Ado-Igbessa District Council",
+      "citation": "W.R.L.N. 290 of 1956",
+      "signatories": [
+        {
+          "name": "R. E. BROWN",
+          "title": "Permanent Secretary",
+          "org": "Ministry of Justice and Local Government"
+        }
+      ],
       "countryLabel": "Western Nigeria",
       "location": {
         "lat": null,
@@ -409,10 +468,36 @@
     {
       "key": "ByGxWfd8Vg",
       "countryID": "western_nigeria",
-      "year": "1967",
+      "adopted_from": [
+        {
+          "key": "--",
+          "citation": "W.R.L.N. 13 of 1956"
+        },
+        {
+          "key": "--",
+          "citation": "W.R.L.N. 297 of 1957"
+        }
+      ],
+      "date_of_publication": "1967",
+      "date_of_issue": "11 Jan 1967",
+      "date_of_effect": "1 Jun 1967",
       "thumbPath": "/laws/western_nigeria/Afijio (1967).jpeg",
       "pdfPath": "/laws/western_nigeria/Afijio (1967).pdf",
-      "name": "Afijio",
+      "title": "THE CONTROL OF DRUMMING ADOPTIVE BYE-LAWS ORDER, 1956 AND THE CONTROL OF DRUMMING ADOPTIVE BYE-LAWS (AMENDMENT) ORDER, 1957 AFIJO PROVISIONAL AUTHORITY",
+      "council": "Afijio Provisional Authority",
+      "citation": "W.N.L.N. 22 of 1967",
+      "signatories": [
+        {
+          "name": "N. O. LAWORE",
+          "title": "Sole Administrator",
+          "org": "Afijio Provisional Authority"
+        },
+        {
+          "name": "E. O. ADEBIMPE",
+          "title": "Secretary/Treasurer",
+          "org": "Afijio Provisional Authority"
+        }
+      ],
       "countryLabel": "Western Nigeria",
       "location": {
         "lat": 7.713611,
@@ -422,10 +507,27 @@
     {
       "key": "rkXlZf_I4g",
       "countryID": "western_nigeria",
-      "year": "1956",
       "thumbPath": "/laws/western_nigeria/Agege (1956).jpeg",
       "pdfPath": "/laws/western_nigeria/Agege (1956).pdf",
-      "name": "Agege",
+      "adopted_from": [
+        {
+          "key": "--",
+          "citation": "W.R.L.N. 13 of 1956"
+        }
+      ],
+      "date_of_publication": "1956",
+      "date_of_issue": "17 Nov 1956",
+      "date_of_effect": "29 Nov 1956",
+      "title": "THE CONTROL OF DRUMMING ADOPTIVE BYE-LAWS ORDER, 1956: AGEGE DISTRICT COUNCIL",
+      "council": "Agege District Council",
+      "citation": "W.R.L.N. 286 of 1956",
+      "signatories": [
+        {
+          "name": "R. E. BROWN",
+          "title": "Permanent Secretary",
+          "org": "Ministry of Justice and Local Government"
+        }
+      ],
       "countryLabel": "Western Nigeria",
       "location": {
         "lat": 6.6229165,
@@ -435,10 +537,32 @@
     {
       "key": "S14gbzdIEl",
       "countryID": "western_nigeria",
-      "year": "1962",
       "thumbPath": "/laws/western_nigeria/Agege (1962).jpeg",
       "pdfPath": "/laws/western_nigeria/Agege (1962).pdf",
-      "name": "Agege",
+      "adopted_from": [
+        {
+          "key": "--",
+          "citation": "W.R.L.N. 297 of 1957"
+        }
+      ],
+      "date_of_publication": "1962",
+      "date_of_issue": "24 Aug 1962",
+      "date_of_effect": "22 Nov 1962",
+      "title": "THE CONTROL OF DRUMMING ADOPTIVE BYE-LAWS, 1956: AGEGE DISTRICT COUNCIL",
+      "council": "Agege District Council",
+      "citation": "W.N.L.N. 367 of 1962",
+      "signatories": [
+        {
+          "name": "I. K. ADEYEMI",
+          "title": "Chairman",
+          "org": "Agege District Council"
+        },
+        {
+          "name": "J. OLU IGE",
+          "title": "Secretary",
+          "org": "Agege District Council"
+        }
+      ],
       "countryLabel": "Western Nigeria",
       "location": {
         "lat": 6.6229165,
@@ -448,10 +572,57 @@
     {
       "key": "HJHlWGuUVx",
       "countryID": "western_nigeria",
-      "year": "1958",
       "thumbPath": "/laws/western_nigeria/Aiyedade (1958).jpeg",
       "pdfPath": "/laws/western_nigeria/Aiyedade (1958).pdf",
-      "name": "Aiyedade",
+      "adopted_from": [
+        {
+          "key": "--",
+          "citation": "W.R.L.N. 13 of 1956"
+        }
+      ],
+      "date_of_publication": "1958",
+      "date_of_issue": "30 Nov 1958",
+      "date_of_effect": "18 Dec 1958",
+      "title": "THE CONTROL OF DRUMMING ADOPTIVE BYE-LAWS ORDER, 1956: AIYEDADE LOCAL COUNCIL",
+      "council": "Aiyedade District Council",
+      "citation": "W.R.L.N. 503 of 1958",
+      "signatories": [
+        {
+          "name": "J. R. BROMAGE",
+          "title": "Permanent Secretary",
+          "org": "Ministry of Local Government"
+        }
+      ],
+      "countryLabel": "Western Nigeria",
+      "location": {
+        "lat": 7.3441,
+        "lon": 4.2991
+      }
+    },
+    {
+      "key": "HJIlWGuUVx",
+      "countryID": "western_nigeria",
+      "thumbPath": "/laws/western_nigeria/Aiyedade (1958).jpeg",
+      "pdfPath": "/laws/western_nigeria/Aiyedade (1958).pdf",
+      "adopted_from": [
+        {
+          "key": "--",
+          "citation": "W.R.L.N. 13 of 1956"
+        }
+      ],
+      "date_of_publication": "1958",
+      "date_of_issue": "30 Nov 1958",
+      "date_of_effect": "18 Dec 1958",
+      "title": "THE CONTROL OF DRUMMING ADOPTIVE BYE-LAWS ORDER, 1956: IJEDE LOCAL COUNCIL",
+      "council": "Ijede District Council",
+      "citation": "W.R.L.N. 504 of 1958",
+      "signatories": [
+        {
+          "name": "J. R. BROMAGE",
+          "title": "Permanent Secretary",
+          "org": "Ministry of Local Government"
+        }
+      ],
       "countryLabel": "Western Nigeria",
       "location": {
         "lat": 7.3441,
@@ -461,10 +632,25 @@
     {
       "key": "B18lbz_8El",
       "countryID": "western_nigeria",
-      "year": "1962",
       "thumbPath": "/laws/western_nigeria/Ajeromi (1962).jpeg",
       "pdfPath": "/laws/western_nigeria/Ajeromi (1962).pdf",
-      "name": "Ajeromi",
+      "adopted_from": [
+        {
+          "key": "--",
+          "citation": "W.R.L.N. 13 of 1956"
+        },
+        {
+          "key": "--",
+          "citation": "W.R.L.N. 297 of 1957"
+        }
+      ],
+      "date_of_publication": "1962",
+      "date_of_issue": null,
+      "date_of_effect": "6 Sept 1962",
+      "title": "THE CONTROL OF DRUMMING ADOPTIVE BYE-LAWS, 1956: AJEROMI DISTRICT COUNCIL",
+      "council": "Ajeromi District Council",
+      "citation": "W.N.L.N. 252 of 1962",
+      "signatories": null,
       "countryLabel": "Western Nigeria",
       "location": {
         "lat": 6.4554,
@@ -474,10 +660,36 @@
     {
       "key": "SJPe-MOLNe",
       "countryID": "western_nigeria",
-      "year": "1964",
       "thumbPath": "/laws/western_nigeria/Akoko South (1964).jpeg",
       "pdfPath": "/laws/western_nigeria/Akoko South (1964).pdf",
-      "name": "Akoko South",
+      "adopted_from": [
+        {
+          "key": "--",
+          "citation": "W.R.L.N. 13 of 1956"
+        },
+        {
+          "key": "--",
+          "citation": "W.R.L.N. 297 of 1957"
+        }
+      ],
+      "date_of_publication": "1964",
+      "date_of_issue": "8 Aug 1964",
+      "date_of_effect": "3 Dec 1964",
+      "title": "THE CONTROL OF DRUMMING ADOPTIVE BYE-LAWS ORDER, 1956 AND THE CONTROL OF DRUMMING ADOPTIVE BYE-LAWS (AMENDMENT) ORDER, 1957: AKOKO SOUTH PROVISIONAL AUTHORITY",
+      "council": "Akoko South Provisional Authority",
+      "citation": "W.N.L.N. 613 of 1964",
+      "signatories": [
+        {
+          "name": "OBA R. A. AJIMOH II",
+          "title": "The Alale of Akungba and Chairman",
+          "org": "Akoko South Provisional Authority"
+        },
+        {
+          "name": "A. A. OGUNDAYOMI",
+          "title": "Acting Secretary/Treasurer",
+          "org": "Akoko South Provisional Authority"
+        }
+      ],
       "countryLabel": "Western Nigeria",
       "location": {
         "lat": null,
@@ -487,10 +699,42 @@
     {
       "key": "SJ_lWG_LEg",
       "countryID": "western_nigeria",
-      "year": "1970",
       "thumbPath": "/laws/western_nigeria/Akoko South (1970).jpeg",
       "pdfPath": "/laws/western_nigeria/Akoko South (1970).pdf",
-      "name": "Akoko South",
+      "adopted_from": [
+        {
+          "key": "--",
+          "citation": "W.R.L.N. 13 of 1956"
+        },
+        {
+          "key": "--",
+          "citation": "W.R.L.N. 297 of 1957"
+        }
+      ],
+      "date_of_publication": "1970",
+      "date_of_issue": "13 Jan 1970",
+      "date_of_effect": "9 Apr 1970",
+      "title": "THE CONTROL OF DRUMMING ADOPTIVE BYE-LAWS ORDER, 1956 AND THE CONTROL OF DRUMMING ADOPTIVE BYE-LAWS (AMENDMENT) ORDER, 1957; (REVOCATION) NOTICE 1970 AKOKO SOUTH PROVISIONAL AUTHORITY",
+      "council": "Akoko South Provisional Authority",
+      "citation": "W.S.L.N. 31 of 1970",
+      "signatories": [
+        {
+          "name": "M. A. O. OJEDELE",
+          "title": "Sole Administrator",
+          "org": "Akoko South Provisional Authority"
+        },
+        {
+          "name": "S. O. ODEKANYIN",
+          "title": "Acting Secretary/Treasurer",
+          "org": "Akoko South Provisional Authority"
+        }
+      ],
+      "revokes": [
+        {
+          "key": "--",
+          "citation": "W.N.L.N. 613 of 1964"
+        }
+      ],
       "countryLabel": "Western Nigeria",
       "location": {
         "lat": null,
@@ -500,6 +744,7 @@
     {
       "key": "S1FgbzdUEg",
       "countryID": "western_nigeria",
+      "citation": "W.N.L.N. 163 of 1965",
       "year": "1965",
       "thumbPath": "/laws/western_nigeria/Akoko West (1965).jpeg",
       "pdfPath": "/laws/western_nigeria/Akoko West (1965).pdf",
@@ -513,6 +758,7 @@
     {
       "key": "Hk9l-z_LEl",
       "countryID": "western_nigeria",
+      "citation": "W.N.L.N. 124 of 1961",
       "year": "1961",
       "thumbPath": "/laws/western_nigeria/Awori (1961).jpeg",
       "pdfPath": "/laws/western_nigeria/Awori (1961).pdf",
@@ -668,6 +914,7 @@
     {
       "key": "ry2gWfu8El",
       "countryID": "western_nigeria",
+      "citation": "W.R.L.N. 540 of 1959",
       "year": "1959",
       "thumbPath": "/laws/western_nigeria/Edunabon_Moro (1959).jpeg",
       "pdfPath": "/laws/western_nigeria/Edunabon_Moro (1959).pdf",
@@ -681,6 +928,7 @@
     {
       "key": "r1axbfuU4g",
       "countryID": "western_nigeria",
+      "citation": "W.R.L.N. 275 of 1956",
       "year": "1956",
       "thumbPath": "/laws/western_nigeria/Egba-Ikereku (1956).jpeg",
       "pdfPath": "/laws/western_nigeria/Egba-Ikereku (1956).pdf",
@@ -694,6 +942,7 @@
     {
       "key": "rJ0lbMu84x",
       "countryID": "western_nigeria",
+      "citation": "W.N.L.N. 16 of 1962",
       "year": "1962",
       "thumbPath": "/laws/western_nigeria/Egbedore (1962).jpeg",
       "pdfPath": "/laws/western_nigeria/Egbedore (1962).pdf",
@@ -707,6 +956,7 @@
     {
       "key": "HJJbbG_UNg",
       "countryID": "western_nigeria",
+      "citation": "W.R.L.N. 15 of 1958",
       "year": "1958",
       "thumbPath": "/laws/western_nigeria/Egun-Awori 1 (1958).jpeg",
       "pdfPath": "/laws/western_nigeria/Egun-Awori 1 (1958).pdf",
@@ -716,6 +966,7 @@
     {
       "key": "SyeWbfdUNe",
       "countryID": "western_nigeria",
+      "citation": "W.R.L.N. 90 of 1958",
       "year": "1958",
       "thumbPath": "/laws/western_nigeria/Egun-Awori 2 (1958).jpeg",
       "pdfPath": "/laws/western_nigeria/Egun-Awori 2 (1958).pdf",
@@ -725,6 +976,7 @@
     {
       "key": "r1Wbbf_UNg",
       "countryID": "western_nigeria",
+      "citation": "W.R.L.N. 278 of 1958",
       "year": "1958",
       "thumbPath": "/laws/western_nigeria/Egun-Awori 3 (1958).jpeg",
       "pdfPath": "/laws/western_nigeria/Egun-Awori 3 (1958).pdf",
@@ -734,6 +986,7 @@
     {
       "key": "B1zbWfuIVe",
       "countryID": "western_nigeria",
+      "citation": "W.R.L.N. 280 of 1958",
       "year": "1958",
       "thumbPath": "/laws/western_nigeria/Egun-Awori 4 (1958).jpeg",
       "pdfPath": "/laws/western_nigeria/Egun-Awori 4 (1958).pdf",
@@ -743,6 +996,7 @@
     {
       "key": "SJQb-MOUVe",
       "countryID": "western_nigeria",
+      "citation": "W.R.L.N. 511 of 1958",
       "year": "1958",
       "thumbPath": "/laws/western_nigeria/Egun-Awori 5 (1958).jpeg",
       "pdfPath": "/laws/western_nigeria/Egun-Awori 5 (1958).pdf",
@@ -752,6 +1006,7 @@
     {
       "key": "H1VbWGuLNl",
       "countryID": "western_nigeria",
+      "citation": "W.N.L.N. 311 of 1965",
       "year": "1965",
       "thumbPath": "/laws/western_nigeria/Ekiti Northern (1965).jpeg",
       "pdfPath": "/laws/western_nigeria/Ekiti Northern (1965).pdf",
@@ -765,6 +1020,7 @@
     {
       "key": "HJH-WMuLNx",
       "countryID": "western_nigeria",
+      "citation": "W.R.L.N. 29 of 1958",
       "year": "1958",
       "thumbPath": "/laws/western_nigeria/Ekiti Western (1958).jpeg",
       "pdfPath": "/laws/western_nigeria/Ekiti Western (1958).pdf",
@@ -778,6 +1034,7 @@
     {
       "key": "BkIZbfuLEe",
       "countryID": "western_nigeria",
+      "citation": "W.R.L.N. 88 of 1958",
       "year": "1958",
       "thumbPath": "/laws/western_nigeria/Eredo (1958).jpeg",
       "pdfPath": "/laws/western_nigeria/Eredo (1958).pdf",
@@ -791,6 +1048,7 @@
     {
       "key": "Syw-Zfu8Ex",
       "countryID": "western_nigeria",
+      "citation": "W.N.L.N. 154 of 1965",
       "year": "1965",
       "thumbPath": "/laws/western_nigeria/Ese-Odo 1 (1965).jpeg",
       "pdfPath": "/laws/western_nigeria/Ese-Odo 1 (1965).pdf",
@@ -800,6 +1058,7 @@
     {
       "key": "ByO-bMdUNg",
       "countryID": "western_nigeria",
+      "citation": "W.N.L.N. 228 of 1965",
       "year": "1965",
       "thumbPath": "/laws/western_nigeria/Ese-Odo 2 (1965).jpeg",
       "pdfPath": "/laws/western_nigeria/Ese-Odo 2 (1965).pdf",
@@ -809,6 +1068,7 @@
     {
       "key": "SJF-bfdIEe",
       "countryID": "western_nigeria",
+      "citation": "W.N.L.N. 229 of 1965",
       "year": "1965",
       "thumbPath": "/laws/western_nigeria/Ese-Odo 3 (1965).jpeg",
       "pdfPath": "/laws/western_nigeria/Ese-Odo 3 (1965).pdf",
@@ -818,6 +1078,7 @@
     {
       "key": "By5bbG_UEe",
       "countryID": "western_nigeria",
+      "citation": "W.S.L.N. 111 of 1967",
       "year": "1967",
       "thumbPath": "/laws/western_nigeria/Ibarapa East (1967).jpeg",
       "pdfPath": "/laws/western_nigeria/Ibarapa East (1967).pdf",
@@ -831,6 +1092,7 @@
     {
       "key": "Hyib-zOLVx",
       "countryID": "western_nigeria",
+      "citation": "W.S.L.N. 100 of 1967",
       "year": "1967",
       "thumbPath": "/laws/western_nigeria/Ibarapa West (1967).jpeg",
       "pdfPath": "/laws/western_nigeria/Ibarapa West (1967).pdf",
@@ -844,6 +1106,7 @@
     {
       "key": "Sy2W-fOUVe",
       "countryID": "western_nigeria",
+      "citation": "W.N.L.N. 177 of 1962",
       "year": "1962",
       "thumbPath": "/laws/western_nigeria/Ibeju (1962).jpeg",
       "pdfPath": "/laws/western_nigeria/Ibeju (1962).pdf",
@@ -857,6 +1120,7 @@
     {
       "key": "BJ6WbGuINx",
       "countryID": "western_nigeria",
+      "citation": "W.S.L.N. 110 of 1968",
       "year": "1968",
       "thumbPath": "/laws/western_nigeria/Ife (1968).jpeg",
       "pdfPath": "/laws/western_nigeria/Ife (1968).pdf",
@@ -870,6 +1134,7 @@
     {
       "key": "SkAW-GOIEx",
       "countryID": "western_nigeria",
+      "citation": "W.N.L.N. 388 of 1960",
       "year": "1960",
       "thumbPath": "/laws/western_nigeria/Ifetedo (1960).jpeg",
       "pdfPath": "/laws/western_nigeria/Ifetedo (1960).pdf",
@@ -887,6 +1152,7 @@
     {
       "key": "rkkzZMdINx",
       "countryID": "western_nigeria",
+      "citation": "W.N.L.N. 331 of 1965",
       "year": "1965",
       "thumbPath": "/laws/western_nigeria/Ijebu East Central (1965).jpeg",
       "pdfPath": "/laws/western_nigeria/Ijebu East Central (1965).pdf",
@@ -900,6 +1166,7 @@
     {
       "key": "rJgMWfO8Ex",
       "countryID": "western_nigeria",
+      "citation": "W.R.L.N. 294 of 1956",
       "year": "1956",
       "thumbPath": "/laws/western_nigeria/Ijebu Eastern (1956).jpeg",
       "pdfPath": "/laws/western_nigeria/Ijebu Eastern (1956).pdf",
@@ -913,6 +1180,7 @@
     {
       "key": "HkZzZzd8Nl",
       "countryID": "western_nigeria",
+      "citation": "W.N.L.N. 35 of 1964",
       "year": "1964",
       "thumbPath": "/laws/western_nigeria/Ijebu Imusin (1964).jpeg",
       "pdfPath": "/laws/western_nigeria/Ijebu Imusin (1964).pdf",
@@ -926,6 +1194,7 @@
     {
       "key": "ByzGZGdIEe",
       "countryID": "western_nigeria",
+      "citation": "W.R.L.N. 489 of 1959",
       "year": "1959",
       "thumbPath": "/laws/western_nigeria/Ijebu North-Western (1959).jpeg",
       "pdfPath": "/laws/western_nigeria/Ijebu North-Western (1959).pdf",
@@ -939,6 +1208,7 @@
     {
       "key": "HkQzZfuUVx",
       "countryID": "western_nigeria",
+      "citation": "W.N.L.N. 68 of 1963",
       "year": "1963",
       "thumbPath": "/laws/western_nigeria/Ijebu North-Western (1963).jpeg",
       "pdfPath": "/laws/western_nigeria/Ijebu North-Western (1963).pdf",
@@ -952,6 +1222,7 @@
     {
       "key": "B1EfWM_LEx",
       "countryID": "western_nigeria",
+      "citation": "W.R.L.N. 488 of 1959",
       "year": "1959",
       "thumbPath": "/laws/western_nigeria/Ijebu Northern (1959).jpeg",
       "pdfPath": "/laws/western_nigeria/Ijebu Northern (1959).pdf",
@@ -965,6 +1236,7 @@
     {
       "key": "SJSfZf_IVg",
       "countryID": "western_nigeria",
+      "citation": "W.N.L.N. 20 of 1965",
       "year": "1965",
       "thumbPath": "/laws/western_nigeria/Ijebu Northern (1965).jpeg",
       "pdfPath": "/laws/western_nigeria/Ijebu Northern (1965).pdf",
@@ -978,6 +1250,7 @@
     {
       "key": "B1LzWfu8Ex",
       "countryID": "western_nigeria",
+      "citation": "W.R.L.N. 561 of 1959",
       "year": "1959",
       "thumbPath": "/laws/western_nigeria/Ijebu Southern (1959).jpeg",
       "pdfPath": "/laws/western_nigeria/Ijebu Southern (1959).pdf",
@@ -991,6 +1264,7 @@
     {
       "key": "HkPzWfdLEe",
       "countryID": "western_nigeria",
+      "citation": "W.R.L.N. 451 of 1959",
       "year": "1959",
       "thumbPath": "/laws/western_nigeria/Ijebu Waterside (1959).jpeg",
       "pdfPath": "/laws/western_nigeria/Ijebu Waterside (1959).pdf",
@@ -1004,6 +1278,7 @@
     {
       "key": "Hyuf-GuLNx",
       "countryID": "western_nigeria",
+      "citation": "W.N.L.N. 141 of 1964",
       "year": "1964",
       "thumbPath": "/laws/western_nigeria/Ijebu-Igbo (1964).jpeg",
       "pdfPath": "/laws/western_nigeria/Ijebu-Igbo (1964).pdf",
@@ -1017,6 +1292,7 @@
     {
       "key": "SkFMWM_INg",
       "countryID": "western_nigeria",
+      "citation": "W.S.L.N. 83 of 1975",
       "year": "1975",
       "thumbPath": "/laws/western_nigeria/Ijebu-Igbo (1975).jpeg",
       "pdfPath": "/laws/western_nigeria/Ijebu-Igbo (1975).pdf",
@@ -1030,6 +1306,7 @@
     {
       "key": "Hk9z-zOL4e",
       "countryID": "western_nigeria",
+      "citation": "W.N.L.N. 15 of 1961",
       "year": "1961",
       "thumbPath": "/laws/western_nigeria/Ijebu-Ode (1961).jpeg",
       "pdfPath": "/laws/western_nigeria/Ijebu-Ode (1961).pdf",
@@ -1043,6 +1320,7 @@
     {
       "key": "BJofbzuUNg",
       "countryID": "western_nigeria",
+      "citation": "W.R.L.N. 504 of 1958",
       "year": "1958",
       "thumbPath": "/laws/western_nigeria/Ijede (1958).jpeg",
       "pdfPath": "/laws/western_nigeria/Ijede (1958).pdf",
@@ -1056,6 +1334,7 @@
     {
       "key": "Sy2GWzOLEl",
       "countryID": "western_nigeria",
+      "citation": "W.N.L.N. 408 of 1964",
       "year": "1964",
       "thumbPath": "/laws/western_nigeria/Ikale Orisunmeta (1964).jpeg",
       "pdfPath": "/laws/western_nigeria/Ikale Orisunmeta (1964).pdf",
@@ -1069,6 +1348,7 @@
     {
       "key": "S1pG-GOLVg",
       "countryID": "western_nigeria",
+      "citation": "W.R.L.N. 363 of 1959",
       "year": "1959",
       "thumbPath": "/laws/western_nigeria/Ikenne (1959).jpeg",
       "pdfPath": "/laws/western_nigeria/Ikenne (1959).pdf",
@@ -1085,6 +1365,7 @@
     {
       "key": "By0zbz_I4x",
       "countryID": "western_nigeria",
+      "citation": "W.N.L.N. 384 of 1961",
       "year": "1961",
       "thumbPath": "/laws/western_nigeria/Ikirun (1961).jpeg",
       "pdfPath": "/laws/western_nigeria/Ikirun (1961).pdf",
@@ -1098,6 +1379,7 @@
     {
       "key": "BJkQ-fdINx",
       "countryID": "western_nigeria",
+      "citation": "W.S.L.N. 9 of 1970",
       "year": "1970",
       "thumbPath": "/laws/western_nigeria/Ikirun (1970).jpeg",
       "pdfPath": "/laws/western_nigeria/Ikirun (1970).pdf",
@@ -1111,6 +1393,7 @@
     {
       "key": "Byem-MOUEx",
       "countryID": "western_nigeria",
+      "citation": "W.N.L.N. 447 of 1965",
       "year": "1965",
       "thumbPath": "/laws/western_nigeria/Ikole (1965).jpeg",
       "pdfPath": "/laws/western_nigeria/Ikole (1965).pdf",
@@ -1124,6 +1407,7 @@
     {
       "key": "SkZQ-z_UNl",
       "countryID": "western_nigeria",
+      "citation": "W.R.L.N. 278 of 1958",
       "year": "1958",
       "thumbPath": "/laws/western_nigeria/Ikorodu (1958).jpeg",
       "pdfPath": "/laws/western_nigeria/Ikorodu (1958).pdf",
@@ -1137,6 +1421,7 @@
     {
       "key": "ryMXbzu8Vx",
       "countryID": "western_nigeria",
+      "citation": "W.R.L.N. 361 of 1959",
       "year": "1959",
       "thumbPath": "/laws/western_nigeria/Ikosi (1959).jpeg",
       "pdfPath": "/laws/western_nigeria/Ikosi (1959).pdf",
@@ -1153,6 +1438,7 @@
     {
       "key": "SyQQWMOLNe",
       "countryID": "western_nigeria",
+      "citation": "W.N.L.N. 107 of 1962",
       "year": "1962",
       "thumbPath": "/laws/western_nigeria/Ikosi (1962).jpeg",
       "pdfPath": "/laws/western_nigeria/Ikosi (1962).pdf",
@@ -1169,6 +1455,7 @@
     {
       "key": "BJ4Q-Md8Eg",
       "countryID": "western_nigeria",
+      "citation": "W.N.L.N. 474 of 1965",
       "year": "1965",
       "thumbPath": "/laws/western_nigeria/Ila (1965).jpeg",
       "pdfPath": "/laws/western_nigeria/Ila (1965).pdf",
@@ -1182,6 +1469,7 @@
     {
       "key": "B1BQWzd8Ve",
       "countryID": "western_nigeria",
+      "citation": "W.S.L.N. 5 of 1970",
       "year": "1970",
       "thumbPath": "/laws/western_nigeria/Ila (1970).jpeg",
       "pdfPath": "/laws/western_nigeria/Ila (1970).pdf",
@@ -1195,6 +1483,7 @@
     {
       "key": "S1LQ-MdLVl",
       "countryID": "western_nigeria",
+      "citation": "W.N.L.N. 630 of 1965",
       "year": "1965",
       "thumbPath": "/laws/western_nigeria/Ilaje (1965).jpeg",
       "pdfPath": "/laws/western_nigeria/Ilaje (1965).pdf",
@@ -1208,6 +1497,7 @@
     {
       "key": "SJP7Wz_84e",
       "countryID": "western_nigeria",
+      "citation": "W.R.L.N. 301 of 1956",
       "year": "1956",
       "thumbPath": "/laws/western_nigeria/Ilaro (1956).jpeg",
       "pdfPath": "/laws/western_nigeria/Ilaro (1956).pdf",
@@ -1221,6 +1511,7 @@
     {
       "key": "HJOmZf_UNg",
       "countryID": "western_nigeria",
+      "citation": "W.R.L.N. 295 of 1956",
       "year": "1956",
       "thumbPath": "/laws/western_nigeria/Ileoluji_Okeigbo (1956).jpeg",
       "pdfPath": "/laws/western_nigeria/Ileoluji_Okeigbo (1956).pdf",
@@ -1234,6 +1525,7 @@
     {
       "key": "ByFXWMuINx",
       "countryID": "western_nigeria",
+      "citation": "W.R.L.N. 323 of 1956",
       "year": "1956",
       "thumbPath": "/laws/western_nigeria/Ilugun_Alaro (1956).jpeg",
       "pdfPath": "/laws/western_nigeria/Ilugun_Alaro (1956).pdf",
@@ -1247,6 +1539,7 @@
     {
       "key": "Hy5QbfuU4e",
       "countryID": "western_nigeria",
+      "citation": "W.R.L.N. 142 of 1958",
       "year": "1958",
       "thumbPath": "/laws/western_nigeria/Ilugun_Alaro (1958).jpeg",
       "pdfPath": "/laws/western_nigeria/Ilugun_Alaro (1958).pdf",
@@ -1260,6 +1553,7 @@
     {
       "key": "HJoQZzdLEg",
       "countryID": "western_nigeria",
+      "citation": "W.N.L.N. 383 of 1961",
       "year": "1961",
       "thumbPath": "/laws/western_nigeria/Imala (1961).jpeg",
       "pdfPath": "/laws/western_nigeria/Imala (1961).pdf",
@@ -1273,6 +1567,7 @@
     {
       "key": "HknQZMOL4x",
       "countryID": "western_nigeria",
+      "citation": "W.N.L.N. 504 of 1964",
       "year": "1964",
       "thumbPath": "/laws/western_nigeria/Imala (1964).jpeg",
       "pdfPath": "/laws/western_nigeria/Imala (1964).pdf",
@@ -1286,6 +1581,7 @@
     {
       "key": "H1p7ZGu8Vg",
       "countryID": "western_nigeria",
+      "citation": "W.R.L.N. 145 of 1959",
       "year": "1959",
       "thumbPath": "/laws/western_nigeria/Ipara (1959).jpeg",
       "pdfPath": "/laws/western_nigeria/Ipara (1959).pdf",
@@ -1299,6 +1595,7 @@
     {
       "key": "SJRQbf_UVx",
       "countryID": "western_nigeria",
+      "citation": "W.N.L.N. 74 of 1965",
       "year": "1965",
       "thumbPath": "/laws/western_nigeria/Iperu (1965).jpeg",
       "pdfPath": "/laws/western_nigeria/Iperu (1965).pdf",
@@ -1312,6 +1609,7 @@
     {
       "key": "rJJV-GdIVe",
       "countryID": "western_nigeria",
+      "citation": "W.N.L.N. 289 of 1964",
       "year": "1964",
       "thumbPath": "/laws/western_nigeria/Ipetumodu (1964).jpeg",
       "pdfPath": "/laws/western_nigeria/Ipetumodu (1964).pdf",
@@ -1325,6 +1623,7 @@
     {
       "key": "B1xE-GdLEx",
       "countryID": "western_nigeria",
+      "citation": "W.R.L.N. 339 of 1958",
       "year": "1958",
       "thumbPath": "/laws/western_nigeria/Ipokia (1958).jpeg",
       "pdfPath": "/laws/western_nigeria/Ipokia (1958).pdf",
@@ -1338,6 +1637,7 @@
     {
       "key": "SyW4bfO8El",
       "countryID": "western_nigeria",
+      "citation": "W.N.L.N. 321 of 1965",
       "year": "1965",
       "thumbPath": "/laws/western_nigeria/Irekari (1965).jpeg",
       "pdfPath": "/laws/western_nigeria/Irekari (1965).pdf",
@@ -1351,6 +1651,7 @@
     {
       "key": "S1fNWfOUNl",
       "countryID": "western_nigeria",
+      "citation": "W.S.L.N. 10 of 1970",
       "year": "1970",
       "thumbPath": "/laws/western_nigeria/Irekari (1970).jpeg",
       "pdfPath": "/laws/western_nigeria/Irekari (1970).pdf",
@@ -1364,6 +1665,7 @@
     {
       "key": "SJQ4WfuUEg",
       "countryID": "western_nigeria",
+      "citation": "W.S.L.N. 68 of 1975",
       "year": "1975",
       "thumbPath": "/laws/western_nigeria/Irepo (1975).jpeg",
       "pdfPath": "/laws/western_nigeria/Irepo (1975).pdf",
@@ -1377,6 +1679,7 @@
     {
       "key": "HJEE-zu8Vl",
       "countryID": "western_nigeria",
+      "citation": "W.R.L.N. 305 of 1959",
       "year": "1959",
       "thumbPath": "/laws/western_nigeria/Ishara (1959).jpeg",
       "pdfPath": "/laws/western_nigeria/Ishara (1959).pdf",
@@ -1394,6 +1697,7 @@
     {
       "key": "ByrE-z_L4g",
       "countryID": "western_nigeria",
+      "citation": "W.S.L.N. 65 of 1968",
       "year": "1968",
       "thumbPath": "/laws/western_nigeria/Iwo (1968).jpeg",
       "pdfPath": "/laws/western_nigeria/Iwo (1968).pdf",
@@ -1407,6 +1711,7 @@
     {
       "key": "BkUVWMOUVl",
       "countryID": "western_nigeria",
+      "citation": "W.N.L.N. 341 of 1964",
       "year": "1964",
       "thumbPath": "/laws/western_nigeria/Lekki (1964).jpeg",
       "pdfPath": "/laws/western_nigeria/Lekki (1964).pdf",
@@ -1420,6 +1725,7 @@
     {
       "key": "BJvEWGOIVe",
       "countryID": "western_nigeria",
+      "citation": "W.R.L.N. 100 of 1959",
       "year": "1959",
       "thumbPath": "/laws/western_nigeria/Makun [Shagamu] (1959).jpeg",
       "pdfPath": "/laws/western_nigeria/Makun [Shagamu] (1959).pdf",
@@ -1433,6 +1739,7 @@
     {
       "key": "rkuVbf_IVx",
       "countryID": "western_nigeria",
+      "citation": "W.N.L.N. 267 of 1962",
       "year": "1962",
       "thumbPath": "/laws/western_nigeria/Makun [Shagamu] (1962).jpeg",
       "pdfPath": "/laws/western_nigeria/Makun [Shagamu] (1962).pdf",
@@ -1446,6 +1753,7 @@
     {
       "key": "H1tE-MuIEl",
       "countryID": "western_nigeria",
+      "citation": "W.N.L.N. 38 of 1963",
       "year": "1963",
       "thumbPath": "/laws/western_nigeria/Mushin (1963).jpeg",
       "pdfPath": "/laws/western_nigeria/Mushin (1963).pdf",
@@ -1459,6 +1767,7 @@
     {
       "key": "HyqVWGOIVl",
       "countryID": "western_nigeria",
+      "citation": "W.S.L.N. 10 of 1971",
       "year": "1971",
       "thumbPath": "/laws/western_nigeria/Ode Remo (1971).jpeg",
       "pdfPath": "/laws/western_nigeria/Ode Remo (1971).pdf",
@@ -1472,6 +1781,7 @@
     {
       "key": "SysEWG_UEe",
       "countryID": "western_nigeria",
+      "citation": "W.R.L.N. 457 of 1958",
       "year": "1958",
       "thumbPath": "/laws/western_nigeria/Offin [Shagamu] (1958).jpeg",
       "pdfPath": "/laws/western_nigeria/Offin [Shagamu] (1958).pdf",
@@ -1485,6 +1795,7 @@
     {
       "key": "S13EbfuIVl",
       "countryID": "western_nigeria",
+      "citation": "W.R.L.N. 505 of 1958",
       "year": "1958",
       "thumbPath": "/laws/western_nigeria/Ogere (1958).jpeg",
       "pdfPath": "/laws/western_nigeria/Ogere (1958).pdf",
@@ -1498,6 +1809,7 @@
     {
       "key": "HkTVZfuLNg",
       "countryID": "western_nigeria",
+      "citation": "W.R.L.N. 109 of 1960",
       "year": "1960",
       "thumbPath": "/laws/western_nigeria/Oka (1960).jpeg",
       "pdfPath": "/laws/western_nigeria/Oka (1960).pdf",
@@ -1511,6 +1823,7 @@
     {
       "key": "SyR4bzuIEx",
       "countryID": "western_nigeria",
+      "citation": "W.N.L.N. 446 of 1965",
       "year": "1965",
       "thumbPath": "/laws/western_nigeria/Okeho_Iganna (1965).jpeg",
       "pdfPath": "/laws/western_nigeria/Okeho_Iganna (1965).pdf",
@@ -1524,6 +1837,7 @@
     {
       "key": "Hk1SZM_IEg",
       "countryID": "western_nigeria",
+      "citation": "W.S.L.N. 3 of 1975",
       "year": "1975",
       "thumbPath": "/laws/western_nigeria/Ondo (1975).jpeg",
       "pdfPath": "/laws/western_nigeria/Ondo (1975).pdf",
@@ -1537,6 +1851,7 @@
     {
       "key": "HkeH-fdINe",
       "countryID": "western_nigeria",
+      "citation": "W.N.L.N. 201 of 1965",
       "year": "1965",
       "thumbPath": "/laws/western_nigeria/Ondo Western (1965).jpeg",
       "pdfPath": "/laws/western_nigeria/Ondo Western (1965).pdf",
@@ -1550,6 +1865,7 @@
     {
       "key": "rJZHbMOIVe",
       "countryID": "western_nigeria",
+      "citation": "W.N.L.N. 24 of 1964",
       "year": "1964",
       "thumbPath": "/laws/western_nigeria/Oshunmaiyegun (1964).jpeg",
       "pdfPath": "/laws/western_nigeria/Oshunmaiyegun (1964).pdf",
@@ -1563,6 +1879,7 @@
     {
       "key": "HyfHZz_I4e",
       "countryID": "western_nigeria",
+      "citation": "W.R.L.N. 89 of 1958",
       "year": "1958",
       "thumbPath": "/laws/western_nigeria/Otta (1958).jpeg",
       "pdfPath": "/laws/western_nigeria/Otta (1958).pdf",
@@ -1576,6 +1893,7 @@
     {
       "key": "SymBWz_U4x",
       "countryID": "western_nigeria",
+      "citation": "W.N.L.N. 323 of 1965",
       "year": "1965",
       "thumbPath": "/laws/western_nigeria/Otun (1965).jpeg",
       "pdfPath": "/laws/western_nigeria/Otun (1965).pdf",
@@ -1589,6 +1907,7 @@
     {
       "key": "HJEBbf_UEe",
       "countryID": "western_nigeria",
+      "citation": "W.N.L.N. 612 of 1964",
       "year": "1964",
       "thumbPath": "/laws/western_nigeria/Owo (1964).jpeg",
       "pdfPath": "/laws/western_nigeria/Owo (1964).pdf",
@@ -1602,6 +1921,7 @@
     {
       "key": "BkBrWzO8Ng",
       "countryID": "western_nigeria",
+      "citation": "W.N.L.N. 250 of 1964",
       "year": "1964",
       "thumbPath": "/laws/western_nigeria/Oyo Southern (1964).jpeg",
       "pdfPath": "/laws/western_nigeria/Oyo Southern (1964).pdf",
@@ -1615,6 +1935,7 @@
     {
       "key": "rkLH-GuL4g",
       "countryID": "western_nigeria",
+      "citation": "W.N.L.N. 56 of 1965",
       "year": "1965",
       "thumbPath": "/laws/western_nigeria/Shaki (1965).jpeg",
       "pdfPath": "/laws/western_nigeria/Shaki (1965).pdf",
@@ -1631,6 +1952,7 @@
     {
       "key": "rkwHZfdIEl",
       "countryID": "western_nigeria",
+      "citation": "W.R.L.N. 35 of 1959",
       "year": "1959",
       "thumbPath": "/laws/western_nigeria/Warri (1959).jpeg",
       "pdfPath": "/laws/western_nigeria/Warri (1959).pdf",
