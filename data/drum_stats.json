@@ -1,0 +1,2112 @@
+{
+  "namecount": 124,
+  "idcount": 122,
+  "names": {
+    "Sakara": 48,
+    "Iya-Ilu": 12,
+    "Dundun": 43,
+    "Sekere": 13,
+    "Aro": 10,
+    "Kete": 35,
+    "Agasa": 27,
+    "Konkoma": 3,
+    "Agidigbo": 23,
+    "Mambo Orchestra": 4,
+    "Batakoto": 31,
+    "Apala": 50,
+    "Juju": 48,
+    "Seli-Moda": 1,
+    "Bembe": 6,
+    "Angoso": 1,
+    "Waka Music": 8,
+    "Mambo": 7,
+    "Ukere": 1,
+    "Iyeyume": 1,
+    "Nkoro": 1,
+    "More": 2,
+    "Ere Ase": 1,
+    "Agbeleke": 1,
+    "Osirigi": 2,
+    "Iyailu": 2,
+    "Kokoma": 7,
+    "Bata": 10,
+    "Konkoloyo": 1,
+    "Ogbele": 1,
+    "Adan": 2,
+    "Ijebu": 4,
+    "Imore": 1,
+    "Iya Ilu": 33,
+    "Local Band Orchestra": 8,
+    "Recording Tape": 2,
+    "Hungan": 2,
+    "Agbodaglome": 1,
+    "Sato": 1,
+    "Akoto": 2,
+    "Agahun": 1,
+    "Dohun": 1,
+    "Gangan": 5,
+    "Apiri": 1,
+    "Agere": 3,
+    "Apesi": 2,
+    "Agbe": 5,
+    "Samba": 2,
+    "Kannango": 2,
+    "Kitipo": 5,
+    "Adamo": 3,
+    "Keregbe": 1,
+    "Ibembe": 2,
+    "Waka": 4,
+    "Ashiko": 2,
+    "Alasa": 2,
+    "Ape": 3,
+    "All types of drum": 5,
+    "Biripo": 3,
+    "Asiko": 5,
+    "Asha": 1,
+    "Band Set": 1,
+    "Bata Koto": 4,
+    "Kitiko": 1,
+    "Alasha": 4,
+    "Orchestra": 4,
+    "Abata": 1,
+    "Siginikoko": 1,
+    "Ireso": 1,
+    "Umore": 1,
+    "Omo Agogo": 1,
+    "Ayu": 2,
+    "Elesa": 1,
+    "Ojojo": 1,
+    "Ulale": 1,
+    "Agba": 1,
+    "Itsekiri Native Dance": 1,
+    "Iyere": 1,
+    "Kiriji": 1,
+    "Mabo Orchestra": 1,
+    "Seli": 1,
+    "Bata-koto": 1,
+    "Kiriboto": 1,
+    "Ahangere": 1,
+    "Woro": 1,
+    "Alemo": 1,
+    "Etubu": 1,
+    "Origbo": 1,
+    "Agbelege": 2,
+    "Owe": 1,
+    "Perubo": 1,
+    "Raso": 1,
+    "Ogo": 1,
+    "Tape Recording": 1,
+    "Sakara with electronic gadgets": 1,
+    "Juju with electronic gadgets": 1,
+    "Sakara without electronic gadgets": 1,
+    "Juju without electronic gadgets": 1,
+    "Panseke": 1,
+    "Koko": 1,
+    "Gelede": 1,
+    "Age": 1,
+    "Agogo": 1,
+    "Hale": 1,
+    "Keta": 1,
+    "Ajigbo": 1,
+    "Brass Band": 1,
+    "Igbaji": 1,
+    "Ipesi": 1,
+    "Osiji": 1,
+    "Oghosoro": 1,
+    "Gbedu": 1,
+    "Are": 1,
+    "Laghalogho": 1,
+    "Arele": 1,
+    "Araba": 1,
+    "Gbudu": 1,
+    "Igbade": 1,
+    "Shekere": 1,
+    "Reso": 1,
+    "Ajabure": 1,
+    "Akula": 1,
+    "Jejeko": 1,
+    "Amplifier": 1
+  },
+  "ids": {
+    "sakara": 48,
+    "iyailu": 47,
+    "dundun": 43,
+    "sekere": 13,
+    "aro": 10,
+    "kete": 35,
+    "agasa": 26,
+    "konkoma": 3,
+    "agidigbo": 23,
+    "mambo_orchestra": 4,
+    "batakoto": 36,
+    "apala": 50,
+    "juju": 48,
+    "selimoda": 1,
+    "bembe": 6,
+    "angoso": 1,
+    "waka_music": 8,
+    "mambo": 7,
+    "ukere": 1,
+    "iyeyume": 1,
+    "nkoro": 1,
+    "more": 2,
+    "ere_ase": 1,
+    "agbeleke": 1,
+    "osirigi": 2,
+    "kokoma": 7,
+    "bata": 10,
+    "konkoloyo": 1,
+    "ogbele": 1,
+    "adan": 2,
+    "ijebu": 4,
+    "imore": 1,
+    "local_band_orchestra": 8,
+    "recording_tape": 2,
+    "hungan": 2,
+    "agbodaglome": 1,
+    "sato": 1,
+    "akoto": 2,
+    "agahun": 1,
+    "dohun": 1,
+    "gangan": 5,
+    "apiri": 1,
+    "agere": 3,
+    "apesi": 2,
+    "agbe": 5,
+    "samba": 2,
+    "kannango": 2,
+    "kitipo": 5,
+    "adamo": 3,
+    "keregbe": 1,
+    "ibembe": 2,
+    "waka": 4,
+    "ashiko": 2,
+    "alasa": 1,
+    "ape": 3,
+    "all_types_of_drum": 5,
+    "biripo": 3,
+    "asiko": 5,
+    "asha": 1,
+    "band_set": 1,
+    "kitiko": 1,
+    "alasha": 4,
+    "orchestra": 4,
+    "abata": 1,
+    "siginikoko": 1,
+    "ireso": 1,
+    "umore": 1,
+    "omo_agogo": 1,
+    "ayu": 2,
+    "elesa": 1,
+    "ojojo": 1,
+    "ulale": 1,
+    "agba": 1,
+    "itsekiri_native_dance": 1,
+    "iyere": 1,
+    "kiriji": 1,
+    "mabo_orchestra": 1,
+    "seli": 1,
+    "kiriboto": 1,
+    "ahangere": 1,
+    "woro": 1,
+    "alemo": 1,
+    "etubu": 1,
+    "origbo": 1,
+    "agbelege": 2,
+    "owe": 1,
+    "perubo": 1,
+    "raso": 1,
+    "ogo": 1,
+    "tape_recording": 1,
+    "sakara_with_electronic_gadgets": 1,
+    "juju_with_electronic_gadgets": 1,
+    "sakara_without_electronic_gadgets": 1,
+    "juju_without_electronic_gadgets": 1,
+    "panseke": 1,
+    "koso": 1,
+    "gelede": 1,
+    "age": 1,
+    "agogo": 1,
+    "hale": 1,
+    "Agasa": 1,
+    "Alasa": 1,
+    "keta": 1,
+    "Ajigbo": 1,
+    "brass_band": 1,
+    "igbaji": 1,
+    "ipesi": 1,
+    "osiji": 1,
+    "oghosoro": 1,
+    "gbedu": 1,
+    "are": 1,
+    "laghalogho": 1,
+    "arele": 1,
+    "araba": 1,
+    "gbudu": 1,
+    "igbade": 1,
+    "shekere": 1,
+    "reso": 1,
+    "ajabure": 1,
+    "akula": 1,
+    "jejeko": 1,
+    "amplifier": 1
+  },
+  "id_name_map": {
+    "sakara": {
+      "Sakara": 48
+    },
+    "iyailu": {
+      "Iya-Ilu": 12,
+      "Iyailu": 2,
+      "Iya Ilu": 33
+    },
+    "dundun": {
+      "Dundun": 43
+    },
+    "sekere": {
+      "Sekere": 13
+    },
+    "aro": {
+      "Aro": 10
+    },
+    "kete": {
+      "Kete": 35
+    },
+    "agasa": {
+      "Agasa": 26
+    },
+    "konkoma": {
+      "Konkoma": 3
+    },
+    "agidigbo": {
+      "Agidigbo": 23
+    },
+    "mambo_orchestra": {
+      "Mambo Orchestra": 4
+    },
+    "batakoto": {
+      "Batakoto": 31,
+      "Bata Koto": 4,
+      "Bata-koto": 1
+    },
+    "apala": {
+      "Apala": 50
+    },
+    "juju": {
+      "Juju": 48
+    },
+    "selimoda": {
+      "Seli-Moda": 1
+    },
+    "bembe": {
+      "Bembe": 6
+    },
+    "angoso": {
+      "Angoso": 1
+    },
+    "waka_music": {
+      "Waka Music": 8
+    },
+    "mambo": {
+      "Mambo": 7
+    },
+    "ukere": {
+      "Ukere": 1
+    },
+    "iyeyume": {
+      "Iyeyume": 1
+    },
+    "nkoro": {
+      "Nkoro": 1
+    },
+    "more": {
+      "More": 2
+    },
+    "ere_ase": {
+      "Ere Ase": 1
+    },
+    "agbeleke": {
+      "Agbeleke": 1
+    },
+    "osirigi": {
+      "Osirigi": 2
+    },
+    "kokoma": {
+      "Kokoma": 7
+    },
+    "bata": {
+      "Bata": 10
+    },
+    "konkoloyo": {
+      "Konkoloyo": 1
+    },
+    "ogbele": {
+      "Ogbele": 1
+    },
+    "adan": {
+      "Adan": 2
+    },
+    "ijebu": {
+      "Ijebu": 4
+    },
+    "imore": {
+      "Imore": 1
+    },
+    "local_band_orchestra": {
+      "Local Band Orchestra": 8
+    },
+    "recording_tape": {
+      "Recording Tape": 2
+    },
+    "hungan": {
+      "Hungan": 2
+    },
+    "agbodaglome": {
+      "Agbodaglome": 1
+    },
+    "sato": {
+      "Sato": 1
+    },
+    "akoto": {
+      "Akoto": 2
+    },
+    "agahun": {
+      "Agahun": 1
+    },
+    "dohun": {
+      "Dohun": 1
+    },
+    "gangan": {
+      "Gangan": 5
+    },
+    "apiri": {
+      "Apiri": 1
+    },
+    "agere": {
+      "Agere": 3
+    },
+    "apesi": {
+      "Apesi": 2
+    },
+    "agbe": {
+      "Agbe": 5
+    },
+    "samba": {
+      "Samba": 2
+    },
+    "kannango": {
+      "Kannango": 2
+    },
+    "kitipo": {
+      "Kitipo": 5
+    },
+    "adamo": {
+      "Adamo": 3
+    },
+    "keregbe": {
+      "Keregbe": 1
+    },
+    "ibembe": {
+      "Ibembe": 2
+    },
+    "waka": {
+      "Waka": 4
+    },
+    "ashiko": {
+      "Ashiko": 2
+    },
+    "alasa": {
+      "Alasa": 1
+    },
+    "ape": {
+      "Ape": 3
+    },
+    "all_types_of_drum": {
+      "All types of drum": 5
+    },
+    "biripo": {
+      "Biripo": 3
+    },
+    "asiko": {
+      "Asiko": 5
+    },
+    "asha": {
+      "Asha": 1
+    },
+    "band_set": {
+      "Band Set": 1
+    },
+    "kitiko": {
+      "Kitiko": 1
+    },
+    "alasha": {
+      "Alasha": 4
+    },
+    "orchestra": {
+      "Orchestra": 4
+    },
+    "abata": {
+      "Abata": 1
+    },
+    "siginikoko": {
+      "Siginikoko": 1
+    },
+    "ireso": {
+      "Ireso": 1
+    },
+    "umore": {
+      "Umore": 1
+    },
+    "omo_agogo": {
+      "Omo Agogo": 1
+    },
+    "ayu": {
+      "Ayu": 2
+    },
+    "elesa": {
+      "Elesa": 1
+    },
+    "ojojo": {
+      "Ojojo": 1
+    },
+    "ulale": {
+      "Ulale": 1
+    },
+    "agba": {
+      "Agba": 1
+    },
+    "itsekiri_native_dance": {
+      "Itsekiri Native Dance": 1
+    },
+    "iyere": {
+      "Iyere": 1
+    },
+    "kiriji": {
+      "Kiriji": 1
+    },
+    "mabo_orchestra": {
+      "Mabo Orchestra": 1
+    },
+    "seli": {
+      "Seli": 1
+    },
+    "kiriboto": {
+      "Kiriboto": 1
+    },
+    "ahangere": {
+      "Ahangere": 1
+    },
+    "woro": {
+      "Woro": 1
+    },
+    "alemo": {
+      "Alemo": 1
+    },
+    "etubu": {
+      "Etubu": 1
+    },
+    "origbo": {
+      "Origbo": 1
+    },
+    "agbelege": {
+      "Agbelege": 2
+    },
+    "owe": {
+      "Owe": 1
+    },
+    "perubo": {
+      "Perubo": 1
+    },
+    "raso": {
+      "Raso": 1
+    },
+    "ogo": {
+      "Ogo": 1
+    },
+    "tape_recording": {
+      "Tape Recording": 1
+    },
+    "sakara_with_electronic_gadgets": {
+      "Sakara with electronic gadgets": 1
+    },
+    "juju_with_electronic_gadgets": {
+      "Juju with electronic gadgets": 1
+    },
+    "sakara_without_electronic_gadgets": {
+      "Sakara without electronic gadgets": 1
+    },
+    "juju_without_electronic_gadgets": {
+      "Juju without electronic gadgets": 1
+    },
+    "panseke": {
+      "Panseke": 1
+    },
+    "koso": {
+      "Koko": 1
+    },
+    "gelede": {
+      "Gelede": 1
+    },
+    "age": {
+      "Age": 1
+    },
+    "agogo": {
+      "Agogo": 1
+    },
+    "hale": {
+      "Hale": 1
+    },
+    "Agasa": {
+      "Agasa": 1
+    },
+    "Alasa": {
+      "Alasa": 1
+    },
+    "keta": {
+      "Keta": 1
+    },
+    "Ajigbo": {
+      "Ajigbo": 1
+    },
+    "brass_band": {
+      "Brass Band": 1
+    },
+    "igbaji": {
+      "Igbaji": 1
+    },
+    "ipesi": {
+      "Ipesi": 1
+    },
+    "osiji": {
+      "Osiji": 1
+    },
+    "oghosoro": {
+      "Oghosoro": 1
+    },
+    "gbedu": {
+      "Gbedu": 1
+    },
+    "are": {
+      "Are": 1
+    },
+    "laghalogho": {
+      "Laghalogho": 1
+    },
+    "arele": {
+      "Arele": 1
+    },
+    "araba": {
+      "Araba": 1
+    },
+    "gbudu": {
+      "Gbudu": 1
+    },
+    "igbade": {
+      "Igbade": 1
+    },
+    "shekere": {
+      "Shekere": 1
+    },
+    "reso": {
+      "Reso": 1
+    },
+    "ajabure": {
+      "Ajabure": 1
+    },
+    "akula": {
+      "Akula": 1
+    },
+    "jejeko": {
+      "Jejeko": 1
+    },
+    "amplifier": {
+      "Amplifier": 1
+    }
+  },
+  "sorted": {
+    "by_name": [
+      {
+        "Abata": 1
+      },
+      {
+        "Adamo": 3
+      },
+      {
+        "Adan": 2
+      },
+      {
+        "Agahun": 1
+      },
+      {
+        "Agasa": 27
+      },
+      {
+        "Agba": 1
+      },
+      {
+        "Agbe": 5
+      },
+      {
+        "Agbelege": 2
+      },
+      {
+        "Agbeleke": 1
+      },
+      {
+        "Agbodaglome": 1
+      },
+      {
+        "Age": 1
+      },
+      {
+        "Agere": 3
+      },
+      {
+        "Agidigbo": 23
+      },
+      {
+        "Agogo": 1
+      },
+      {
+        "Ahangere": 1
+      },
+      {
+        "Ajabure": 1
+      },
+      {
+        "Ajigbo": 1
+      },
+      {
+        "Akoto": 2
+      },
+      {
+        "Akula": 1
+      },
+      {
+        "Alasa": 2
+      },
+      {
+        "Alasha": 4
+      },
+      {
+        "Alemo": 1
+      },
+      {
+        "All types of drum": 5
+      },
+      {
+        "Amplifier": 1
+      },
+      {
+        "Angoso": 1
+      },
+      {
+        "Apala": 50
+      },
+      {
+        "Ape": 3
+      },
+      {
+        "Apesi": 2
+      },
+      {
+        "Apiri": 1
+      },
+      {
+        "Araba": 1
+      },
+      {
+        "Are": 1
+      },
+      {
+        "Arele": 1
+      },
+      {
+        "Aro": 10
+      },
+      {
+        "Asha": 1
+      },
+      {
+        "Ashiko": 2
+      },
+      {
+        "Asiko": 5
+      },
+      {
+        "Ayu": 2
+      },
+      {
+        "Band Set": 1
+      },
+      {
+        "Bata": 10
+      },
+      {
+        "Bata Koto": 4
+      },
+      {
+        "Bata-koto": 1
+      },
+      {
+        "Batakoto": 31
+      },
+      {
+        "Bembe": 6
+      },
+      {
+        "Biripo": 3
+      },
+      {
+        "Brass Band": 1
+      },
+      {
+        "Dohun": 1
+      },
+      {
+        "Dundun": 43
+      },
+      {
+        "Elesa": 1
+      },
+      {
+        "Ere Ase": 1
+      },
+      {
+        "Etubu": 1
+      },
+      {
+        "Gangan": 5
+      },
+      {
+        "Gbedu": 1
+      },
+      {
+        "Gbudu": 1
+      },
+      {
+        "Gelede": 1
+      },
+      {
+        "Hale": 1
+      },
+      {
+        "Hungan": 2
+      },
+      {
+        "Ibembe": 2
+      },
+      {
+        "Igbade": 1
+      },
+      {
+        "Igbaji": 1
+      },
+      {
+        "Ijebu": 4
+      },
+      {
+        "Imore": 1
+      },
+      {
+        "Ipesi": 1
+      },
+      {
+        "Ireso": 1
+      },
+      {
+        "Itsekiri Native Dance": 1
+      },
+      {
+        "Iya Ilu": 33
+      },
+      {
+        "Iya-Ilu": 12
+      },
+      {
+        "Iyailu": 2
+      },
+      {
+        "Iyere": 1
+      },
+      {
+        "Iyeyume": 1
+      },
+      {
+        "Jejeko": 1
+      },
+      {
+        "Juju": 48
+      },
+      {
+        "Juju with electronic gadgets": 1
+      },
+      {
+        "Juju without electronic gadgets": 1
+      },
+      {
+        "Kannango": 2
+      },
+      {
+        "Keregbe": 1
+      },
+      {
+        "Keta": 1
+      },
+      {
+        "Kete": 35
+      },
+      {
+        "Kiriboto": 1
+      },
+      {
+        "Kiriji": 1
+      },
+      {
+        "Kitiko": 1
+      },
+      {
+        "Kitipo": 5
+      },
+      {
+        "Koko": 1
+      },
+      {
+        "Kokoma": 7
+      },
+      {
+        "Konkoloyo": 1
+      },
+      {
+        "Konkoma": 3
+      },
+      {
+        "Laghalogho": 1
+      },
+      {
+        "Local Band Orchestra": 8
+      },
+      {
+        "Mabo Orchestra": 1
+      },
+      {
+        "Mambo": 7
+      },
+      {
+        "Mambo Orchestra": 4
+      },
+      {
+        "More": 2
+      },
+      {
+        "Nkoro": 1
+      },
+      {
+        "Ogbele": 1
+      },
+      {
+        "Oghosoro": 1
+      },
+      {
+        "Ogo": 1
+      },
+      {
+        "Ojojo": 1
+      },
+      {
+        "Omo Agogo": 1
+      },
+      {
+        "Orchestra": 4
+      },
+      {
+        "Origbo": 1
+      },
+      {
+        "Osiji": 1
+      },
+      {
+        "Osirigi": 2
+      },
+      {
+        "Owe": 1
+      },
+      {
+        "Panseke": 1
+      },
+      {
+        "Perubo": 1
+      },
+      {
+        "Raso": 1
+      },
+      {
+        "Recording Tape": 2
+      },
+      {
+        "Reso": 1
+      },
+      {
+        "Sakara": 48
+      },
+      {
+        "Sakara with electronic gadgets": 1
+      },
+      {
+        "Sakara without electronic gadgets": 1
+      },
+      {
+        "Samba": 2
+      },
+      {
+        "Sato": 1
+      },
+      {
+        "Sekere": 13
+      },
+      {
+        "Seli": 1
+      },
+      {
+        "Seli-Moda": 1
+      },
+      {
+        "Shekere": 1
+      },
+      {
+        "Siginikoko": 1
+      },
+      {
+        "Tape Recording": 1
+      },
+      {
+        "Ukere": 1
+      },
+      {
+        "Ulale": 1
+      },
+      {
+        "Umore": 1
+      },
+      {
+        "Waka": 4
+      },
+      {
+        "Waka Music": 8
+      },
+      {
+        "Woro": 1
+      }
+    ],
+    "by_id": [
+      {
+        "Agasa": 1
+      },
+      {
+        "Ajigbo": 1
+      },
+      {
+        "Alasa": 1
+      },
+      {
+        "abata": 1
+      },
+      {
+        "adamo": 3
+      },
+      {
+        "adan": 2
+      },
+      {
+        "agahun": 1
+      },
+      {
+        "agasa": 26
+      },
+      {
+        "agba": 1
+      },
+      {
+        "agbe": 5
+      },
+      {
+        "agbelege": 2
+      },
+      {
+        "agbeleke": 1
+      },
+      {
+        "agbodaglome": 1
+      },
+      {
+        "age": 1
+      },
+      {
+        "agere": 3
+      },
+      {
+        "agidigbo": 23
+      },
+      {
+        "agogo": 1
+      },
+      {
+        "ahangere": 1
+      },
+      {
+        "ajabure": 1
+      },
+      {
+        "akoto": 2
+      },
+      {
+        "akula": 1
+      },
+      {
+        "alasa": 1
+      },
+      {
+        "alasha": 4
+      },
+      {
+        "alemo": 1
+      },
+      {
+        "all_types_of_drum": 5
+      },
+      {
+        "amplifier": 1
+      },
+      {
+        "angoso": 1
+      },
+      {
+        "apala": 50
+      },
+      {
+        "ape": 3
+      },
+      {
+        "apesi": 2
+      },
+      {
+        "apiri": 1
+      },
+      {
+        "araba": 1
+      },
+      {
+        "are": 1
+      },
+      {
+        "arele": 1
+      },
+      {
+        "aro": 10
+      },
+      {
+        "asha": 1
+      },
+      {
+        "ashiko": 2
+      },
+      {
+        "asiko": 5
+      },
+      {
+        "ayu": 2
+      },
+      {
+        "band_set": 1
+      },
+      {
+        "bata": 10
+      },
+      {
+        "batakoto": 36
+      },
+      {
+        "bembe": 6
+      },
+      {
+        "biripo": 3
+      },
+      {
+        "brass_band": 1
+      },
+      {
+        "dohun": 1
+      },
+      {
+        "dundun": 43
+      },
+      {
+        "elesa": 1
+      },
+      {
+        "ere_ase": 1
+      },
+      {
+        "etubu": 1
+      },
+      {
+        "gangan": 5
+      },
+      {
+        "gbedu": 1
+      },
+      {
+        "gbudu": 1
+      },
+      {
+        "gelede": 1
+      },
+      {
+        "hale": 1
+      },
+      {
+        "hungan": 2
+      },
+      {
+        "ibembe": 2
+      },
+      {
+        "igbade": 1
+      },
+      {
+        "igbaji": 1
+      },
+      {
+        "ijebu": 4
+      },
+      {
+        "imore": 1
+      },
+      {
+        "ipesi": 1
+      },
+      {
+        "ireso": 1
+      },
+      {
+        "itsekiri_native_dance": 1
+      },
+      {
+        "iyailu": 47
+      },
+      {
+        "iyere": 1
+      },
+      {
+        "iyeyume": 1
+      },
+      {
+        "jejeko": 1
+      },
+      {
+        "juju": 48
+      },
+      {
+        "juju_with_electronic_gadgets": 1
+      },
+      {
+        "juju_without_electronic_gadgets": 1
+      },
+      {
+        "kannango": 2
+      },
+      {
+        "keregbe": 1
+      },
+      {
+        "keta": 1
+      },
+      {
+        "kete": 35
+      },
+      {
+        "kiriboto": 1
+      },
+      {
+        "kiriji": 1
+      },
+      {
+        "kitiko": 1
+      },
+      {
+        "kitipo": 5
+      },
+      {
+        "kokoma": 7
+      },
+      {
+        "konkoloyo": 1
+      },
+      {
+        "konkoma": 3
+      },
+      {
+        "koso": 1
+      },
+      {
+        "laghalogho": 1
+      },
+      {
+        "local_band_orchestra": 8
+      },
+      {
+        "mabo_orchestra": 1
+      },
+      {
+        "mambo": 7
+      },
+      {
+        "mambo_orchestra": 4
+      },
+      {
+        "more": 2
+      },
+      {
+        "nkoro": 1
+      },
+      {
+        "ogbele": 1
+      },
+      {
+        "oghosoro": 1
+      },
+      {
+        "ogo": 1
+      },
+      {
+        "ojojo": 1
+      },
+      {
+        "omo_agogo": 1
+      },
+      {
+        "orchestra": 4
+      },
+      {
+        "origbo": 1
+      },
+      {
+        "osiji": 1
+      },
+      {
+        "osirigi": 2
+      },
+      {
+        "owe": 1
+      },
+      {
+        "panseke": 1
+      },
+      {
+        "perubo": 1
+      },
+      {
+        "raso": 1
+      },
+      {
+        "recording_tape": 2
+      },
+      {
+        "reso": 1
+      },
+      {
+        "sakara": 48
+      },
+      {
+        "sakara_with_electronic_gadgets": 1
+      },
+      {
+        "sakara_without_electronic_gadgets": 1
+      },
+      {
+        "samba": 2
+      },
+      {
+        "sato": 1
+      },
+      {
+        "sekere": 13
+      },
+      {
+        "seli": 1
+      },
+      {
+        "selimoda": 1
+      },
+      {
+        "shekere": 1
+      },
+      {
+        "siginikoko": 1
+      },
+      {
+        "tape_recording": 1
+      },
+      {
+        "ukere": 1
+      },
+      {
+        "ulale": 1
+      },
+      {
+        "umore": 1
+      },
+      {
+        "waka": 4
+      },
+      {
+        "waka_music": 8
+      },
+      {
+        "woro": 1
+      }
+    ],
+    "by_namecount": [
+      {
+        "Apala": 50
+      },
+      {
+        "Juju": 48
+      },
+      {
+        "Sakara": 48
+      },
+      {
+        "Dundun": 43
+      },
+      {
+        "Kete": 35
+      },
+      {
+        "Iya Ilu": 33
+      },
+      {
+        "Batakoto": 31
+      },
+      {
+        "Agasa": 27
+      },
+      {
+        "Agidigbo": 23
+      },
+      {
+        "Sekere": 13
+      },
+      {
+        "Iya-Ilu": 12
+      },
+      {
+        "Aro": 10
+      },
+      {
+        "Bata": 10
+      },
+      {
+        "Local Band Orchestra": 8
+      },
+      {
+        "Waka Music": 8
+      },
+      {
+        "Kokoma": 7
+      },
+      {
+        "Mambo": 7
+      },
+      {
+        "Bembe": 6
+      },
+      {
+        "Agbe": 5
+      },
+      {
+        "All types of drum": 5
+      },
+      {
+        "Asiko": 5
+      },
+      {
+        "Gangan": 5
+      },
+      {
+        "Kitipo": 5
+      },
+      {
+        "Alasha": 4
+      },
+      {
+        "Bata Koto": 4
+      },
+      {
+        "Ijebu": 4
+      },
+      {
+        "Mambo Orchestra": 4
+      },
+      {
+        "Orchestra": 4
+      },
+      {
+        "Waka": 4
+      },
+      {
+        "Adamo": 3
+      },
+      {
+        "Agere": 3
+      },
+      {
+        "Ape": 3
+      },
+      {
+        "Biripo": 3
+      },
+      {
+        "Konkoma": 3
+      },
+      {
+        "Adan": 2
+      },
+      {
+        "Agbelege": 2
+      },
+      {
+        "Akoto": 2
+      },
+      {
+        "Alasa": 2
+      },
+      {
+        "Apesi": 2
+      },
+      {
+        "Ashiko": 2
+      },
+      {
+        "Ayu": 2
+      },
+      {
+        "Hungan": 2
+      },
+      {
+        "Ibembe": 2
+      },
+      {
+        "Iyailu": 2
+      },
+      {
+        "Kannango": 2
+      },
+      {
+        "More": 2
+      },
+      {
+        "Osirigi": 2
+      },
+      {
+        "Recording Tape": 2
+      },
+      {
+        "Samba": 2
+      },
+      {
+        "Abata": 1
+      },
+      {
+        "Agahun": 1
+      },
+      {
+        "Agba": 1
+      },
+      {
+        "Agbeleke": 1
+      },
+      {
+        "Agbodaglome": 1
+      },
+      {
+        "Age": 1
+      },
+      {
+        "Agogo": 1
+      },
+      {
+        "Ahangere": 1
+      },
+      {
+        "Ajabure": 1
+      },
+      {
+        "Ajigbo": 1
+      },
+      {
+        "Akula": 1
+      },
+      {
+        "Alemo": 1
+      },
+      {
+        "Amplifier": 1
+      },
+      {
+        "Angoso": 1
+      },
+      {
+        "Apiri": 1
+      },
+      {
+        "Araba": 1
+      },
+      {
+        "Are": 1
+      },
+      {
+        "Arele": 1
+      },
+      {
+        "Asha": 1
+      },
+      {
+        "Band Set": 1
+      },
+      {
+        "Bata-koto": 1
+      },
+      {
+        "Brass Band": 1
+      },
+      {
+        "Dohun": 1
+      },
+      {
+        "Elesa": 1
+      },
+      {
+        "Ere Ase": 1
+      },
+      {
+        "Etubu": 1
+      },
+      {
+        "Gbedu": 1
+      },
+      {
+        "Gbudu": 1
+      },
+      {
+        "Gelede": 1
+      },
+      {
+        "Hale": 1
+      },
+      {
+        "Igbade": 1
+      },
+      {
+        "Igbaji": 1
+      },
+      {
+        "Imore": 1
+      },
+      {
+        "Ipesi": 1
+      },
+      {
+        "Ireso": 1
+      },
+      {
+        "Itsekiri Native Dance": 1
+      },
+      {
+        "Iyere": 1
+      },
+      {
+        "Iyeyume": 1
+      },
+      {
+        "Jejeko": 1
+      },
+      {
+        "Juju with electronic gadgets": 1
+      },
+      {
+        "Juju without electronic gadgets": 1
+      },
+      {
+        "Keregbe": 1
+      },
+      {
+        "Keta": 1
+      },
+      {
+        "Kiriboto": 1
+      },
+      {
+        "Kiriji": 1
+      },
+      {
+        "Kitiko": 1
+      },
+      {
+        "Koko": 1
+      },
+      {
+        "Konkoloyo": 1
+      },
+      {
+        "Laghalogho": 1
+      },
+      {
+        "Mabo Orchestra": 1
+      },
+      {
+        "Nkoro": 1
+      },
+      {
+        "Ogbele": 1
+      },
+      {
+        "Oghosoro": 1
+      },
+      {
+        "Ogo": 1
+      },
+      {
+        "Ojojo": 1
+      },
+      {
+        "Omo Agogo": 1
+      },
+      {
+        "Origbo": 1
+      },
+      {
+        "Osiji": 1
+      },
+      {
+        "Owe": 1
+      },
+      {
+        "Panseke": 1
+      },
+      {
+        "Perubo": 1
+      },
+      {
+        "Raso": 1
+      },
+      {
+        "Reso": 1
+      },
+      {
+        "Sakara with electronic gadgets": 1
+      },
+      {
+        "Sakara without electronic gadgets": 1
+      },
+      {
+        "Sato": 1
+      },
+      {
+        "Seli": 1
+      },
+      {
+        "Seli-Moda": 1
+      },
+      {
+        "Shekere": 1
+      },
+      {
+        "Siginikoko": 1
+      },
+      {
+        "Tape Recording": 1
+      },
+      {
+        "Ukere": 1
+      },
+      {
+        "Ulale": 1
+      },
+      {
+        "Umore": 1
+      },
+      {
+        "Woro": 1
+      }
+    ],
+    "by_idcount": [
+      {
+        "apala": 50
+      },
+      {
+        "juju": 48
+      },
+      {
+        "sakara": 48
+      },
+      {
+        "iyailu": 47
+      },
+      {
+        "dundun": 43
+      },
+      {
+        "batakoto": 36
+      },
+      {
+        "kete": 35
+      },
+      {
+        "agasa": 26
+      },
+      {
+        "agidigbo": 23
+      },
+      {
+        "sekere": 13
+      },
+      {
+        "aro": 10
+      },
+      {
+        "bata": 10
+      },
+      {
+        "local_band_orchestra": 8
+      },
+      {
+        "waka_music": 8
+      },
+      {
+        "kokoma": 7
+      },
+      {
+        "mambo": 7
+      },
+      {
+        "bembe": 6
+      },
+      {
+        "agbe": 5
+      },
+      {
+        "all_types_of_drum": 5
+      },
+      {
+        "asiko": 5
+      },
+      {
+        "gangan": 5
+      },
+      {
+        "kitipo": 5
+      },
+      {
+        "alasha": 4
+      },
+      {
+        "ijebu": 4
+      },
+      {
+        "mambo_orchestra": 4
+      },
+      {
+        "orchestra": 4
+      },
+      {
+        "waka": 4
+      },
+      {
+        "adamo": 3
+      },
+      {
+        "agere": 3
+      },
+      {
+        "ape": 3
+      },
+      {
+        "biripo": 3
+      },
+      {
+        "konkoma": 3
+      },
+      {
+        "adan": 2
+      },
+      {
+        "agbelege": 2
+      },
+      {
+        "akoto": 2
+      },
+      {
+        "apesi": 2
+      },
+      {
+        "ashiko": 2
+      },
+      {
+        "ayu": 2
+      },
+      {
+        "hungan": 2
+      },
+      {
+        "ibembe": 2
+      },
+      {
+        "kannango": 2
+      },
+      {
+        "more": 2
+      },
+      {
+        "osirigi": 2
+      },
+      {
+        "recording_tape": 2
+      },
+      {
+        "samba": 2
+      },
+      {
+        "Agasa": 1
+      },
+      {
+        "Ajigbo": 1
+      },
+      {
+        "Alasa": 1
+      },
+      {
+        "abata": 1
+      },
+      {
+        "agahun": 1
+      },
+      {
+        "agba": 1
+      },
+      {
+        "agbeleke": 1
+      },
+      {
+        "agbodaglome": 1
+      },
+      {
+        "age": 1
+      },
+      {
+        "agogo": 1
+      },
+      {
+        "ahangere": 1
+      },
+      {
+        "ajabure": 1
+      },
+      {
+        "akula": 1
+      },
+      {
+        "alasa": 1
+      },
+      {
+        "alemo": 1
+      },
+      {
+        "amplifier": 1
+      },
+      {
+        "angoso": 1
+      },
+      {
+        "apiri": 1
+      },
+      {
+        "araba": 1
+      },
+      {
+        "are": 1
+      },
+      {
+        "arele": 1
+      },
+      {
+        "asha": 1
+      },
+      {
+        "band_set": 1
+      },
+      {
+        "brass_band": 1
+      },
+      {
+        "dohun": 1
+      },
+      {
+        "elesa": 1
+      },
+      {
+        "ere_ase": 1
+      },
+      {
+        "etubu": 1
+      },
+      {
+        "gbedu": 1
+      },
+      {
+        "gbudu": 1
+      },
+      {
+        "gelede": 1
+      },
+      {
+        "hale": 1
+      },
+      {
+        "igbade": 1
+      },
+      {
+        "igbaji": 1
+      },
+      {
+        "imore": 1
+      },
+      {
+        "ipesi": 1
+      },
+      {
+        "ireso": 1
+      },
+      {
+        "itsekiri_native_dance": 1
+      },
+      {
+        "iyere": 1
+      },
+      {
+        "iyeyume": 1
+      },
+      {
+        "jejeko": 1
+      },
+      {
+        "juju_with_electronic_gadgets": 1
+      },
+      {
+        "juju_without_electronic_gadgets": 1
+      },
+      {
+        "keregbe": 1
+      },
+      {
+        "keta": 1
+      },
+      {
+        "kiriboto": 1
+      },
+      {
+        "kiriji": 1
+      },
+      {
+        "kitiko": 1
+      },
+      {
+        "konkoloyo": 1
+      },
+      {
+        "koso": 1
+      },
+      {
+        "laghalogho": 1
+      },
+      {
+        "mabo_orchestra": 1
+      },
+      {
+        "nkoro": 1
+      },
+      {
+        "ogbele": 1
+      },
+      {
+        "oghosoro": 1
+      },
+      {
+        "ogo": 1
+      },
+      {
+        "ojojo": 1
+      },
+      {
+        "omo_agogo": 1
+      },
+      {
+        "origbo": 1
+      },
+      {
+        "osiji": 1
+      },
+      {
+        "owe": 1
+      },
+      {
+        "panseke": 1
+      },
+      {
+        "perubo": 1
+      },
+      {
+        "raso": 1
+      },
+      {
+        "reso": 1
+      },
+      {
+        "sakara_with_electronic_gadgets": 1
+      },
+      {
+        "sakara_without_electronic_gadgets": 1
+      },
+      {
+        "sato": 1
+      },
+      {
+        "seli": 1
+      },
+      {
+        "selimoda": 1
+      },
+      {
+        "shekere": 1
+      },
+      {
+        "siginikoko": 1
+      },
+      {
+        "tape_recording": 1
+      },
+      {
+        "ukere": 1
+      },
+      {
+        "ulale": 1
+      },
+      {
+        "umore": 1
+      },
+      {
+        "woro": 1
+      }
+    ]
+  }
+}
