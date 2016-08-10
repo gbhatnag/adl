@@ -1,5 +1,5 @@
 # African Drumming Laws
-The African Drumming Laws project (ADL) works with newly discovered laws to understand how and why the British colonial government controlled and criminalized drumming in native African communities.
+The African Drumming Laws project works with newly discovered laws to understand how and why the British colonial government controlled and criminalized drumming in native African communities.
 
 See https://africandrumminglaws.org for more information.
 
