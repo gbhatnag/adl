@@ -46,17 +46,26 @@ laws.forEach(function (law) {
     law.revokes = rarr;
   }
 
-  // convert year to date_of_publication
+  // convert year to date_of_publication; add other new fields
   if (law.year) {
     law.date_of_publication = law.year;
+    law.date_of_issue = "get from law document";
+    law.date_of_effect = "get from law document";
+    law.adopted_from = [];
+    law.signatories = [];
+    law.revokes = [];
     delete law.year;
   }
 
   // convert name to title
   if (law.name) {
     law.title = law.name;
+    law.council = law.name;
     delete law.name;
   }
+
+  // add id
+  law.id = sanitizeCitation(law.citation);
 
   // check for no citation
   if (!law.citation) {

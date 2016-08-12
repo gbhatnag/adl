@@ -25,7 +25,8 @@
         "lat": 7.161,
         "lon": 3.348
       },
-      "drums": null
+      "drums": null,
+      "id": "WRLN200of1956"
     },
     {
       "countryID": "western_nigeria",
@@ -343,7 +344,8 @@
             }
           ]
         }
-      ]
+      ],
+      "id": "WNLN385of1960"
     },
     {
       "countryID": "western_nigeria",
@@ -442,7 +444,8 @@
             }
           ]
         }
-      ]
+      ],
+      "id": "WNLN181of1962"
     },
     {
       "countryID": "western_nigeria",
@@ -762,7 +765,8 @@
             }
           ]
         }
-      ]
+      ],
+      "id": "WNLN475of1965"
     },
     {
       "countryID": "western_nigeria",
@@ -789,7 +793,8 @@
         "lat": null,
         "lon": null
       },
-      "drums": null
+      "drums": null,
+      "id": "WRLN290of1956"
     },
     {
       "countryID": "western_nigeria",
@@ -911,7 +916,8 @@
             }
           ]
         }
-      ]
+      ],
+      "id": "WNLN22of1967"
     },
     {
       "countryID": "western_nigeria",
@@ -938,7 +944,8 @@
         "lat": 6.6229165,
         "lon": 3.3203386
       },
-      "drums": null
+      "drums": null,
+      "id": "WRLN286of1956"
     },
     {
       "countryID": "western_nigeria",
@@ -1191,7 +1198,8 @@
             }
           ]
         }
-      ]
+      ],
+      "id": "WNLN367of1962"
     },
     {
       "countryID": "western_nigeria",
@@ -1218,7 +1226,8 @@
         "lat": 7.3441,
         "lon": 4.2991
       },
-      "drums": null
+      "drums": null,
+      "id": "WRLN503of1958"
     },
     {
       "countryID": "western_nigeria",
@@ -1245,7 +1254,8 @@
         "lat": 7.3441,
         "lon": 4.2991
       },
-      "drums": null
+      "drums": null,
+      "id": "WRLN504of1958"
     },
     {
       "countryID": "western_nigeria",
@@ -1510,7 +1520,8 @@
             }
           ]
         }
-      ]
+      ],
+      "id": "WNLN252of1962"
     },
     {
       "countryID": "western_nigeria",
@@ -1712,7 +1723,8 @@
             }
           ]
         }
-      ]
+      ],
+      "id": "WNLN613of1964"
     },
     {
       "countryID": "western_nigeria",
@@ -1748,7 +1760,8 @@
         "lat": null,
         "lon": null
       },
-      "drums": null
+      "drums": null,
+      "id": "WSLN31of1970"
     },
     {
       "countryID": "western_nigeria",
@@ -1973,7 +1986,14 @@
         }
       ],
       "date_of_publication": "1965",
-      "title": "Akoko West"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Akoko West",
+      "council": "Akoko West",
+      "id": "WNLN163of1965"
     },
     {
       "countryID": "western_nigeria",
@@ -2108,7 +2128,14 @@
         }
       ],
       "date_of_publication": "1961",
-      "title": "Awori"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Awori",
+      "council": "Awori",
+      "id": "WNLN124of1961"
     },
     {
       "countryID": "western_nigeria",
@@ -2249,7 +2276,8 @@
             }
           ]
         }
-      ]
+      ],
+      "id": "WRLN13of1956"
     },
     {
       "countryID": "western_nigeria",
@@ -2263,7 +2291,14 @@
       },
       "drums": null,
       "date_of_publication": "1959",
-      "title": "Edunabon_Moro"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Edunabon_Moro",
+      "council": "Edunabon_Moro",
+      "id": "WRLN540of1959"
     },
     {
       "countryID": "western_nigeria",
@@ -2277,7 +2312,14 @@
       },
       "drums": null,
       "date_of_publication": "1956",
-      "title": "Egba-Ikereku"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Egba-Ikereku",
+      "council": "Egba-Ikereku",
+      "id": "WRLN275of1956"
     },
     {
       "countryID": "western_nigeria",
@@ -2291,7 +2333,14 @@
       },
       "drums": null,
       "date_of_publication": "1962",
-      "title": "Egbedore"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Egbedore",
+      "council": "Egbedore",
+      "id": "WNLN16of1962"
     },
     {
       "countryID": "western_nigeria",
@@ -2301,7 +2350,14 @@
       "countryLabel": "Western Nigeria",
       "drums": null,
       "date_of_publication": "1958",
-      "title": "Egun-Awori 1"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Egun-Awori 1",
+      "council": "Egun-Awori 1",
+      "id": "WRLN15of1958"
     },
     {
       "countryID": "western_nigeria",
@@ -2311,7 +2367,14 @@
       "countryLabel": "Western Nigeria",
       "drums": null,
       "date_of_publication": "1958",
-      "title": "Egun-Awori 2"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Egun-Awori 2",
+      "council": "Egun-Awori 2",
+      "id": "WRLN90of1958"
     },
     {
       "countryID": "western_nigeria",
@@ -2321,7 +2384,14 @@
       "countryLabel": "Western Nigeria",
       "drums": null,
       "date_of_publication": "1958",
-      "title": "Egun-Awori 3"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Egun-Awori 3",
+      "council": "Egun-Awori 3",
+      "id": "WRLN278of1958"
     },
     {
       "countryID": "western_nigeria",
@@ -2331,7 +2401,14 @@
       "countryLabel": "Western Nigeria",
       "drums": null,
       "date_of_publication": "1958",
-      "title": "Egun-Awori 4"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Egun-Awori 4",
+      "council": "Egun-Awori 4",
+      "id": "WRLN280of1958"
     },
     {
       "countryID": "western_nigeria",
@@ -2606,7 +2683,14 @@
         }
       ],
       "date_of_publication": "1958",
-      "title": "Egun-Awori 5"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Egun-Awori 5",
+      "council": "Egun-Awori 5",
+      "id": "WRLN511of1958"
     },
     {
       "countryID": "western_nigeria",
@@ -2819,7 +2903,14 @@
         }
       ],
       "date_of_publication": "1965",
-      "title": "Ekiti Northern"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Ekiti Northern",
+      "council": "Ekiti Northern",
+      "id": "WNLN311of1965"
     },
     {
       "countryID": "western_nigeria",
@@ -2833,7 +2924,14 @@
       },
       "drums": null,
       "date_of_publication": "1958",
-      "title": "Ekiti Western"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Ekiti Western",
+      "council": "Ekiti Western",
+      "id": "WRLN29of1958"
     },
     {
       "countryID": "western_nigeria",
@@ -2847,7 +2945,14 @@
       },
       "drums": null,
       "date_of_publication": "1958",
-      "title": "Eredo"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Eredo",
+      "council": "Eredo",
+      "id": "WRLN88of1958"
     },
     {
       "countryID": "western_nigeria",
@@ -2857,7 +2962,14 @@
       "countryLabel": "Western Nigeria",
       "drums": null,
       "date_of_publication": "1965",
-      "title": "Ese-Odo 1"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Ese-Odo 1",
+      "council": "Ese-Odo 1",
+      "id": "WNLN154of1965"
     },
     {
       "countryID": "western_nigeria",
@@ -2867,7 +2979,14 @@
       "countryLabel": "Western Nigeria",
       "drums": null,
       "date_of_publication": "1965",
-      "title": "Ese-Odo 2"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Ese-Odo 2",
+      "council": "Ese-Odo 2",
+      "id": "WNLN228of1965"
     },
     {
       "countryID": "western_nigeria",
@@ -2877,7 +2996,14 @@
       "countryLabel": "Western Nigeria",
       "drums": null,
       "date_of_publication": "1965",
-      "title": "Ese-Odo 3"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Ese-Odo 3",
+      "council": "Ese-Odo 3",
+      "id": "WNLN229of1965"
     },
     {
       "countryID": "western_nigeria",
@@ -3288,7 +3414,14 @@
         }
       ],
       "date_of_publication": "1967",
-      "title": "Ibarapa East"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Ibarapa East",
+      "council": "Ibarapa East",
+      "id": "WSLN111of1967"
     },
     {
       "countryID": "western_nigeria",
@@ -3699,7 +3832,14 @@
         }
       ],
       "date_of_publication": "1967",
-      "title": "Ibarapa West"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Ibarapa West",
+      "council": "Ibarapa West",
+      "id": "WSLN100of1967"
     },
     {
       "countryID": "western_nigeria",
@@ -3713,7 +3853,14 @@
       },
       "drums": null,
       "date_of_publication": "1962",
-      "title": "Ibeju"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Ibeju",
+      "council": "Ibeju",
+      "id": "WNLN177of1962"
     },
     {
       "countryID": "western_nigeria",
@@ -4080,7 +4227,14 @@
         }
       ],
       "date_of_publication": "1968",
-      "title": "Ife"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Ife",
+      "council": "Ife",
+      "id": "WSLN110of1968"
     },
     {
       "countryID": "western_nigeria",
@@ -4193,7 +4347,14 @@
         }
       ],
       "date_of_publication": "1960",
-      "title": "Ifetedo"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Ifetedo",
+      "council": "Ifetedo",
+      "id": "WNLN388of1960"
     },
     {
       "countryID": "western_nigeria",
@@ -4428,7 +4589,14 @@
         }
       ],
       "date_of_publication": "1965",
-      "title": "Ijebu East Central"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Ijebu East Central",
+      "council": "Ijebu East Central",
+      "id": "WNLN331of1965"
     },
     {
       "countryID": "western_nigeria",
@@ -4442,7 +4610,14 @@
       },
       "drums": null,
       "date_of_publication": "1956",
-      "title": "Ijebu Eastern"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Ijebu Eastern",
+      "council": "Ijebu Eastern",
+      "id": "WRLN294of1956"
     },
     {
       "countryID": "western_nigeria",
@@ -4699,7 +4874,14 @@
         }
       ],
       "date_of_publication": "1964",
-      "title": "Ijebu Imusin"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Ijebu Imusin",
+      "council": "Ijebu Imusin",
+      "id": "WNLN35of1964"
     },
     {
       "countryID": "western_nigeria",
@@ -4812,7 +4994,14 @@
         }
       ],
       "date_of_publication": "1959",
-      "title": "Ijebu North-Western"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Ijebu North-Western",
+      "council": "Ijebu North-Western",
+      "id": "WRLN489of1959"
     },
     {
       "countryID": "western_nigeria",
@@ -4826,7 +5015,14 @@
       },
       "drums": null,
       "date_of_publication": "1963",
-      "title": "Ijebu North-Western"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Ijebu North-Western",
+      "council": "Ijebu North-Western",
+      "id": "WNLN68of1963"
     },
     {
       "countryID": "western_nigeria",
@@ -4953,7 +5149,14 @@
         }
       ],
       "date_of_publication": "1959",
-      "title": "Ijebu Northern"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Ijebu Northern",
+      "council": "Ijebu Northern",
+      "id": "WRLN488of1959"
     },
     {
       "countryID": "western_nigeria",
@@ -5108,7 +5311,14 @@
         }
       ],
       "date_of_publication": "1965",
-      "title": "Ijebu Northern"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Ijebu Northern",
+      "council": "Ijebu Northern",
+      "id": "WNLN20of1965"
     },
     {
       "countryID": "western_nigeria",
@@ -5145,7 +5355,14 @@
         }
       ],
       "date_of_publication": "1959",
-      "title": "Ijebu Southern"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Ijebu Southern",
+      "council": "Ijebu Southern",
+      "id": "WRLN561of1959"
     },
     {
       "countryID": "western_nigeria",
@@ -5342,7 +5559,14 @@
         }
       ],
       "date_of_publication": "1959",
-      "title": "Ijebu Waterside"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Ijebu Waterside",
+      "council": "Ijebu Waterside",
+      "id": "WRLN451of1959"
     },
     {
       "countryID": "western_nigeria",
@@ -5553,7 +5777,14 @@
         }
       ],
       "date_of_publication": "1964",
-      "title": "Ijebu-Igbo"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Ijebu-Igbo",
+      "council": "Ijebu-Igbo",
+      "id": "WNLN141of1964"
     },
     {
       "countryID": "western_nigeria",
@@ -5574,7 +5805,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 1,
+                "N": 1,
                 "k": 50
               }
             },
@@ -5582,7 +5813,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 1,
+                "N": 1,
                 "k": 50
               }
             }
@@ -5596,7 +5827,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 1,
+                "N": 1,
                 "k": 0
               }
             },
@@ -5604,7 +5835,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 2,
+                "N": 2,
                 "k": 0
               }
             }
@@ -5618,7 +5849,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 1,
+                "N": 1,
                 "k": 0
               }
             },
@@ -5626,7 +5857,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 2,
+                "N": 2,
                 "k": 0
               }
             }
@@ -5640,7 +5871,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 1,
+                "N": 1,
                 "k": 0
               }
             },
@@ -5648,7 +5879,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 1,
+                "N": 1,
                 "k": 0
               }
             }
@@ -5662,7 +5893,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 1,
+                "N": 1,
                 "k": 0
               }
             },
@@ -5670,7 +5901,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 1,
+                "N": 1,
                 "k": 0
               }
             }
@@ -5684,7 +5915,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 1,
+                "N": 1,
                 "k": 0
               }
             },
@@ -5692,7 +5923,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 1,
+                "N": 1,
                 "k": 0
               }
             }
@@ -5706,7 +5937,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 1,
+                "N": 1,
                 "k": 50
               }
             },
@@ -5714,7 +5945,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 2,
+                "N": 2,
                 "k": 0
               }
             }
@@ -5728,7 +5959,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 1,
+                "N": 1,
                 "k": 50
               }
             },
@@ -5736,7 +5967,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 2,
+                "N": 2,
                 "k": 0
               }
             }
@@ -5750,7 +5981,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 1,
+                "N": 1,
                 "k": 50
               }
             },
@@ -5758,7 +5989,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 2,
+                "N": 2,
                 "k": 0
               }
             }
@@ -5772,7 +6003,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 1,
+                "N": 1,
                 "k": 50
               }
             },
@@ -5780,7 +6011,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 2,
+                "N": 2,
                 "k": 0
               }
             }
@@ -5794,7 +6025,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 1,
+                "N": 1,
                 "k": 0
               }
             },
@@ -5802,7 +6033,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 1,
+                "N": 1,
                 "k": 0
               }
             }
@@ -5810,7 +6041,14 @@
         }
       ],
       "date_of_publication": "1975",
-      "title": "Ijebu-Igbo"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Ijebu-Igbo",
+      "council": "Ijebu-Igbo",
+      "id": "WSLN83of1975"
     },
     {
       "countryID": "western_nigeria",
@@ -6001,7 +6239,14 @@
         }
       ],
       "date_of_publication": "1961",
-      "title": "Ijebu-Ode"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Ijebu-Ode",
+      "council": "Ijebu-Ode",
+      "id": "WNLN15of1961"
     },
     {
       "countryID": "western_nigeria",
@@ -6015,7 +6260,14 @@
       },
       "drums": null,
       "date_of_publication": "1958",
-      "title": "Ijede"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Ijede",
+      "council": "Ijede",
+      "id": "WRLN504of1958"
     },
     {
       "countryID": "western_nigeria",
@@ -6206,7 +6458,14 @@
         }
       ],
       "date_of_publication": "1964",
-      "title": "Ikale Orisunmeta"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Ikale Orisunmeta",
+      "council": "Ikale Orisunmeta",
+      "id": "WNLN408of1964"
     },
     {
       "countryID": "western_nigeria",
@@ -6529,7 +6788,14 @@
         }
       ],
       "date_of_publication": "1959",
-      "title": "Ikenne"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Ikenne",
+      "council": "Ikenne",
+      "id": "WRLN363of1959"
     },
     {
       "countryID": "western_nigeria",
@@ -6543,7 +6809,14 @@
       },
       "drums": null,
       "date_of_publication": "1961",
-      "title": "Ikirun"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Ikirun",
+      "council": "Ikirun",
+      "id": "WNLN384of1961"
     },
     {
       "countryID": "western_nigeria",
@@ -6557,7 +6830,14 @@
       },
       "drums": null,
       "date_of_publication": "1970",
-      "title": "Ikirun"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Ikirun",
+      "council": "Ikirun",
+      "id": "WSLN9of1970"
     },
     {
       "countryID": "western_nigeria",
@@ -6880,7 +7160,14 @@
         }
       ],
       "date_of_publication": "1965",
-      "title": "Ikole"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Ikole",
+      "council": "Ikole",
+      "id": "WNLN447of1965"
     },
     {
       "countryID": "western_nigeria",
@@ -6894,7 +7181,14 @@
       },
       "drums": null,
       "date_of_publication": "1958",
-      "title": "Ikorodu"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Ikorodu",
+      "council": "Ikorodu",
+      "id": "WRLN278of1958"
     },
     {
       "countryID": "western_nigeria",
@@ -7107,7 +7401,14 @@
         }
       ],
       "date_of_publication": "1959",
-      "title": "Ikosi"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Ikosi",
+      "council": "Ikosi",
+      "id": "WRLN361of1959"
     },
     {
       "countryID": "western_nigeria",
@@ -7298,7 +7599,14 @@
         }
       ],
       "date_of_publication": "1962",
-      "title": "Ikosi"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Ikosi",
+      "council": "Ikosi",
+      "id": "WNLN107of1962"
     },
     {
       "countryID": "western_nigeria",
@@ -7489,7 +7797,14 @@
         }
       ],
       "date_of_publication": "1965",
-      "title": "Ila"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Ila",
+      "council": "Ila",
+      "id": "WNLN474of1965"
     },
     {
       "countryID": "western_nigeria",
@@ -7503,7 +7818,14 @@
       },
       "drums": null,
       "date_of_publication": "1970",
-      "title": "Ila"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Ila",
+      "council": "Ila",
+      "id": "WSLN5of1970"
     },
     {
       "countryID": "western_nigeria",
@@ -7760,7 +8082,14 @@
         }
       ],
       "date_of_publication": "1965",
-      "title": "Ilaje"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Ilaje",
+      "council": "Ilaje",
+      "id": "WNLN630of1965"
     },
     {
       "countryID": "western_nigeria",
@@ -7943,7 +8272,14 @@
         }
       ],
       "date_of_publication": "1956",
-      "title": "Ilaro"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Ilaro",
+      "council": "Ilaro",
+      "id": "WRLN301of1956"
     },
     {
       "countryID": "western_nigeria",
@@ -7957,7 +8293,14 @@
       },
       "drums": null,
       "date_of_publication": "1956",
-      "title": "Ileoluji_Okeigbo"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Ileoluji_Okeigbo",
+      "council": "Ileoluji_Okeigbo",
+      "id": "WRLN295of1956"
     },
     {
       "countryID": "western_nigeria",
@@ -7971,7 +8314,14 @@
       },
       "drums": null,
       "date_of_publication": "1956",
-      "title": "Ilugun_Alaro"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Ilugun_Alaro",
+      "council": "Ilugun_Alaro",
+      "id": "WRLN323of1956"
     },
     {
       "countryID": "western_nigeria",
@@ -8106,7 +8456,14 @@
         }
       ],
       "date_of_publication": "1958",
-      "title": "Ilugun_Alaro"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Ilugun_Alaro",
+      "council": "Ilugun_Alaro",
+      "id": "WRLN142of1958"
     },
     {
       "countryID": "western_nigeria",
@@ -8385,7 +8742,14 @@
         }
       ],
       "date_of_publication": "1961",
-      "title": "Imala"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Imala",
+      "council": "Imala",
+      "id": "WNLN383of1961"
     },
     {
       "countryID": "western_nigeria",
@@ -8444,7 +8808,14 @@
         }
       ],
       "date_of_publication": "1964",
-      "title": "Imala"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Imala",
+      "council": "Imala",
+      "id": "WNLN504of1964"
     },
     {
       "countryID": "western_nigeria",
@@ -8701,7 +9072,14 @@
         }
       ],
       "date_of_publication": "1959",
-      "title": "Ipara"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Ipara",
+      "council": "Ipara",
+      "id": "WRLN145of1959"
     },
     {
       "countryID": "western_nigeria",
@@ -8806,7 +9184,14 @@
         }
       ],
       "date_of_publication": "1965",
-      "title": "Iperu"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Iperu",
+      "council": "Iperu",
+      "id": "WNLN74of1965"
     },
     {
       "countryID": "western_nigeria",
@@ -8820,7 +9205,14 @@
       },
       "drums": null,
       "date_of_publication": "1964",
-      "title": "Ipetumodu"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Ipetumodu",
+      "council": "Ipetumodu",
+      "id": "WNLN289of1964"
     },
     {
       "countryID": "western_nigeria",
@@ -9143,7 +9535,14 @@
         }
       ],
       "date_of_publication": "1958",
-      "title": "Ipokia"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Ipokia",
+      "council": "Ipokia",
+      "id": "WRLN339of1958"
     },
     {
       "countryID": "western_nigeria",
@@ -9554,7 +9953,14 @@
         }
       ],
       "date_of_publication": "1965",
-      "title": "Irekari"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Irekari",
+      "council": "Irekari",
+      "id": "WNLN321of1965"
     },
     {
       "countryID": "western_nigeria",
@@ -9568,7 +9974,14 @@
       },
       "drums": null,
       "date_of_publication": "1970",
-      "title": "Irekari"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Irekari",
+      "council": "Irekari",
+      "id": "WSLN10of1970"
     },
     {
       "countryID": "western_nigeria",
@@ -9589,7 +10002,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 10,
+                "N": 10,
                 "k": 0
               }
             },
@@ -9597,7 +10010,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 15,
+                "N": 15,
                 "k": 0
               }
             }
@@ -9611,7 +10024,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 10,
+                "N": 10,
                 "k": 0
               }
             },
@@ -9619,7 +10032,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 15,
+                "N": 15,
                 "k": 0
               }
             }
@@ -9633,7 +10046,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 5,
+                "N": 5,
                 "k": 0
               }
             },
@@ -9641,7 +10054,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 5,
+                "N": 5,
                 "k": 0
               }
             }
@@ -9655,7 +10068,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 5,
+                "N": 5,
                 "k": 0
               }
             },
@@ -9663,7 +10076,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 5,
+                "N": 5,
                 "k": 0
               }
             }
@@ -9677,7 +10090,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             },
@@ -9685,7 +10098,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             }
@@ -9699,7 +10112,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             },
@@ -9707,7 +10120,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             }
@@ -9721,7 +10134,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             },
@@ -9729,7 +10142,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             }
@@ -9743,7 +10156,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             },
@@ -9751,7 +10164,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             }
@@ -9765,7 +10178,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             },
@@ -9773,7 +10186,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             }
@@ -9787,7 +10200,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             },
@@ -9795,7 +10208,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             }
@@ -9809,7 +10222,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             },
@@ -9817,7 +10230,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             }
@@ -9831,7 +10244,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             },
@@ -9839,7 +10252,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             }
@@ -9853,7 +10266,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             },
@@ -9861,7 +10274,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             }
@@ -9875,7 +10288,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             },
@@ -9883,7 +10296,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             }
@@ -9897,7 +10310,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             },
@@ -9905,7 +10318,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             }
@@ -9919,7 +10332,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             },
@@ -9927,7 +10340,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             }
@@ -9941,7 +10354,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             },
@@ -9949,7 +10362,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             }
@@ -9963,7 +10376,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             },
@@ -9971,7 +10384,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             }
@@ -9979,7 +10392,14 @@
         }
       ],
       "date_of_publication": "1975",
-      "title": "Irepo"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Irepo",
+      "council": "Irepo",
+      "id": "WSLN68of1975"
     },
     {
       "countryID": "western_nigeria",
@@ -10016,7 +10436,14 @@
         }
       ],
       "date_of_publication": "1959",
-      "title": "Ishara"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Ishara",
+      "council": "Ishara",
+      "id": "WRLN305of1959"
     },
     {
       "countryID": "western_nigeria",
@@ -10317,7 +10744,14 @@
         }
       ],
       "date_of_publication": "1968",
-      "title": "Iwo"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Iwo",
+      "council": "Iwo",
+      "id": "WSLN65of1968"
     },
     {
       "countryID": "western_nigeria",
@@ -10354,7 +10788,14 @@
         }
       ],
       "date_of_publication": "1964",
-      "title": "Lekki"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Lekki",
+      "council": "Lekki",
+      "id": "WNLN341of1964"
     },
     {
       "countryID": "western_nigeria",
@@ -10611,7 +11052,14 @@
         }
       ],
       "date_of_publication": "1959",
-      "title": "Makun [Shagamu]"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Makun [Shagamu]",
+      "council": "Makun [Shagamu]",
+      "id": "WRLN100of1959"
     },
     {
       "countryID": "western_nigeria",
@@ -10670,7 +11118,14 @@
         }
       ],
       "date_of_publication": "1962",
-      "title": "Makun [Shagamu]"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Makun [Shagamu]",
+      "council": "Makun [Shagamu]",
+      "id": "WNLN267of1962"
     },
     {
       "countryID": "western_nigeria",
@@ -10883,7 +11338,14 @@
         }
       ],
       "date_of_publication": "1963",
-      "title": "Mushin"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Mushin",
+      "council": "Mushin",
+      "id": "WNLN38of1963"
     },
     {
       "countryID": "western_nigeria",
@@ -11108,7 +11570,14 @@
         }
       ],
       "date_of_publication": "1971",
-      "title": "Ode Remo"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Ode Remo",
+      "council": "Ode Remo",
+      "id": "WSLN10of1971"
     },
     {
       "countryID": "western_nigeria",
@@ -11365,7 +11834,14 @@
         }
       ],
       "date_of_publication": "1958",
-      "title": "Offin [Shagamu]"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Offin [Shagamu]",
+      "council": "Offin [Shagamu]",
+      "id": "WRLN457of1958"
     },
     {
       "countryID": "western_nigeria",
@@ -11534,7 +12010,14 @@
         }
       ],
       "date_of_publication": "1958",
-      "title": "Ogere"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Ogere",
+      "council": "Ogere",
+      "id": "WRLN505of1958"
     },
     {
       "countryID": "western_nigeria",
@@ -11571,7 +12054,14 @@
         }
       ],
       "date_of_publication": "1960",
-      "title": "Oka"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Oka",
+      "council": "Oka",
+      "id": "WRLN109of1960"
     },
     {
       "countryID": "western_nigeria",
@@ -11706,7 +12196,14 @@
         }
       ],
       "date_of_publication": "1965",
-      "title": "Okeho_Iganna"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Okeho_Iganna",
+      "council": "Okeho_Iganna",
+      "id": "WNLN446of1965"
     },
     {
       "countryID": "western_nigeria",
@@ -11727,7 +12224,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 4,
+                "N": 4,
                 "k": 0
               }
             }
@@ -11741,7 +12238,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 4,
+                "N": 4,
                 "k": 0
               }
             }
@@ -11755,7 +12252,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 4,
+                "N": 4,
                 "k": 0
               }
             }
@@ -11769,7 +12266,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 4,
+                "N": 4,
                 "k": 0
               }
             }
@@ -11783,7 +12280,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 4,
+                "N": 4,
                 "k": 0
               }
             }
@@ -11797,7 +12294,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 4,
+                "N": 4,
                 "k": 0
               }
             }
@@ -11811,7 +12308,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 4,
+                "N": 4,
                 "k": 0
               }
             }
@@ -11825,7 +12322,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 4,
+                "N": 4,
                 "k": 0
               }
             }
@@ -11839,7 +12336,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 4,
+                "N": 4,
                 "k": 0
               }
             }
@@ -11853,7 +12350,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 4,
+                "N": 4,
                 "k": 0
               }
             }
@@ -11867,7 +12364,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 4,
+                "N": 4,
                 "k": 0
               }
             }
@@ -11875,7 +12372,14 @@
         }
       ],
       "date_of_publication": "1975",
-      "title": "Ondo"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Ondo",
+      "council": "Ondo",
+      "id": "WSLN3of1975"
     },
     {
       "countryID": "western_nigeria",
@@ -12044,7 +12548,14 @@
         }
       ],
       "date_of_publication": "1965",
-      "title": "Ondo Western"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Ondo Western",
+      "council": "Ondo Western",
+      "id": "WNLN201of1965"
     },
     {
       "countryID": "western_nigeria",
@@ -12301,7 +12812,14 @@
         }
       ],
       "date_of_publication": "1964",
-      "title": "Oshunmaiyegun"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Oshunmaiyegun",
+      "council": "Oshunmaiyegun",
+      "id": "WNLN24of1964"
     },
     {
       "countryID": "western_nigeria",
@@ -12315,7 +12833,14 @@
       },
       "drums": null,
       "date_of_publication": "1958",
-      "title": "Otta"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Otta",
+      "council": "Otta",
+      "id": "WRLN89of1958"
     },
     {
       "countryID": "western_nigeria",
@@ -12456,7 +12981,14 @@
         }
       ],
       "date_of_publication": "1965",
-      "title": "Otun"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Otun",
+      "council": "Otun",
+      "id": "WNLN323of1965"
     },
     {
       "countryID": "western_nigeria",
@@ -12999,7 +13531,14 @@
         }
       ],
       "date_of_publication": "1964",
-      "title": "Owo"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Owo",
+      "council": "Owo",
+      "id": "WNLN612of1964"
     },
     {
       "countryID": "western_nigeria",
@@ -13013,7 +13552,14 @@
       },
       "drums": null,
       "date_of_publication": "1964",
-      "title": "Oyo Southern"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Oyo Southern",
+      "council": "Oyo Southern",
+      "id": "WNLN250of1964"
     },
     {
       "countryID": "western_nigeria",
@@ -13148,7 +13694,14 @@
         }
       ],
       "date_of_publication": "1965",
-      "title": "Shaki"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Shaki",
+      "council": "Shaki",
+      "id": "WNLN56of1965"
     },
     {
       "countryID": "western_nigeria",
@@ -13185,7 +13738,14 @@
         }
       ],
       "date_of_publication": "1959",
-      "title": "Warri"
+      "date_of_issue": "get from law document",
+      "date_of_effect": "get from law document",
+      "adopted_from": [],
+      "signatories": [],
+      "revokes": [],
+      "title": "Warri",
+      "council": "Warri",
+      "id": "WRLN35of1959"
     }
   ]
 }

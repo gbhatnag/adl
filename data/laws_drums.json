@@ -5685,7 +5685,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 1,
+                "N": 1,
                 "k": 50
               }
             },
@@ -5693,7 +5693,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 1,
+                "N": 1,
                 "k": 50
               }
             }
@@ -5707,7 +5707,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 1,
+                "N": 1,
                 "k": 0
               }
             },
@@ -5715,7 +5715,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 2,
+                "N": 2,
                 "k": 0
               }
             }
@@ -5729,7 +5729,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 1,
+                "N": 1,
                 "k": 0
               }
             },
@@ -5737,7 +5737,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 2,
+                "N": 2,
                 "k": 0
               }
             }
@@ -5751,7 +5751,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 1,
+                "N": 1,
                 "k": 0
               }
             },
@@ -5759,7 +5759,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 1,
+                "N": 1,
                 "k": 0
               }
             }
@@ -5773,7 +5773,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 1,
+                "N": 1,
                 "k": 0
               }
             },
@@ -5781,7 +5781,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 1,
+                "N": 1,
                 "k": 0
               }
             }
@@ -5795,7 +5795,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 1,
+                "N": 1,
                 "k": 0
               }
             },
@@ -5803,7 +5803,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 1,
+                "N": 1,
                 "k": 0
               }
             }
@@ -5817,7 +5817,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 1,
+                "N": 1,
                 "k": 50
               }
             },
@@ -5825,7 +5825,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 2,
+                "N": 2,
                 "k": 0
               }
             }
@@ -5839,7 +5839,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 1,
+                "N": 1,
                 "k": 50
               }
             },
@@ -5847,7 +5847,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 2,
+                "N": 2,
                 "k": 0
               }
             }
@@ -5861,7 +5861,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 1,
+                "N": 1,
                 "k": 50
               }
             },
@@ -5869,7 +5869,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 2,
+                "N": 2,
                 "k": 0
               }
             }
@@ -5883,7 +5883,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 1,
+                "N": 1,
                 "k": 50
               }
             },
@@ -5891,7 +5891,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 2,
+                "N": 2,
                 "k": 0
               }
             }
@@ -5905,7 +5905,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 1,
+                "N": 1,
                 "k": 0
               }
             },
@@ -5913,7 +5913,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 1,
+                "N": 1,
                 "k": 0
               }
             }
@@ -9726,7 +9726,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 10,
+                "N": 10,
                 "k": 0
               }
             },
@@ -9734,7 +9734,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 15,
+                "N": 15,
                 "k": 0
               }
             }
@@ -9748,7 +9748,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 10,
+                "N": 10,
                 "k": 0
               }
             },
@@ -9756,7 +9756,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 15,
+                "N": 15,
                 "k": 0
               }
             }
@@ -9770,7 +9770,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 5,
+                "N": 5,
                 "k": 0
               }
             },
@@ -9778,7 +9778,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 5,
+                "N": 5,
                 "k": 0
               }
             }
@@ -9792,7 +9792,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 5,
+                "N": 5,
                 "k": 0
               }
             },
@@ -9800,7 +9800,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 5,
+                "N": 5,
                 "k": 0
               }
             }
@@ -9814,7 +9814,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             },
@@ -9822,7 +9822,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             }
@@ -9836,7 +9836,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             },
@@ -9844,7 +9844,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             }
@@ -9858,7 +9858,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             },
@@ -9866,7 +9866,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             }
@@ -9880,7 +9880,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             },
@@ -9888,7 +9888,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             }
@@ -9902,7 +9902,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             },
@@ -9910,7 +9910,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             }
@@ -9924,7 +9924,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             },
@@ -9932,7 +9932,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             }
@@ -9946,7 +9946,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             },
@@ -9954,7 +9954,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             }
@@ -9968,7 +9968,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             },
@@ -9976,7 +9976,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             }
@@ -9990,7 +9990,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             },
@@ -9998,7 +9998,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             }
@@ -10012,7 +10012,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             },
@@ -10020,7 +10020,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             }
@@ -10034,7 +10034,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             },
@@ -10042,7 +10042,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             }
@@ -10056,7 +10056,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             },
@@ -10064,7 +10064,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             }
@@ -10078,7 +10078,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             },
@@ -10086,7 +10086,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             }
@@ -10100,7 +10100,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             },
@@ -10108,7 +10108,7 @@
               "period_start": "6 pm",
               "period_end": "6 am",
               "fee": {
-                "₦": 0,
+                "N": 0,
                 "k": 50
               }
             }
@@ -11876,7 +11876,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 4,
+                "N": 4,
                 "k": 0
               }
             }
@@ -11890,7 +11890,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 4,
+                "N": 4,
                 "k": 0
               }
             }
@@ -11904,7 +11904,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 4,
+                "N": 4,
                 "k": 0
               }
             }
@@ -11918,7 +11918,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 4,
+                "N": 4,
                 "k": 0
               }
             }
@@ -11932,7 +11932,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 4,
+                "N": 4,
                 "k": 0
               }
             }
@@ -11946,7 +11946,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 4,
+                "N": 4,
                 "k": 0
               }
             }
@@ -11960,7 +11960,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 4,
+                "N": 4,
                 "k": 0
               }
             }
@@ -11974,7 +11974,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 4,
+                "N": 4,
                 "k": 0
               }
             }
@@ -11988,7 +11988,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 4,
+                "N": 4,
                 "k": 0
               }
             }
@@ -12002,7 +12002,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 4,
+                "N": 4,
                 "k": 0
               }
             }
@@ -12016,7 +12016,7 @@
               "period_start": "6 am",
               "period_end": "6 pm",
               "fee": {
-                "₦": 4,
+                "N": 4,
                 "k": 0
               }
             }
