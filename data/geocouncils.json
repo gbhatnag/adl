@@ -1,0 +1,1511 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9146,
+          6.70836
+        ]
+      },
+      "properties": {
+        "id": 53815980,
+        "shortname": "EREDO",
+        "fullname": "EREDO DISTRICT COUNCIL",
+        "numdrums": 0,
+        "numlaws": 1,
+        "location": {
+          "lat": 6.70836,
+          "lon": 3.9146
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6666667,
+          7.6666667
+        ]
+      },
+      "properties": {
+        "id": 67847249,
+        "shortname": "ILA",
+        "fullname": "ILA DISTRICT COUNCIL",
+        "numdrums": 8,
+        "numlaws": 2,
+        "location": {
+          "lat": 7.6666667,
+          "lon": 4.6666667
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.71667,
+          7.166667
+        ]
+      },
+      "properties": {
+        "id": 101312757,
+        "shortname": "ILEOLUJI/OKEIGBO",
+        "fullname": "ILEOLUJI/OKEIGBO DISTRICT COUNCIL",
+        "numdrums": 0,
+        "numlaws": 1,
+        "location": {
+          "lat": 7.166667,
+          "lon": 4.71667
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7456,
+          7.0164
+        ]
+      },
+      "properties": {
+        "id": 123148755,
+        "shortname": "ONDO WESTERN",
+        "fullname": "ONDO WESTERN DISTRICT COUNCIL",
+        "numdrums": 11,
+        "numlaws": 1,
+        "location": {
+          "lat": 7.0164,
+          "lon": 4.7456
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5868016,
+          7.1962012
+        ]
+      },
+      "properties": {
+        "id": 136502152,
+        "shortname": "OWO",
+        "fullname": "OWO DISTRICT COUNCIL",
+        "numdrums": 24,
+        "numlaws": 1,
+        "location": {
+          "lat": 7.1962012,
+          "lon": 5.5868016
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7,
+          7.1835
+        ]
+      },
+      "properties": {
+        "id": 221354256,
+        "shortname": "IFETEDO",
+        "fullname": "IFETEDO LOCAL COUNCIL",
+        "numdrums": 7,
+        "numlaws": 1,
+        "location": {
+          "lat": 7.1835,
+          "lon": 4.7
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3203386,
+          6.6229165
+        ]
+      },
+      "properties": {
+        "id": 221600722,
+        "shortname": "Agege",
+        "fullname": "Agege District Council",
+        "numdrums": 0,
+        "numlaws": 1,
+        "location": {
+          "lat": 6.6229165,
+          "lon": 3.3203386
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.13611482750207,
+          5.605318891280973
+        ]
+      },
+      "properties": {
+        "id": 289645545,
+        "shortname": "AKOKO WEST",
+        "fullname": "AKOKO WEST PROVISIONAL AUTHORITY",
+        "numdrums": 15,
+        "numlaws": 1,
+        "location": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.35,
+          7.4166667
+        ]
+      },
+      "properties": {
+        "id": 295250065,
+        "shortname": "OTUN",
+        "fullname": "OTUN DISTRICT COUNCIL",
+        "numdrums": 9,
+        "numlaws": 1,
+        "location": {
+          "lat": 7.4166667,
+          "lon": 3.35
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6757865,
+          6.970177
+        ]
+      },
+      "properties": {
+        "id": 355759601,
+        "shortname": "ODE REMO",
+        "fullname": "ODE REMO LOCAL COUNCIL",
+        "numdrums": 14,
+        "numlaws": 1,
+        "location": {
+          "lat": 6.970177,
+          "lon": 3.6757865
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3203386,
+          6.6229165
+        ]
+      },
+      "properties": {
+        "id": 433587122,
+        "shortname": "AGEGE",
+        "fullname": "AGEGE DISTRICT COUNCIL",
+        "numdrums": 10,
+        "numlaws": 1,
+        "location": {
+          "lat": 6.6229165,
+          "lon": 3.3203386
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3359,
+          6.4554
+        ]
+      },
+      "properties": {
+        "id": 500515034,
+        "shortname": "AJEROMI",
+        "fullname": "AJEROMI DISTRICT COUNCIL",
+        "numdrums": 11,
+        "numlaws": 1,
+        "location": {
+          "lat": 6.4554,
+          "lon": 3.3359
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.25094,
+          7.98334
+        ]
+      },
+      "properties": {
+        "id": 598315698,
+        "shortname": "OKEHO/IGANNA",
+        "fullname": "OKEHO/IGANNA DISTRICT COUNCIL",
+        "numdrums": 8,
+        "numlaws": 1,
+        "location": {
+          "lat": 7.98334,
+          "lon": 3.25094
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5918641,
+          6.5655788
+        ]
+      },
+      "properties": {
+        "id": 632784017,
+        "shortname": "IJEDE",
+        "fullname": "IJEDE LOCAL COUNCIL",
+        "numdrums": 0,
+        "numlaws": 1,
+        "location": {
+          "lat": 6.5655788,
+          "lon": 3.5918641
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.45094,
+          7.55
+        ]
+      },
+      "properties": {
+        "id": 670694882,
+        "shortname": "EDUNABON/MORO",
+        "fullname": "EDUNABON/MORO LOCAL COUNCIL",
+        "numdrums": 0,
+        "numlaws": 1,
+        "location": {
+          "lat": 7.55,
+          "lon": 4.45094
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.13611482750207,
+          5.605318891280973
+        ]
+      },
+      "properties": {
+        "id": 936080985,
+        "shortname": "AKOKO SOUTH",
+        "fullname": "AKOKO SOUTH PROVISIONAL AUTHORITY",
+        "numdrums": 0,
+        "numlaws": 1,
+        "location": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.13611482750207,
+          5.605318891280973
+        ]
+      },
+      "properties": {
+        "id": 938229995,
+        "shortname": "ESE-ODO",
+        "fullname": "ESE-ODO DISTRICT COUNCIL",
+        "numdrums": 0,
+        "numlaws": 2,
+        "location": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.13611482750207,
+          5.605318891280973
+        ]
+      },
+      "properties": {
+        "id": 1062625083,
+        "shortname": "EGBA-IKEREKU",
+        "fullname": "EGBA-IKEREKU DISTRICT COUNCIL",
+        "numdrums": 0,
+        "numlaws": 1,
+        "location": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9463,
+          9.032
+        ]
+      },
+      "properties": {
+        "id": 1098474380,
+        "shortname": "IREPO LOCAL",
+        "fullname": "IREPO LOCAL GOVERNMENT COUNCIL",
+        "numdrums": 18,
+        "numlaws": 1,
+        "location": {
+          "lat": 9.032,
+          "lon": 3.9463
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7061827,
+          6.6131966
+        ]
+      },
+      "properties": {
+        "id": 1124084716,
+        "shortname": "IKOSI",
+        "fullname": "IKOSI DISTRICT COUNCIL",
+        "numdrums": 9,
+        "numlaws": 2,
+        "location": {
+          "lat": 6.6131966,
+          "lon": 3.7061827
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5507,
+          7.482
+        ]
+      },
+      "properties": {
+        "id": 1146389063,
+        "shortname": "IFE",
+        "fullname": "IFE DISTRICT COUNCIL",
+        "numdrums": 16,
+        "numlaws": 1,
+        "location": {
+          "lat": 7.482,
+          "lon": 4.5507
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0005264,
+          6.9703057
+        ]
+      },
+      "properties": {
+        "id": 1175272142,
+        "shortname": "IJEBU-IGBO",
+        "fullname": "IJEBU-IGBO DISTRICT COUNCIL",
+        "numdrums": 10,
+        "numlaws": 1,
+        "location": {
+          "lat": 6.9703057,
+          "lon": 4.0005264
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.766667,
+          7.9
+        ]
+      },
+      "properties": {
+        "id": 1178717797,
+        "shortname": "SHAKI",
+        "fullname": "SHAKI DISTRICT COUNCIL",
+        "numdrums": 8,
+        "numlaws": 1,
+        "location": {
+          "lat": 7.9,
+          "lon": 4.766667
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7333333,
+          6.66667
+        ]
+      },
+      "properties": {
+        "id": 1216760637,
+        "shortname": "OTTA",
+        "fullname": "OTTA DISTRICT COUNCIL",
+        "numdrums": 0,
+        "numlaws": 1,
+        "location": {
+          "lat": 6.66667,
+          "lon": 3.7333333
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.13611482750207,
+          5.605318891280973
+        ]
+      },
+      "properties": {
+        "id": 1354365670,
+        "shortname": "IREKARI",
+        "fullname": "IREKARI DISTRICT COUNCIL",
+        "numdrums": 18,
+        "numlaws": 2,
+        "location": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.13611482750207,
+          5.605318891280973
+        ]
+      },
+      "properties": {
+        "id": 1421001994,
+        "shortname": "IJEBU NORTHERN",
+        "fullname": "IJEBU NORTHERN DISTRICT COUNCIL",
+        "numdrums": 10,
+        "numlaws": 2,
+        "location": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7358,
+          6.1972
+        ]
+      },
+      "properties": {
+        "id": 1467641846,
+        "shortname": "ILAJE",
+        "fullname": "ILAJE DISTRICT COUNCIL",
+        "numdrums": 11,
+        "numlaws": 1,
+        "location": {
+          "lat": 6.1972,
+          "lon": 4.7358
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.13611482750207,
+          5.605318891280973
+        ]
+      },
+      "properties": {
+        "id": 1526182173,
+        "shortname": "ILUGUN/ALARO",
+        "fullname": "ILUGUN/ALARO DISTRICT COUNCIL",
+        "numdrums": 0,
+        "numlaws": 1,
+        "location": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83333,
+          7.1
+        ]
+      },
+      "properties": {
+        "id": 1540964093,
+        "shortname": "ONDO LOCAL",
+        "fullname": "ONDO LOCAL GOVERNMENT COUNCIL",
+        "numdrums": 11,
+        "numlaws": 1,
+        "location": {
+          "lat": 7.1,
+          "lon": 4.83333
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6808622,
+          6.9923203
+        ]
+      },
+      "properties": {
+        "id": 1581691934,
+        "shortname": "ISHARA",
+        "fullname": "ISHARA LOCAL COUNCIL",
+        "numdrums": 1,
+        "numlaws": 1,
+        "location": {
+          "lat": 6.9923203,
+          "lon": 3.6808622
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.13611482750207,
+          5.605318891280973
+        ]
+      },
+      "properties": {
+        "id": 1720040997,
+        "shortname": "EKITI WESTERN",
+        "fullname": "EKITI WESTERN DISTRICT COUNCIL",
+        "numdrums": 0,
+        "numlaws": 1,
+        "location": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.666667,
+          7
+        ]
+      },
+      "properties": {
+        "id": 1829229173,
+        "shortname": "IPARA",
+        "fullname": "IPARA LOCAL COUNCIL",
+        "numdrums": 11,
+        "numlaws": 1,
+        "location": {
+          "lat": 7,
+          "lon": 3.666667
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.13611482750207,
+          5.605318891280973
+        ]
+      },
+      "properties": {
+        "id": 1884613475,
+        "shortname": "OFFIN (SHAGAMU)",
+        "fullname": "OFFIN (SHAGAMU) LOCAL COUNCIL",
+        "numdrums": 11,
+        "numlaws": 1,
+        "location": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.13611482750207,
+          5.605318891280973
+        ]
+      },
+      "properties": {
+        "id": 1906721724,
+        "shortname": "IKALE ORISUNMETA",
+        "fullname": "IKALE ORISUNMETA DISTRICT COUNCIL",
+        "numdrums": 8,
+        "numlaws": 1,
+        "location": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0005264,
+          6.9703057
+        ]
+      },
+      "properties": {
+        "id": 1910028838,
+        "shortname": "IJEBU-IGBO LOCAL",
+        "fullname": "IJEBU-IGBO LOCAL GOVERNMENT COUNCIL",
+        "numdrums": 11,
+        "numlaws": 1,
+        "location": {
+          "lat": 6.9703057,
+          "lon": 4.0005264
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0205,
+          6.88653
+        ]
+      },
+      "properties": {
+        "id": 1921012532,
+        "shortname": "ILARO",
+        "fullname": "ILARO DISTRICT COUNCIL",
+        "numdrums": 8,
+        "numlaws": 1,
+        "location": {
+          "lat": 6.88653,
+          "lon": 3.0205
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.45,
+          7.516667
+        ]
+      },
+      "properties": {
+        "id": 1946589246,
+        "shortname": "IPETUMODU",
+        "fullname": "IPETUMODU LOCAL COUNCIL",
+        "numdrums": 0,
+        "numlaws": 1,
+        "location": {
+          "lat": 7.516667,
+          "lon": 4.45
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8333115,
+          6.3606785
+        ]
+      },
+      "properties": {
+        "id": 2132882239,
+        "shortname": "LEKKI",
+        "fullname": "LEKKI DISTRICT COUNCIL",
+        "numdrums": 1,
+        "numlaws": 1,
+        "location": {
+          "lat": 6.3606785,
+          "lon": 4.8333115
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.85,
+          6.533333
+        ]
+      },
+      "properties": {
+        "id": 2138215380,
+        "shortname": "IPOKIA",
+        "fullname": "IPOKIA DISTRICT COUNCIL",
+        "numdrums": 14,
+        "numlaws": 1,
+        "location": {
+          "lat": 6.533333,
+          "lon": 2.85
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.85,
+          7
+        ]
+      },
+      "properties": {
+        "id": -665618625,
+        "shortname": "AWORI",
+        "fullname": "AWORI DISTRICT COUNCIL",
+        "numdrums": 8,
+        "numlaws": 1,
+        "location": {
+          "lat": 7,
+          "lon": 3.85
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9151668,
+          6.8140077
+        ]
+      },
+      "properties": {
+        "id": -1036460427,
+        "shortname": "IJEBU-ODE",
+        "fullname": "IJEBU-ODE DISTRICT COUNCIL",
+        "numdrums": 8,
+        "numlaws": 1,
+        "location": {
+          "lat": 6.8140077,
+          "lon": 3.9151668
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4445,
+          7.7887
+        ]
+      },
+      "properties": {
+        "id": -1761246068,
+        "shortname": "EGBEDORE",
+        "fullname": "EGBEDORE DISTRICT COUNCIL",
+        "numdrums": 0,
+        "numlaws": 1,
+        "location": {
+          "lat": 7.7887,
+          "lon": 4.4445
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8927,
+          6.487
+        ]
+      },
+      "properties": {
+        "id": -1054452648,
+        "shortname": "IBEJU",
+        "fullname": "IBEJU DISTRICT COUNCIL",
+        "numdrums": 0,
+        "numlaws": 1,
+        "location": {
+          "lat": 6.487,
+          "lon": 3.8927
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.348,
+          7.161
+        ]
+      },
+      "properties": {
+        "id": -2145553509,
+        "shortname": "ABEOKUTA",
+        "fullname": "ABEOKUTA URBAN DISTRICT COUNCIL",
+        "numdrums": 16,
+        "numlaws": 4,
+        "location": {
+          "lat": 7.161,
+          "lon": 3.348
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.13611482750207,
+          5.605318891280973
+        ]
+      },
+      "properties": {
+        "id": -108537901,
+        "shortname": "ESE-ODO DISTRICT COUNCIL (COMMITTEE",
+        "fullname": "ESE-ODO DISTRICT COUNCIL (COMMITTEE OF MANAGEMENT)",
+        "numdrums": 0,
+        "numlaws": 1,
+        "location": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.917222,
+          7.713611
+        ]
+      },
+      "properties": {
+        "id": -1034000692,
+        "shortname": "AFIJO",
+        "fullname": "AFIJO PROVISIONAL AUTHORITY",
+        "numdrums": 4,
+        "numlaws": 1,
+        "location": {
+          "lat": 7.713611,
+          "lon": 3.917222
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5166667,
+          6.433333
+        ]
+      },
+      "properties": {
+        "id": -2009059457,
+        "shortname": "OSHUNMAIYEGUN",
+        "fullname": "OSHUNMAIYEGUN PROVISIONAL AUTHORITY",
+        "numdrums": 11,
+        "numlaws": 1,
+        "location": {
+          "lat": 6.433333,
+          "lon": 3.5166667
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.233333,
+          7.216667
+        ]
+      },
+      "properties": {
+        "id": -2014409376,
+        "shortname": "OYO SOUTHERN",
+        "fullname": "OYO SOUTHERN DISTRICT COUNCIL",
+        "numdrums": 0,
+        "numlaws": 1,
+        "location": {
+          "lat": 7.216667,
+          "lon": 4.233333
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6272405,
+          6.854495
+        ]
+      },
+      "properties": {
+        "id": -1637534017,
+        "shortname": "MAKUN (SHAGAMU)",
+        "fullname": "MAKUN (SHAGAMU) LOCAL COUNCIL",
+        "numdrums": 13,
+        "numlaws": 2,
+        "location": {
+          "lat": 6.854495,
+          "lon": 3.6272405
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.13611482750207,
+          5.605318891280973
+        ]
+      },
+      "properties": {
+        "id": -438198965,
+        "shortname": "EKITI NORTHERN",
+        "fullname": "EKITI NORTHERN DISTRICT COUNCIL",
+        "numdrums": 9,
+        "numlaws": 1,
+        "location": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.13611482750207,
+          5.605318891280973
+        ]
+      },
+      "properties": {
+        "id": -485183916,
+        "shortname": "IJEBU EAST CENTRAL",
+        "fullname": "IJEBU EAST CENTRAL DISTRICT COUNCIL",
+        "numdrums": 10,
+        "numlaws": 1,
+        "location": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.13611482750207,
+          5.605318891280973
+        ]
+      },
+      "properties": {
+        "id": -102449476,
+        "shortname": "JEBU IMUSIN",
+        "fullname": "JEBU IMUSIN PROVISIONAL AUTHORITY",
+        "numdrums": 11,
+        "numlaws": 1,
+        "location": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.516667,
+          7.3
+        ]
+      },
+      "properties": {
+        "id": -316628867,
+        "shortname": "IMALA",
+        "fullname": "IMALA DISTRICT COUNCIL",
+        "numdrums": 13,
+        "numlaws": 2,
+        "location": {
+          "lat": 7.3,
+          "lon": 3.516667
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.666667,
+          7.91667
+        ]
+      },
+      "properties": {
+        "id": -2012079381,
+        "shortname": "IKIRUN",
+        "fullname": "IKIRUN DISTRICT COUNCIL",
+        "numdrums": 0,
+        "numlaws": 2,
+        "location": {
+          "lat": 7.91667,
+          "lon": 4.666667
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3571405,
+          6.526262
+        ]
+      },
+      "properties": {
+        "id": -1078170515,
+        "shortname": "MUSHIN",
+        "fullname": "MUSHIN DISTRICT COUNCIL",
+        "numdrums": 9,
+        "numlaws": 1,
+        "location": {
+          "lat": 6.526262,
+          "lon": 3.3571405
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5106,
+          7.7897
+        ]
+      },
+      "properties": {
+        "id": -1861224663,
+        "shortname": "IKOLE",
+        "fullname": "IKOLE DISTRICT COUNCIL",
+        "numdrums": 14,
+        "numlaws": 1,
+        "location": {
+          "lat": 7.7897,
+          "lon": 5.5106
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.13611482750207,
+          5.605318891280973
+        ]
+      },
+      "properties": {
+        "id": -788616615,
+        "shortname": "Akoko South",
+        "fullname": "Akoko South Provisional Authority",
+        "numdrums": 12,
+        "numlaws": 1,
+        "location": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.13611482750207,
+          5.605318891280973
+        ]
+      },
+      "properties": {
+        "id": -557431890,
+        "shortname": "IJEBU NORTH-WESTERN",
+        "fullname": "IJEBU NORTH-WESTERN DISTRICT COUNCIL",
+        "numdrums": 7,
+        "numlaws": 2,
+        "location": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6643757,
+          6.9117092
+        ]
+      },
+      "properties": {
+        "id": -1261201523,
+        "shortname": "IPERU",
+        "fullname": "IPERU LOCAL COUNCIL",
+        "numdrums": 6,
+        "numlaws": 1,
+        "location": {
+          "lat": 6.9117092,
+          "lon": 3.6643757
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6204,
+          7.4477
+        ]
+      },
+      "properties": {
+        "id": -1540626230,
+        "shortname": "OKA",
+        "fullname": "OKA DISTRICT COUNCIL",
+        "numdrums": 1,
+        "numlaws": 1,
+        "location": {
+          "lat": 7.4477,
+          "lon": 5.6204
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.13611482750207,
+          5.605318891280973
+        ]
+      },
+      "properties": {
+        "id": -1406515547,
+        "shortname": "",
+        "fullname": "MOTHER LAW",
+        "numdrums": 8,
+        "numlaws": 1,
+        "location": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.13611482750207,
+          5.605318891280973
+        ]
+      },
+      "properties": {
+        "id": -1825601452,
+        "shortname": "LUGUN/ALARO",
+        "fullname": "LUGUN/ALARO DISTRICT COUNCIL",
+        "numdrums": 8,
+        "numlaws": 1,
+        "location": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.13611482750207,
+          5.605318891280973
+        ]
+      },
+      "properties": {
+        "id": -2052189551,
+        "shortname": "EGUN-AWORI",
+        "fullname": "EGUN-AWORI DISTRICT COUNCIL",
+        "numdrums": 12,
+        "numlaws": 4,
+        "location": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5041271,
+          6.6191233
+        ]
+      },
+      "properties": {
+        "id": -817262782,
+        "shortname": "THE EGUN-AWORI",
+        "fullname": "THE EGUN-AWORI DISTRICT COUNCIL",
+        "numdrums": 0,
+        "numlaws": 1,
+        "location": {
+          "lat": 6.6191233,
+          "lon": 3.5041271
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.13611482750207,
+          5.605318891280973
+        ]
+      },
+      "properties": {
+        "id": -794056208,
+        "shortname": "Ado-Igbessa",
+        "fullname": "Ado-Igbessa District Council",
+        "numdrums": 0,
+        "numlaws": 1,
+        "location": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.13611482750207,
+          5.605318891280973
+        ]
+      },
+      "properties": {
+        "id": -1438731820,
+        "shortname": "IJEBU EASTERN",
+        "fullname": "IJEBU EASTERN DISTRICT COUNCIL",
+        "numdrums": 0,
+        "numlaws": 1,
+        "location": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.75,
+          5.517
+        ]
+      },
+      "properties": {
+        "id": -42779554,
+        "shortname": "WARRI",
+        "fullname": "WARRI URBAN DISTRICT COUNCIL",
+        "numdrums": 1,
+        "numlaws": 1,
+        "location": {
+          "lat": 5.517,
+          "lon": 5.75
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7151785,
+          6.8657885
+        ]
+      },
+      "properties": {
+        "id": -1660651698,
+        "shortname": "IKENNE",
+        "fullname": "IKENNE LOCAL COUNCIL",
+        "numdrums": 14,
+        "numlaws": 1,
+        "location": {
+          "lat": 6.8657885,
+          "lon": 3.7151785
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5219,
+          6.4545
+        ]
+      },
+      "properties": {
+        "id": -1943672278,
+        "shortname": "IJEBU WATERSIDE",
+        "fullname": "IJEBU WATERSIDE DISTRICT COUNCIL",
+        "numdrums": 13,
+        "numlaws": 1,
+        "location": {
+          "lat": 6.4545,
+          "lon": 4.5219
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.2991,
+          7.3441
+        ]
+      },
+      "properties": {
+        "id": -922037923,
+        "shortname": "Aiyedade",
+        "fullname": "Aiyedade District Council",
+        "numdrums": 0,
+        "numlaws": 1,
+        "location": {
+          "lat": 7.3441,
+          "lon": 4.2991
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6354235,
+          6.9350435
+        ]
+      },
+      "properties": {
+        "id": -374036,
+        "shortname": "OGERE",
+        "fullname": "OGERE LOCAL COUNCIL",
+        "numdrums": 7,
+        "numlaws": 1,
+        "location": {
+          "lat": 6.9350435,
+          "lon": 3.6354235
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.13611482750207,
+          5.605318891280973
+        ]
+      },
+      "properties": {
+        "id": -935783982,
+        "shortname": "IJEBU SOUTHERN",
+        "fullname": "IJEBU SOUTHERN DISTRICT COUNCIL",
+        "numdrums": 1,
+        "numlaws": 1,
+        "location": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.13611482750207,
+          5.605318891280973
+        ]
+      },
+      "properties": {
+        "id": -555143480,
+        "shortname": "IBARAPA WEST",
+        "fullname": "IBARAPA WEST DISTRICT COUNCIL",
+        "numdrums": 18,
+        "numlaws": 1,
+        "location": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5173,
+          7.5854
+        ]
+      },
+      "properties": {
+        "id": -353033416,
+        "shortname": "IBARAPA EAST",
+        "fullname": "IBARAPA EAST PROVISIONAL AUTHORITY",
+        "numdrums": 18,
+        "numlaws": 1,
+        "location": {
+          "lat": 7.5854,
+          "lon": 3.5173
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.183333,
+          7.63333
+        ]
+      },
+      "properties": {
+        "id": -1705519794,
+        "shortname": "IWO",
+        "fullname": "IWO DISTRICT COUNCIL",
+        "numdrums": 13,
+        "numlaws": 1,
+        "location": {
+          "lat": 7.63333,
+          "lon": 4.183333
+        }
+      }
+    }
+  ]
+}

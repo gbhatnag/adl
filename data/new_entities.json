@@ -1,0 +1,4200 @@
+{
+  "drums": {
+    "iyailu": {
+      "id": "iyailu",
+      "names": {
+        "Iya-Ilu": 12,
+        "Iya Ilu": 33,
+        "Iyailu": 2
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN107of1962": 1,
+        "WNLN124of1961": 1,
+        "WNLN141of1964": 1,
+        "WNLN15of1961": 1,
+        "WNLN163of1965": 1,
+        "WNLN201of1965": 1,
+        "WNLN20of1965": 1,
+        "WNLN24of1964": 1,
+        "WNLN252of1962": 1,
+        "WNLN321of1965": 1,
+        "WNLN323of1965": 1,
+        "WNLN331of1965": 1,
+        "WNLN35of1964": 1,
+        "WNLN367of1962": 1,
+        "WNLN383of1961": 1,
+        "WNLN385of1960": 1,
+        "WNLN388of1960": 1,
+        "WNLN38of1963": 1,
+        "WNLN446of1965": 1,
+        "WNLN447of1965": 1,
+        "WNLN474of1965": 1,
+        "WNLN475of1965": 1,
+        "WNLN56of1965": 1,
+        "WNLN612of1964": 1,
+        "WNLN613of1964": 1,
+        "WNLN74of1965": 1,
+        "WRLN100of1959": 1,
+        "WRLN13of1956": 1,
+        "WRLN142of1958": 1,
+        "WRLN145of1959": 1,
+        "WRLN301of1956": 1,
+        "WRLN339of1958": 1,
+        "WRLN361of1959": 1,
+        "WRLN363of1959": 1,
+        "WRLN451of1959": 1,
+        "WRLN457of1958": 1,
+        "WRLN488of1959": 1,
+        "WRLN505of1958": 1,
+        "WRLN511of1958": 1,
+        "WSLN100of1967": 1,
+        "WSLN10of1971": 1,
+        "WSLN110of1968": 1,
+        "WSLN111of1967": 1,
+        "WSLN3of1975": 1,
+        "WSLN65of1968": 1,
+        "WSLN68of1975": 1,
+        "WSLN83of1975": 1
+      },
+      "council_mentions": {
+        "67847249": 1,
+        "123148755": 1,
+        "136502152": 1,
+        "221354256": 1,
+        "289645545": 1,
+        "295250065": 1,
+        "355759601": 1,
+        "433587122": 1,
+        "500515034": 1,
+        "598315698": 1,
+        "1098474380": 1,
+        "1124084716": 2,
+        "1146389063": 1,
+        "1175272142": 1,
+        "1178717797": 1,
+        "1354365670": 1,
+        "1421001994": 2,
+        "1540964093": 1,
+        "1829229173": 1,
+        "1884613475": 1,
+        "1910028838": 1,
+        "1921012532": 1,
+        "2138215380": 1,
+        "-665618625": 1,
+        "-1036460427": 1,
+        "-2009059457": 1,
+        "-485183916": 1,
+        "-102449476": 1,
+        "-316628867": 1,
+        "-2145553509": 2,
+        "-1078170515": 1,
+        "-1861224663": 1,
+        "-788616615": 1,
+        "-1261201523": 1,
+        "-1637534017": 1,
+        "-1406515547": 1,
+        "-1825601452": 1,
+        "-1660651698": 1,
+        "-1943672278": 1,
+        "-374036": 1,
+        "-2052189551": 1,
+        "-555143480": 1,
+        "-353033416": 1,
+        "-1705519794": 1
+      }
+    },
+    "dundun": {
+      "id": "dundun",
+      "names": {
+        "Dundun": 43
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN107of1962": 1,
+        "WNLN124of1961": 1,
+        "WNLN141of1964": 1,
+        "WNLN15of1961": 1,
+        "WNLN163of1965": 1,
+        "WNLN201of1965": 1,
+        "WNLN20of1965": 1,
+        "WNLN24of1964": 1,
+        "WNLN252of1962": 1,
+        "WNLN321of1965": 1,
+        "WNLN323of1965": 1,
+        "WNLN331of1965": 1,
+        "WNLN35of1964": 1,
+        "WNLN367of1962": 1,
+        "WNLN383of1961": 1,
+        "WNLN385of1960": 1,
+        "WNLN38of1963": 1,
+        "WNLN446of1965": 1,
+        "WNLN447of1965": 1,
+        "WNLN474of1965": 1,
+        "WNLN475of1965": 1,
+        "WNLN56of1965": 1,
+        "WNLN612of1964": 1,
+        "WNLN74of1965": 1,
+        "WRLN100of1959": 1,
+        "WRLN13of1956": 1,
+        "WRLN142of1958": 1,
+        "WRLN145of1959": 1,
+        "WRLN301of1956": 1,
+        "WRLN339of1958": 1,
+        "WRLN361of1959": 1,
+        "WRLN363of1959": 1,
+        "WRLN451of1959": 1,
+        "WRLN457of1958": 1,
+        "WRLN488of1959": 1,
+        "WRLN505of1958": 1,
+        "WSLN100of1967": 1,
+        "WSLN10of1971": 1,
+        "WSLN110of1968": 1,
+        "WSLN111of1967": 1,
+        "WSLN65of1968": 1,
+        "WSLN68of1975": 1,
+        "WSLN83of1975": 1
+      },
+      "council_mentions": {
+        "67847249": 1,
+        "123148755": 1,
+        "136502152": 1,
+        "289645545": 1,
+        "295250065": 1,
+        "355759601": 1,
+        "433587122": 1,
+        "500515034": 1,
+        "598315698": 1,
+        "1098474380": 1,
+        "1124084716": 2,
+        "1146389063": 1,
+        "1175272142": 1,
+        "1178717797": 1,
+        "1354365670": 1,
+        "1421001994": 2,
+        "1829229173": 1,
+        "1884613475": 1,
+        "1910028838": 1,
+        "1921012532": 1,
+        "2138215380": 1,
+        "-665618625": 1,
+        "-1036460427": 1,
+        "-2009059457": 1,
+        "-485183916": 1,
+        "-102449476": 1,
+        "-316628867": 1,
+        "-2145553509": 2,
+        "-1078170515": 1,
+        "-1861224663": 1,
+        "-1261201523": 1,
+        "-1637534017": 1,
+        "-1406515547": 1,
+        "-1825601452": 1,
+        "-1660651698": 1,
+        "-1943672278": 1,
+        "-374036": 1,
+        "-555143480": 1,
+        "-353033416": 1,
+        "-1705519794": 1
+      }
+    },
+    "kete": {
+      "id": "kete",
+      "names": {
+        "Kete": 35
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN107of1962": 1,
+        "WNLN124of1961": 1,
+        "WNLN141of1964": 1,
+        "WNLN15of1961": 1,
+        "WNLN20of1965": 1,
+        "WNLN24of1964": 1,
+        "WNLN252of1962": 1,
+        "WNLN331of1965": 1,
+        "WNLN35of1964": 1,
+        "WNLN367of1962": 1,
+        "WNLN383of1961": 1,
+        "WNLN385of1960": 1,
+        "WNLN38of1963": 1,
+        "WNLN446of1965": 1,
+        "WNLN447of1965": 1,
+        "WNLN474of1965": 1,
+        "WNLN475of1965": 1,
+        "WNLN56of1965": 1,
+        "WRLN100of1959": 1,
+        "WRLN13of1956": 1,
+        "WRLN142of1958": 1,
+        "WRLN145of1959": 1,
+        "WRLN301of1956": 1,
+        "WRLN339of1958": 1,
+        "WRLN361of1959": 1,
+        "WRLN363of1959": 1,
+        "WRLN451of1959": 1,
+        "WRLN457of1958": 1,
+        "WRLN488of1959": 1,
+        "WRLN505of1958": 1,
+        "WSLN100of1967": 1,
+        "WSLN10of1971": 1,
+        "WSLN111of1967": 1,
+        "WSLN68of1975": 1,
+        "WSLN83of1975": 1
+      },
+      "council_mentions": {
+        "67847249": 1,
+        "355759601": 1,
+        "433587122": 1,
+        "500515034": 1,
+        "598315698": 1,
+        "1098474380": 1,
+        "1124084716": 2,
+        "1175272142": 1,
+        "1178717797": 1,
+        "1421001994": 2,
+        "1829229173": 1,
+        "1884613475": 1,
+        "1910028838": 1,
+        "1921012532": 1,
+        "2138215380": 1,
+        "-665618625": 1,
+        "-1036460427": 1,
+        "-2009059457": 1,
+        "-485183916": 1,
+        "-102449476": 1,
+        "-316628867": 1,
+        "-2145553509": 2,
+        "-1078170515": 1,
+        "-1861224663": 1,
+        "-1637534017": 1,
+        "-1406515547": 1,
+        "-1825601452": 1,
+        "-1660651698": 1,
+        "-1943672278": 1,
+        "-374036": 1,
+        "-555143480": 1,
+        "-353033416": 1
+      }
+    },
+    "agasa": {
+      "id": "agasa",
+      "names": {
+        "Agasa": 26
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN107of1962": 1,
+        "WNLN124of1961": 1,
+        "WNLN141of1964": 1,
+        "WNLN15of1961": 1,
+        "WNLN20of1965": 1,
+        "WNLN24of1964": 1,
+        "WNLN252of1962": 1,
+        "WNLN331of1965": 1,
+        "WNLN35of1964": 1,
+        "WNLN367of1962": 1,
+        "WNLN383of1961": 1,
+        "WNLN385of1960": 1,
+        "WNLN446of1965": 1,
+        "WNLN474of1965": 1,
+        "WNLN475of1965": 1,
+        "WNLN56of1965": 1,
+        "WRLN13of1956": 1,
+        "WRLN142of1958": 1,
+        "WRLN301of1956": 1,
+        "WRLN339of1958": 1,
+        "WRLN361of1959": 1,
+        "WRLN451of1959": 1,
+        "WRLN488of1959": 1,
+        "WRLN505of1958": 1,
+        "WSLN68of1975": 1,
+        "WSLN83of1975": 1
+      },
+      "council_mentions": {
+        "67847249": 1,
+        "433587122": 1,
+        "500515034": 1,
+        "598315698": 1,
+        "1098474380": 1,
+        "1124084716": 2,
+        "1175272142": 1,
+        "1178717797": 1,
+        "1421001994": 2,
+        "1910028838": 1,
+        "1921012532": 1,
+        "2138215380": 1,
+        "-665618625": 1,
+        "-1036460427": 1,
+        "-2009059457": 1,
+        "-485183916": 1,
+        "-102449476": 1,
+        "-316628867": 1,
+        "-2145553509": 2,
+        "-1406515547": 1,
+        "-1825601452": 1,
+        "-1943672278": 1,
+        "-374036": 1
+      }
+    },
+    "batakoto": {
+      "id": "batakoto",
+      "names": {
+        "Bata Koto": 4,
+        "Batakoto": 31,
+        "Bata-koto": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN107of1962": 1,
+        "WNLN124of1961": 1,
+        "WNLN141of1964": 1,
+        "WNLN15of1961": 1,
+        "WNLN163of1965": 1,
+        "WNLN201of1965": 1,
+        "WNLN20of1965": 1,
+        "WNLN22of1967": 1,
+        "WNLN24of1964": 1,
+        "WNLN252of1962": 1,
+        "WNLN323of1965": 1,
+        "WNLN331of1965": 1,
+        "WNLN35of1964": 1,
+        "WNLN367of1962": 1,
+        "WNLN385of1960": 1,
+        "WNLN38of1963": 1,
+        "WNLN446of1965": 1,
+        "WNLN447of1965": 1,
+        "WNLN474of1965": 1,
+        "WNLN475of1965": 1,
+        "WNLN56of1965": 1,
+        "WNLN74of1965": 1,
+        "WRLN100of1959": 1,
+        "WRLN13of1956": 1,
+        "WRLN142of1958": 1,
+        "WRLN145of1959": 1,
+        "WRLN301of1956": 1,
+        "WRLN339of1958": 1,
+        "WRLN361of1959": 1,
+        "WRLN363of1959": 1,
+        "WRLN451of1959": 1,
+        "WRLN457of1958": 1,
+        "WRLN488of1959": 1,
+        "WRLN511of1958": 1,
+        "WSLN10of1971": 1,
+        "WSLN83of1975": 1
+      },
+      "council_mentions": {
+        "67847249": 1,
+        "123148755": 1,
+        "289645545": 1,
+        "295250065": 1,
+        "355759601": 1,
+        "433587122": 1,
+        "500515034": 1,
+        "598315698": 1,
+        "1124084716": 2,
+        "1175272142": 1,
+        "1178717797": 1,
+        "1421001994": 2,
+        "1829229173": 1,
+        "1884613475": 1,
+        "1910028838": 1,
+        "1921012532": 1,
+        "2138215380": 1,
+        "-665618625": 1,
+        "-1036460427": 1,
+        "-1034000692": 1,
+        "-2009059457": 1,
+        "-485183916": 1,
+        "-102449476": 1,
+        "-2145553509": 2,
+        "-1078170515": 1,
+        "-1861224663": 1,
+        "-1261201523": 1,
+        "-1637534017": 1,
+        "-1406515547": 1,
+        "-1825601452": 1,
+        "-1660651698": 1,
+        "-1943672278": 1,
+        "-2052189551": 1
+      }
+    },
+    "apala": {
+      "id": "apala",
+      "names": {
+        "Apala": 50
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN107of1962": 1,
+        "WNLN124of1961": 1,
+        "WNLN141of1964": 1,
+        "WNLN15of1961": 1,
+        "WNLN163of1965": 1,
+        "WNLN201of1965": 1,
+        "WNLN20of1965": 1,
+        "WNLN22of1967": 1,
+        "WNLN24of1964": 1,
+        "WNLN252of1962": 1,
+        "WNLN311of1965": 1,
+        "WNLN321of1965": 1,
+        "WNLN323of1965": 1,
+        "WNLN331of1965": 1,
+        "WNLN35of1964": 1,
+        "WNLN367of1962": 1,
+        "WNLN383of1961": 1,
+        "WNLN385of1960": 1,
+        "WNLN388of1960": 1,
+        "WNLN38of1963": 1,
+        "WNLN446of1965": 1,
+        "WNLN447of1965": 1,
+        "WNLN474of1965": 1,
+        "WNLN475of1965": 1,
+        "WNLN56of1965": 1,
+        "WNLN612of1964": 1,
+        "WNLN613of1964": 1,
+        "WNLN74of1965": 1,
+        "WRLN100of1959": 1,
+        "WRLN13of1956": 1,
+        "WRLN142of1958": 1,
+        "WRLN145of1959": 1,
+        "WRLN301of1956": 1,
+        "WRLN339of1958": 1,
+        "WRLN361of1959": 1,
+        "WRLN363of1959": 1,
+        "WRLN451of1959": 1,
+        "WRLN457of1958": 1,
+        "WRLN488of1959": 1,
+        "WRLN489of1959": 1,
+        "WRLN505of1958": 1,
+        "WRLN511of1958": 1,
+        "WSLN100of1967": 1,
+        "WSLN10of1971": 1,
+        "WSLN110of1968": 1,
+        "WSLN111of1967": 1,
+        "WSLN3of1975": 1,
+        "WSLN65of1968": 1,
+        "WSLN68of1975": 1,
+        "WSLN83of1975": 1
+      },
+      "council_mentions": {
+        "67847249": 1,
+        "123148755": 1,
+        "136502152": 1,
+        "221354256": 1,
+        "289645545": 1,
+        "295250065": 1,
+        "355759601": 1,
+        "433587122": 1,
+        "500515034": 1,
+        "598315698": 1,
+        "1098474380": 1,
+        "1124084716": 2,
+        "1146389063": 1,
+        "1175272142": 1,
+        "1178717797": 1,
+        "1354365670": 1,
+        "1421001994": 2,
+        "1540964093": 1,
+        "1829229173": 1,
+        "1884613475": 1,
+        "1910028838": 1,
+        "1921012532": 1,
+        "2138215380": 1,
+        "-665618625": 1,
+        "-1036460427": 1,
+        "-1034000692": 1,
+        "-2009059457": 1,
+        "-438198965": 1,
+        "-485183916": 1,
+        "-102449476": 1,
+        "-316628867": 1,
+        "-2145553509": 2,
+        "-1078170515": 1,
+        "-1861224663": 1,
+        "-788616615": 1,
+        "-1261201523": 1,
+        "-1637534017": 1,
+        "-1406515547": 1,
+        "-1825601452": 1,
+        "-1660651698": 1,
+        "-1943672278": 1,
+        "-557431890": 1,
+        "-374036": 1,
+        "-2052189551": 1,
+        "-555143480": 1,
+        "-353033416": 1,
+        "-1705519794": 1
+      }
+    },
+    "sakara": {
+      "id": "sakara",
+      "names": {
+        "Sakara": 48
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN107of1962": 1,
+        "WNLN124of1961": 1,
+        "WNLN141of1964": 1,
+        "WNLN15of1961": 1,
+        "WNLN163of1965": 1,
+        "WNLN201of1965": 1,
+        "WNLN20of1965": 1,
+        "WNLN24of1964": 1,
+        "WNLN252of1962": 1,
+        "WNLN321of1965": 1,
+        "WNLN323of1965": 1,
+        "WNLN331of1965": 1,
+        "WNLN35of1964": 1,
+        "WNLN367of1962": 1,
+        "WNLN383of1961": 1,
+        "WNLN385of1960": 1,
+        "WNLN388of1960": 1,
+        "WNLN38of1963": 1,
+        "WNLN408of1964": 1,
+        "WNLN446of1965": 1,
+        "WNLN447of1965": 1,
+        "WNLN474of1965": 1,
+        "WNLN475of1965": 1,
+        "WNLN56of1965": 1,
+        "WNLN612of1964": 1,
+        "WNLN613of1964": 1,
+        "WNLN630of1965": 1,
+        "WNLN74of1965": 1,
+        "WRLN100of1959": 1,
+        "WRLN13of1956": 1,
+        "WRLN142of1958": 1,
+        "WRLN145of1959": 1,
+        "WRLN301of1956": 1,
+        "WRLN361of1959": 1,
+        "WRLN363of1959": 1,
+        "WRLN451of1959": 1,
+        "WRLN457of1958": 1,
+        "WRLN488of1959": 1,
+        "WRLN489of1959": 1,
+        "WRLN505of1958": 1,
+        "WRLN511of1958": 1,
+        "WSLN100of1967": 1,
+        "WSLN10of1971": 1,
+        "WSLN110of1968": 1,
+        "WSLN111of1967": 1,
+        "WSLN3of1975": 1,
+        "WSLN65of1968": 1,
+        "WSLN83of1975": 1
+      },
+      "council_mentions": {
+        "67847249": 1,
+        "123148755": 1,
+        "136502152": 1,
+        "221354256": 1,
+        "289645545": 1,
+        "295250065": 1,
+        "355759601": 1,
+        "433587122": 1,
+        "500515034": 1,
+        "598315698": 1,
+        "1124084716": 2,
+        "1146389063": 1,
+        "1175272142": 1,
+        "1178717797": 1,
+        "1354365670": 1,
+        "1421001994": 2,
+        "1467641846": 1,
+        "1540964093": 1,
+        "1829229173": 1,
+        "1884613475": 1,
+        "1906721724": 1,
+        "1910028838": 1,
+        "1921012532": 1,
+        "-665618625": 1,
+        "-1036460427": 1,
+        "-2009059457": 1,
+        "-485183916": 1,
+        "-102449476": 1,
+        "-316628867": 1,
+        "-2145553509": 2,
+        "-1078170515": 1,
+        "-1861224663": 1,
+        "-788616615": 1,
+        "-1261201523": 1,
+        "-1637534017": 1,
+        "-1406515547": 1,
+        "-1825601452": 1,
+        "-1660651698": 1,
+        "-1943672278": 1,
+        "-557431890": 1,
+        "-374036": 1,
+        "-2052189551": 1,
+        "-555143480": 1,
+        "-353033416": 1,
+        "-1705519794": 1
+      }
+    },
+    "juju": {
+      "id": "juju",
+      "names": {
+        "Juju": 48
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN107of1962": 1,
+        "WNLN124of1961": 1,
+        "WNLN141of1964": 1,
+        "WNLN15of1961": 1,
+        "WNLN163of1965": 1,
+        "WNLN201of1965": 1,
+        "WNLN20of1965": 1,
+        "WNLN22of1967": 1,
+        "WNLN24of1964": 1,
+        "WNLN252of1962": 1,
+        "WNLN311of1965": 1,
+        "WNLN321of1965": 1,
+        "WNLN323of1965": 1,
+        "WNLN331of1965": 1,
+        "WNLN35of1964": 1,
+        "WNLN367of1962": 1,
+        "WNLN383of1961": 1,
+        "WNLN385of1960": 1,
+        "WNLN38of1963": 1,
+        "WNLN408of1964": 1,
+        "WNLN446of1965": 1,
+        "WNLN447of1965": 1,
+        "WNLN474of1965": 1,
+        "WNLN475of1965": 1,
+        "WNLN56of1965": 1,
+        "WNLN612of1964": 1,
+        "WNLN613of1964": 1,
+        "WNLN630of1965": 1,
+        "WNLN74of1965": 1,
+        "WRLN100of1959": 1,
+        "WRLN13of1956": 1,
+        "WRLN142of1958": 1,
+        "WRLN145of1959": 1,
+        "WRLN301of1956": 1,
+        "WRLN339of1958": 1,
+        "WRLN361of1959": 1,
+        "WRLN363of1959": 1,
+        "WRLN451of1959": 1,
+        "WRLN457of1958": 1,
+        "WRLN488of1959": 1,
+        "WRLN489of1959": 1,
+        "WRLN505of1958": 1,
+        "WRLN511of1958": 1,
+        "WSLN10of1971": 1,
+        "WSLN110of1968": 1,
+        "WSLN3of1975": 1,
+        "WSLN65of1968": 1,
+        "WSLN83of1975": 1
+      },
+      "council_mentions": {
+        "67847249": 1,
+        "123148755": 1,
+        "136502152": 1,
+        "289645545": 1,
+        "295250065": 1,
+        "355759601": 1,
+        "433587122": 1,
+        "500515034": 1,
+        "598315698": 1,
+        "1124084716": 2,
+        "1146389063": 1,
+        "1175272142": 1,
+        "1178717797": 1,
+        "1354365670": 1,
+        "1421001994": 2,
+        "1467641846": 1,
+        "1540964093": 1,
+        "1829229173": 1,
+        "1884613475": 1,
+        "1906721724": 1,
+        "1910028838": 1,
+        "1921012532": 1,
+        "2138215380": 1,
+        "-665618625": 1,
+        "-1036460427": 1,
+        "-1034000692": 1,
+        "-2009059457": 1,
+        "-438198965": 1,
+        "-485183916": 1,
+        "-102449476": 1,
+        "-316628867": 1,
+        "-2145553509": 2,
+        "-1078170515": 1,
+        "-1861224663": 1,
+        "-788616615": 1,
+        "-1261201523": 1,
+        "-1637534017": 1,
+        "-1406515547": 1,
+        "-1825601452": 1,
+        "-1660651698": 1,
+        "-1943672278": 1,
+        "-557431890": 1,
+        "-374036": 1,
+        "-2052189551": 1,
+        "-1705519794": 1
+      }
+    },
+    "waka": {
+      "id": "waka",
+      "names": {
+        "Waka": 4
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN141of1964": 1,
+        "WSLN110of1968": 1,
+        "WSLN68of1975": 1,
+        "WSLN83of1975": 1
+      },
+      "council_mentions": {
+        "1098474380": 1,
+        "1146389063": 1,
+        "1175272142": 1,
+        "1910028838": 1
+      }
+    },
+    "agidigbo": {
+      "id": "agidigbo",
+      "names": {
+        "Agidigbo": 23
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN141of1964": 1,
+        "WNLN24of1964": 1,
+        "WNLN323of1965": 1,
+        "WNLN35of1964": 1,
+        "WNLN367of1962": 1,
+        "WNLN383of1961": 1,
+        "WNLN385of1960": 1,
+        "WNLN38of1963": 1,
+        "WNLN408of1964": 1,
+        "WNLN447of1965": 1,
+        "WNLN475of1965": 1,
+        "WNLN504of1964": 1,
+        "WRLN100of1959": 1,
+        "WRLN145of1959": 1,
+        "WRLN339of1958": 1,
+        "WRLN363of1959": 1,
+        "WRLN451of1959": 1,
+        "WRLN457of1958": 1,
+        "WSLN10of1971": 1,
+        "WSLN110of1968": 1,
+        "WSLN3of1975": 1,
+        "WSLN68of1975": 1,
+        "WSLN83of1975": 1
+      },
+      "council_mentions": {
+        "295250065": 1,
+        "355759601": 1,
+        "433587122": 1,
+        "1098474380": 1,
+        "1146389063": 1,
+        "1175272142": 1,
+        "1540964093": 1,
+        "1829229173": 1,
+        "1884613475": 1,
+        "1906721724": 1,
+        "1910028838": 1,
+        "2138215380": 1,
+        "-2009059457": 1,
+        "-102449476": 1,
+        "-316628867": 2,
+        "-2145553509": 2,
+        "-1078170515": 1,
+        "-1861224663": 1,
+        "-1637534017": 1,
+        "-1660651698": 1,
+        "-1943672278": 1
+      }
+    },
+    "osirigi": {
+      "id": "osirigi",
+      "names": {
+        "Osirigi": 2
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN163of1965": 1,
+        "WNLN613of1964": 1
+      },
+      "council_mentions": {
+        "289645545": 1,
+        "-788616615": 1
+      }
+    },
+    "ogbele": {
+      "id": "ogbele",
+      "names": {
+        "Ogbele": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN163of1965": 1
+      },
+      "council_mentions": {
+        "289645545": 1
+      }
+    },
+    "kokoma": {
+      "id": "kokoma",
+      "names": {
+        "Kokoma": 7
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN163of1965": 1,
+        "WNLN311of1965": 1,
+        "WNLN321of1965": 1,
+        "WNLN388of1960": 1,
+        "WNLN612of1964": 1,
+        "WNLN613of1964": 1,
+        "WRLN339of1958": 1
+      },
+      "council_mentions": {
+        "136502152": 1,
+        "221354256": 1,
+        "289645545": 1,
+        "1354365670": 1,
+        "2138215380": 1,
+        "-438198965": 1,
+        "-788616615": 1
+      }
+    },
+    "adan": {
+      "id": "adan",
+      "names": {
+        "Adan": 2
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN163of1965": 1,
+        "WSLN3of1975": 1
+      },
+      "council_mentions": {
+        "289645545": 1,
+        "1540964093": 1
+      }
+    },
+    "ijebu": {
+      "id": "ijebu",
+      "names": {
+        "Ijebu": 4
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN163of1965": 1,
+        "WNLN311of1965": 1,
+        "WNLN321of1965": 1,
+        "WNLN612of1964": 1
+      },
+      "council_mentions": {
+        "136502152": 1,
+        "289645545": 1,
+        "1354365670": 1,
+        "-438198965": 1
+      }
+    },
+    "imore": {
+      "id": "imore",
+      "names": {
+        "Imore": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN163of1965": 1
+      },
+      "council_mentions": {
+        "289645545": 1
+      }
+    },
+    "waka_music": {
+      "id": "waka_music",
+      "names": {
+        "Waka Music": 8
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN163of1965": 1,
+        "WNLN201of1965": 1,
+        "WNLN20of1965": 1,
+        "WNLN22of1967": 1,
+        "WNLN321of1965": 1,
+        "WSLN100of1967": 1,
+        "WSLN111of1967": 1,
+        "WSLN65of1968": 1
+      },
+      "council_mentions": {
+        "123148755": 1,
+        "289645545": 1,
+        "1354365670": 1,
+        "1421001994": 1,
+        "-1034000692": 1,
+        "-555143480": 1,
+        "-353033416": 1,
+        "-1705519794": 1
+      }
+    },
+    "local_band_orchestra": {
+      "id": "local_band_orchestra",
+      "names": {
+        "Local Band Orchestra": 8
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN163of1965": 1,
+        "WNLN201of1965": 1,
+        "WNLN20of1965": 1,
+        "WNLN321of1965": 1,
+        "WNLN323of1965": 1,
+        "WSLN100of1967": 1,
+        "WSLN111of1967": 1,
+        "WSLN65of1968": 1
+      },
+      "council_mentions": {
+        "123148755": 1,
+        "289645545": 1,
+        "295250065": 1,
+        "1354365670": 1,
+        "1421001994": 1,
+        "-555143480": 1,
+        "-353033416": 1,
+        "-1705519794": 1
+      }
+    },
+    "recording_tape": {
+      "id": "recording_tape",
+      "names": {
+        "Recording Tape": 2
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN163of1965": 1,
+        "WNLN201of1965": 1
+      },
+      "council_mentions": {
+        "123148755": 1,
+        "289645545": 1
+      }
+    },
+    "selimoda": {
+      "id": "selimoda",
+      "names": {
+        "Seli-Moda": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN181of1962": 1
+      },
+      "council_mentions": {
+        "-2145553509": 1
+      }
+    },
+    "bembe": {
+      "id": "bembe",
+      "names": {
+        "Bembe": 6
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN181of1962": 1,
+        "WNLN311of1965": 1,
+        "WRLN511of1958": 1,
+        "WSLN100of1967": 1,
+        "WSLN111of1967": 1,
+        "WSLN65of1968": 1
+      },
+      "council_mentions": {
+        "-2145553509": 1,
+        "-438198965": 1,
+        "-2052189551": 1,
+        "-555143480": 1,
+        "-353033416": 1,
+        "-1705519794": 1
+      }
+    },
+    "angoso": {
+      "id": "angoso",
+      "names": {
+        "Angoso": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN181of1962": 1
+      },
+      "council_mentions": {
+        "-2145553509": 1
+      }
+    },
+    "igbaji": {
+      "id": "igbaji",
+      "names": {
+        "Igbaji": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN201of1965": 1
+      },
+      "council_mentions": {
+        "123148755": 1
+      }
+    },
+    "akoto": {
+      "id": "akoto",
+      "names": {
+        "Akoto": 2
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN201of1965": 1,
+        "WRLN511of1958": 1
+      },
+      "council_mentions": {
+        "123148755": 1,
+        "-2052189551": 1
+      }
+    },
+    "ashiko": {
+      "id": "ashiko",
+      "names": {
+        "Ashiko": 2
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN24of1964": 1,
+        "WNLN35of1964": 1
+      },
+      "council_mentions": {
+        "-2009059457": 1,
+        "-102449476": 1
+      }
+    },
+    "mambo": {
+      "id": "mambo",
+      "names": {
+        "Mambo": 7
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN24of1964": 1,
+        "WNLN35of1964": 1,
+        "WNLN367of1962": 1,
+        "WNLN38of1963": 1,
+        "WNLN408of1964": 1,
+        "WNLN447of1965": 1,
+        "WSLN10of1971": 1
+      },
+      "council_mentions": {
+        "355759601": 1,
+        "433587122": 1,
+        "1906721724": 1,
+        "-2009059457": 1,
+        "-102449476": 1,
+        "-1078170515": 1,
+        "-1861224663": 1
+      }
+    },
+    "ukere": {
+      "id": "ukere",
+      "names": {
+        "Ukere": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN252of1962": 1
+      },
+      "council_mentions": {
+        "500515034": 1
+      }
+    },
+    "iyeyume": {
+      "id": "iyeyume",
+      "names": {
+        "Iyeyume": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN252of1962": 1
+      },
+      "council_mentions": {
+        "500515034": 1
+      }
+    },
+    "nkoro": {
+      "id": "nkoro",
+      "names": {
+        "Nkoro": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN252of1962": 1
+      },
+      "council_mentions": {
+        "500515034": 1
+      }
+    },
+    "aro": {
+      "id": "aro",
+      "names": {
+        "Aro": 10
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN267of1962": 1,
+        "WNLN331of1965": 1,
+        "WNLN383of1961": 1,
+        "WNLN385of1960": 1,
+        "WNLN475of1965": 1,
+        "WSLN100of1967": 1,
+        "WSLN110of1968": 1,
+        "WSLN111of1967": 1,
+        "WSLN65of1968": 1,
+        "WSLN68of1975": 1
+      },
+      "council_mentions": {
+        "1098474380": 1,
+        "1146389063": 1,
+        "-1637534017": 1,
+        "-485183916": 1,
+        "-316628867": 1,
+        "-2145553509": 2,
+        "-555143480": 1,
+        "-353033416": 1,
+        "-1705519794": 1
+      }
+    },
+    "sekere": {
+      "id": "sekere",
+      "names": {
+        "Sekere": 13
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN267of1962": 1,
+        "WNLN311of1965": 1,
+        "WNLN383of1961": 1,
+        "WNLN385of1960": 1,
+        "WNLN447of1965": 1,
+        "WNLN475of1965": 1,
+        "WNLN613of1964": 1,
+        "WRLN489of1959": 1,
+        "WSLN100of1967": 1,
+        "WSLN110of1968": 1,
+        "WSLN111of1967": 1,
+        "WSLN65of1968": 1,
+        "WSLN68of1975": 1
+      },
+      "council_mentions": {
+        "1098474380": 1,
+        "1146389063": 1,
+        "-1637534017": 1,
+        "-438198965": 1,
+        "-316628867": 1,
+        "-2145553509": 2,
+        "-1861224663": 1,
+        "-788616615": 1,
+        "-557431890": 1,
+        "-555143480": 1,
+        "-353033416": 1,
+        "-1705519794": 1
+      }
+    },
+    "gangan": {
+      "id": "gangan",
+      "names": {
+        "Gangan": 5
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN311of1965": 1,
+        "WRLN489of1959": 1,
+        "WSLN100of1967": 1,
+        "WSLN110of1968": 1,
+        "WSLN111of1967": 1
+      },
+      "council_mentions": {
+        "1146389063": 1,
+        "-438198965": 1,
+        "-557431890": 1,
+        "-555143480": 1,
+        "-353033416": 1
+      }
+    },
+    "apiri": {
+      "id": "apiri",
+      "names": {
+        "Apiri": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN311of1965": 1
+      },
+      "council_mentions": {
+        "-438198965": 1
+      }
+    },
+    "more": {
+      "id": "more",
+      "names": {
+        "More": 2
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN311of1965": 1,
+        "WNLN613of1964": 1
+      },
+      "council_mentions": {
+        "-438198965": 1,
+        "-788616615": 1
+      }
+    },
+    "etubu": {
+      "id": "etubu",
+      "names": {
+        "Etubu": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN321of1965": 1
+      },
+      "council_mentions": {
+        "1354365670": 1
+      }
+    },
+    "origbo": {
+      "id": "origbo",
+      "names": {
+        "Origbo": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN321of1965": 1
+      },
+      "council_mentions": {
+        "1354365670": 1
+      }
+    },
+    "agbelege": {
+      "id": "agbelege",
+      "names": {
+        "Agbelege": 2
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN321of1965": 1,
+        "WNLN612of1964": 1
+      },
+      "council_mentions": {
+        "136502152": 1,
+        "1354365670": 1
+      }
+    },
+    "owe": {
+      "id": "owe",
+      "names": {
+        "Owe": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN321of1965": 1
+      },
+      "council_mentions": {
+        "1354365670": 1
+      }
+    },
+    "perubo": {
+      "id": "perubo",
+      "names": {
+        "Perubo": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN321of1965": 1
+      },
+      "council_mentions": {
+        "1354365670": 1
+      }
+    },
+    "raso": {
+      "id": "raso",
+      "names": {
+        "Raso": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN321of1965": 1
+      },
+      "council_mentions": {
+        "1354365670": 1
+      }
+    },
+    "asiko": {
+      "id": "asiko",
+      "names": {
+        "Asiko": 5
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN321of1965": 1,
+        "WNLN408of1964": 1,
+        "WNLN630of1965": 1,
+        "WRLN451of1959": 1,
+        "WSLN3of1975": 1
+      },
+      "council_mentions": {
+        "1354365670": 1,
+        "1467641846": 1,
+        "1540964093": 1,
+        "1906721724": 1,
+        "-1943672278": 1
+      }
+    },
+    "ogo": {
+      "id": "ogo",
+      "names": {
+        "Ogo": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN321of1965": 1
+      },
+      "council_mentions": {
+        "1354365670": 1
+      }
+    },
+    "tape_recording": {
+      "id": "tape_recording",
+      "names": {
+        "Tape Recording": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN321of1965": 1
+      },
+      "council_mentions": {
+        "1354365670": 1
+      }
+    },
+    "ipesi": {
+      "id": "ipesi",
+      "names": {
+        "Ipesi": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN323of1965": 1
+      },
+      "council_mentions": {
+        "295250065": 1
+      }
+    },
+    "agbe": {
+      "id": "agbe",
+      "names": {
+        "Agbe": 5
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN331of1965": 1,
+        "WSLN100of1967": 1,
+        "WSLN110of1968": 1,
+        "WSLN111of1967": 1,
+        "WSLN83of1975": 1
+      },
+      "council_mentions": {
+        "1146389063": 1,
+        "1910028838": 1,
+        "-485183916": 1,
+        "-555143480": 1,
+        "-353033416": 1
+      }
+    },
+    "all_types_of_drum": {
+      "id": "all_types_of_drum",
+      "names": {
+        "All types of drum": 5
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN341of1964": 1,
+        "WRLN109of1960": 1,
+        "WRLN305of1959": 1,
+        "WRLN35of1959": 1,
+        "WRLN561of1959": 1
+      },
+      "council_mentions": {
+        "1581691934": 1,
+        "2132882239": 1,
+        "-1540626230": 1,
+        "-42779554": 1,
+        "-935783982": 1
+      }
+    },
+    "konkoma": {
+      "id": "konkoma",
+      "names": {
+        "Konkoma": 3
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN383of1961": 1,
+        "WNLN385of1960": 1,
+        "WNLN475of1965": 1
+      },
+      "council_mentions": {
+        "-316628867": 1,
+        "-2145553509": 2
+      }
+    },
+    "mambo_orchestra": {
+      "id": "mambo_orchestra",
+      "names": {
+        "Mambo Orchestra": 4
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN383of1961": 1,
+        "WNLN385of1960": 1,
+        "WNLN475of1965": 1,
+        "WSLN110of1968": 1
+      },
+      "council_mentions": {
+        "1146389063": 1,
+        "-316628867": 1,
+        "-2145553509": 2
+      }
+    },
+    "adamo": {
+      "id": "adamo",
+      "names": {
+        "Adamo": 3
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN388of1960": 1,
+        "WSLN110of1968": 1,
+        "WSLN68of1975": 1
+      },
+      "council_mentions": {
+        "221354256": 1,
+        "1098474380": 1,
+        "1146389063": 1
+      }
+    },
+    "bata": {
+      "id": "bata",
+      "names": {
+        "Bata": 10
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN388of1960": 1,
+        "WNLN408of1964": 1,
+        "WNLN613of1964": 1,
+        "WSLN100of1967": 1,
+        "WSLN10of1971": 1,
+        "WSLN110of1968": 1,
+        "WSLN111of1967": 1,
+        "WSLN3of1975": 1,
+        "WSLN65of1968": 1,
+        "WSLN68of1975": 1
+      },
+      "council_mentions": {
+        "221354256": 1,
+        "355759601": 1,
+        "1098474380": 1,
+        "1146389063": 1,
+        "1540964093": 1,
+        "1906721724": 1,
+        "-788616615": 1,
+        "-555143480": 1,
+        "-353033416": 1,
+        "-1705519794": 1
+      }
+    },
+    "ibembe": {
+      "id": "ibembe",
+      "names": {
+        "Ibembe": 2
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN388of1960": 1,
+        "WSLN110of1968": 1
+      },
+      "council_mentions": {
+        "221354256": 1,
+        "1146389063": 1
+      }
+    },
+    "biripo": {
+      "id": "biripo",
+      "names": {
+        "Biripo": 3
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN408of1964": 1,
+        "WNLN630of1965": 1,
+        "WRLN451of1959": 1
+      },
+      "council_mentions": {
+        "1467641846": 1,
+        "1906721724": 1,
+        "-1943672278": 1
+      }
+    },
+    "agere": {
+      "id": "agere",
+      "names": {
+        "Agere": 3
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN408of1964": 1,
+        "WSLN100of1967": 1,
+        "WSLN111of1967": 1
+      },
+      "council_mentions": {
+        "1906721724": 1,
+        "-555143480": 1,
+        "-353033416": 1
+      }
+    },
+    "ireso": {
+      "id": "ireso",
+      "names": {
+        "Ireso": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN447of1965": 1
+      },
+      "council_mentions": {
+        "-1861224663": 1
+      }
+    },
+    "umore": {
+      "id": "umore",
+      "names": {
+        "Umore": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN447of1965": 1
+      },
+      "council_mentions": {
+        "-1861224663": 1
+      }
+    },
+    "omo_agogo": {
+      "id": "omo_agogo",
+      "names": {
+        "Omo Agogo": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN447of1965": 1
+      },
+      "council_mentions": {
+        "-1861224663": 1
+      }
+    },
+    "ayu": {
+      "id": "ayu",
+      "names": {
+        "Ayu": 2
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN447of1965": 1,
+        "WNLN612of1964": 1
+      },
+      "council_mentions": {
+        "136502152": 1,
+        "-1861224663": 1
+      }
+    },
+    "seli": {
+      "id": "seli",
+      "names": {
+        "Seli": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN504of1964": 1
+      },
+      "council_mentions": {
+        "-316628867": 1
+      }
+    },
+    "osiji": {
+      "id": "osiji",
+      "names": {
+        "Osiji": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN612of1964": 1
+      },
+      "council_mentions": {
+        "136502152": 1
+      }
+    },
+    "oghosoro": {
+      "id": "oghosoro",
+      "names": {
+        "Oghosoro": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN612of1964": 1
+      },
+      "council_mentions": {
+        "136502152": 1
+      }
+    },
+    "gbedu": {
+      "id": "gbedu",
+      "names": {
+        "Gbedu": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN612of1964": 1
+      },
+      "council_mentions": {
+        "136502152": 1
+      }
+    },
+    "are": {
+      "id": "are",
+      "names": {
+        "Are": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN612of1964": 1
+      },
+      "council_mentions": {
+        "136502152": 1
+      }
+    },
+    "laghalogho": {
+      "id": "laghalogho",
+      "names": {
+        "Laghalogho": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN612of1964": 1
+      },
+      "council_mentions": {
+        "136502152": 1
+      }
+    },
+    "arele": {
+      "id": "arele",
+      "names": {
+        "Arele": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN612of1964": 1
+      },
+      "council_mentions": {
+        "136502152": 1
+      }
+    },
+    "araba": {
+      "id": "araba",
+      "names": {
+        "Araba": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN612of1964": 1
+      },
+      "council_mentions": {
+        "136502152": 1
+      }
+    },
+    "gbudu": {
+      "id": "gbudu",
+      "names": {
+        "Gbudu": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN612of1964": 1
+      },
+      "council_mentions": {
+        "136502152": 1
+      }
+    },
+    "igbade": {
+      "id": "igbade",
+      "names": {
+        "Igbade": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN612of1964": 1
+      },
+      "council_mentions": {
+        "136502152": 1
+      }
+    },
+    "shekere": {
+      "id": "shekere",
+      "names": {
+        "Shekere": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN612of1964": 1
+      },
+      "council_mentions": {
+        "136502152": 1
+      }
+    },
+    "reso": {
+      "id": "reso",
+      "names": {
+        "Reso": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN612of1964": 1
+      },
+      "council_mentions": {
+        "136502152": 1
+      }
+    },
+    "ajabure": {
+      "id": "ajabure",
+      "names": {
+        "Ajabure": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN612of1964": 1
+      },
+      "council_mentions": {
+        "136502152": 1
+      }
+    },
+    "akula": {
+      "id": "akula",
+      "names": {
+        "Akula": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN612of1964": 1
+      },
+      "council_mentions": {
+        "136502152": 1
+      }
+    },
+    "jejeko": {
+      "id": "jejeko",
+      "names": {
+        "Jejeko": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN612of1964": 1
+      },
+      "council_mentions": {
+        "136502152": 1
+      }
+    },
+    "amplifier": {
+      "id": "amplifier",
+      "names": {
+        "Amplifier": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN612of1964": 1
+      },
+      "council_mentions": {
+        "136502152": 1
+      }
+    },
+    "ere_ase": {
+      "id": "ere_ase",
+      "names": {
+        "Ere Ase": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN613of1964": 1
+      },
+      "council_mentions": {
+        "-788616615": 1
+      }
+    },
+    "agbeleke": {
+      "id": "agbeleke",
+      "names": {
+        "Agbeleke": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN613of1964": 1
+      },
+      "council_mentions": {
+        "-788616615": 1
+      }
+    },
+    "konkoloyo": {
+      "id": "konkoloyo",
+      "names": {
+        "Konkoloyo": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN613of1964": 1
+      },
+      "council_mentions": {
+        "-788616615": 1
+      }
+    },
+    "ojojo": {
+      "id": "ojojo",
+      "names": {
+        "Ojojo": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN630of1965": 1
+      },
+      "council_mentions": {
+        "1467641846": 1
+      }
+    },
+    "ulale": {
+      "id": "ulale",
+      "names": {
+        "Ulale": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN630of1965": 1
+      },
+      "council_mentions": {
+        "1467641846": 1
+      }
+    },
+    "agba": {
+      "id": "agba",
+      "names": {
+        "Agba": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN630of1965": 1
+      },
+      "council_mentions": {
+        "1467641846": 1
+      }
+    },
+    "itsekiri_native_dance": {
+      "id": "itsekiri_native_dance",
+      "names": {
+        "Itsekiri Native Dance": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN630of1965": 1
+      },
+      "council_mentions": {
+        "1467641846": 1
+      }
+    },
+    "iyere": {
+      "id": "iyere",
+      "names": {
+        "Iyere": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN630of1965": 1
+      },
+      "council_mentions": {
+        "1467641846": 1
+      }
+    },
+    "kiriji": {
+      "id": "kiriji",
+      "names": {
+        "Kiriji": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN630of1965": 1
+      },
+      "council_mentions": {
+        "1467641846": 1
+      }
+    },
+    "mabo_orchestra": {
+      "id": "mabo_orchestra",
+      "names": {
+        "Mabo Orchestra": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WNLN630of1965": 1
+      },
+      "council_mentions": {
+        "1467641846": 1
+      }
+    },
+    "kitipo": {
+      "id": "kitipo",
+      "names": {
+        "Kitipo": 5
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WRLN100of1959": 1,
+        "WRLN145of1959": 1,
+        "WRLN457of1958": 1,
+        "WSLN100of1967": 1,
+        "WSLN111of1967": 1
+      },
+      "council_mentions": {
+        "1829229173": 1,
+        "1884613475": 1,
+        "-1637534017": 1,
+        "-555143480": 1,
+        "-353033416": 1
+      }
+    },
+    "alasha": {
+      "id": "alasha",
+      "names": {
+        "Alasha": 4
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WRLN100of1959": 1,
+        "WRLN145of1959": 1,
+        "WRLN363of1959": 1,
+        "WRLN457of1958": 1
+      },
+      "council_mentions": {
+        "1829229173": 1,
+        "1884613475": 1,
+        "-1637534017": 1,
+        "-1660651698": 1
+      }
+    },
+    "orchestra": {
+      "id": "orchestra",
+      "names": {
+        "Orchestra": 4
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WRLN100of1959": 1,
+        "WRLN145of1959": 1,
+        "WRLN363of1959": 1,
+        "WRLN457of1958": 1
+      },
+      "council_mentions": {
+        "1829229173": 1,
+        "1884613475": 1,
+        "-1637534017": 1,
+        "-1660651698": 1
+      }
+    },
+    "kiriboto": {
+      "id": "kiriboto",
+      "names": {
+        "Kiriboto": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WRLN339of1958": 1
+      },
+      "council_mentions": {
+        "2138215380": 1
+      }
+    },
+    "ahangere": {
+      "id": "ahangere",
+      "names": {
+        "Ahangere": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WRLN339of1958": 1
+      },
+      "council_mentions": {
+        "2138215380": 1
+      }
+    },
+    "woro": {
+      "id": "woro",
+      "names": {
+        "Woro": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WRLN339of1958": 1
+      },
+      "council_mentions": {
+        "2138215380": 1
+      }
+    },
+    "alemo": {
+      "id": "alemo",
+      "names": {
+        "Alemo": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WRLN339of1958": 1
+      },
+      "council_mentions": {
+        "2138215380": 1
+      }
+    },
+    "hungan": {
+      "id": "hungan",
+      "names": {
+        "Hungan": 2
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WRLN339of1958": 1,
+        "WRLN511of1958": 1
+      },
+      "council_mentions": {
+        "2138215380": 1,
+        "-2052189551": 1
+      }
+    },
+    "elesa": {
+      "id": "elesa",
+      "names": {
+        "Elesa": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WRLN361of1959": 1
+      },
+      "council_mentions": {
+        "1124084716": 1
+      }
+    },
+    "kitiko": {
+      "id": "kitiko",
+      "names": {
+        "Kitiko": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WRLN363of1959": 1
+      },
+      "council_mentions": {
+        "-1660651698": 1
+      }
+    },
+    "ape": {
+      "id": "ape",
+      "names": {
+        "Ape": 3
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WRLN363of1959": 1,
+        "WRLN489of1959": 1,
+        "WSLN10of1971": 1
+      },
+      "council_mentions": {
+        "355759601": 1,
+        "-1660651698": 1,
+        "-557431890": 1
+      }
+    },
+    "abata": {
+      "id": "abata",
+      "names": {
+        "Abata": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WRLN363of1959": 1
+      },
+      "council_mentions": {
+        "-1660651698": 1
+      }
+    },
+    "siginikoko": {
+      "id": "siginikoko",
+      "names": {
+        "Siginikoko": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WRLN363of1959": 1
+      },
+      "council_mentions": {
+        "-1660651698": 1
+      }
+    },
+    "asha": {
+      "id": "asha",
+      "names": {
+        "Asha": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WRLN451of1959": 1
+      },
+      "council_mentions": {
+        "-1943672278": 1
+      }
+    },
+    "band_set": {
+      "id": "band_set",
+      "names": {
+        "Band Set": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WRLN451of1959": 1
+      },
+      "council_mentions": {
+        "-1943672278": 1
+      }
+    },
+    "alasa": {
+      "id": "alasa",
+      "names": {
+        "Alasa": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WRLN489of1959": 1
+      },
+      "council_mentions": {
+        "-557431890": 1
+      }
+    },
+    "agbodaglome": {
+      "id": "agbodaglome",
+      "names": {
+        "Agbodaglome": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WRLN511of1958": 1
+      },
+      "council_mentions": {
+        "-2052189551": 1
+      }
+    },
+    "sato": {
+      "id": "sato",
+      "names": {
+        "Sato": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WRLN511of1958": 1
+      },
+      "council_mentions": {
+        "-2052189551": 1
+      }
+    },
+    "agahun": {
+      "id": "agahun",
+      "names": {
+        "Agahun": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WRLN511of1958": 1
+      },
+      "council_mentions": {
+        "-2052189551": 1
+      }
+    },
+    "dohun": {
+      "id": "dohun",
+      "names": {
+        "Dohun": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WRLN511of1958": 1
+      },
+      "council_mentions": {
+        "-2052189551": 1
+      }
+    },
+    "apesi": {
+      "id": "apesi",
+      "names": {
+        "Apesi": 2
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WSLN100of1967": 1,
+        "WSLN111of1967": 1
+      },
+      "council_mentions": {
+        "-555143480": 1,
+        "-353033416": 1
+      }
+    },
+    "samba": {
+      "id": "samba",
+      "names": {
+        "Samba": 2
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WSLN100of1967": 1,
+        "WSLN111of1967": 1
+      },
+      "council_mentions": {
+        "-555143480": 1,
+        "-353033416": 1
+      }
+    },
+    "kannango": {
+      "id": "kannango",
+      "names": {
+        "Kannango": 2
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WSLN100of1967": 1,
+        "WSLN111of1967": 1
+      },
+      "council_mentions": {
+        "-555143480": 1,
+        "-353033416": 1
+      }
+    },
+    "hale": {
+      "id": "hale",
+      "names": {
+        "Hale": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WSLN10of1971": 1
+      },
+      "council_mentions": {
+        "355759601": 1
+      }
+    },
+    "Agasa": {
+      "id": "Agasa",
+      "names": {
+        "Agasa": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WSLN10of1971": 1
+      },
+      "council_mentions": {
+        "355759601": 1
+      }
+    },
+    "Alasa": {
+      "id": "Alasa",
+      "names": {
+        "Alasa": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WSLN10of1971": 1
+      },
+      "council_mentions": {
+        "355759601": 1
+      }
+    },
+    "keregbe": {
+      "id": "keregbe",
+      "names": {
+        "Keregbe": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WSLN110of1968": 1
+      },
+      "council_mentions": {
+        "1146389063": 1
+      }
+    },
+    "keta": {
+      "id": "keta",
+      "names": {
+        "Keta": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WSLN3of1975": 1
+      },
+      "council_mentions": {
+        "1540964093": 1
+      }
+    },
+    "Ajigbo": {
+      "id": "Ajigbo",
+      "names": {
+        "Ajigbo": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WSLN3of1975": 1
+      },
+      "council_mentions": {
+        "1540964093": 1
+      }
+    },
+    "brass_band": {
+      "id": "brass_band",
+      "names": {
+        "Brass Band": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WSLN3of1975": 1
+      },
+      "council_mentions": {
+        "1540964093": 1
+      }
+    },
+    "age": {
+      "id": "age",
+      "names": {
+        "Age": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WSLN65of1968": 1
+      },
+      "council_mentions": {
+        "-1705519794": 1
+      }
+    },
+    "agogo": {
+      "id": "agogo",
+      "names": {
+        "Agogo": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WSLN65of1968": 1
+      },
+      "council_mentions": {
+        "-1705519794": 1
+      }
+    },
+    "sakara_with_electronic_gadgets": {
+      "id": "sakara_with_electronic_gadgets",
+      "names": {
+        "Sakara with electronic gadgets": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WSLN68of1975": 1
+      },
+      "council_mentions": {
+        "1098474380": 1
+      }
+    },
+    "juju_with_electronic_gadgets": {
+      "id": "juju_with_electronic_gadgets",
+      "names": {
+        "Juju with electronic gadgets": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WSLN68of1975": 1
+      },
+      "council_mentions": {
+        "1098474380": 1
+      }
+    },
+    "sakara_without_electronic_gadgets": {
+      "id": "sakara_without_electronic_gadgets",
+      "names": {
+        "Sakara without electronic gadgets": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WSLN68of1975": 1
+      },
+      "council_mentions": {
+        "1098474380": 1
+      }
+    },
+    "juju_without_electronic_gadgets": {
+      "id": "juju_without_electronic_gadgets",
+      "names": {
+        "Juju without electronic gadgets": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WSLN68of1975": 1
+      },
+      "council_mentions": {
+        "1098474380": 1
+      }
+    },
+    "panseke": {
+      "id": "panseke",
+      "names": {
+        "Panseke": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WSLN68of1975": 1
+      },
+      "council_mentions": {
+        "1098474380": 1
+      }
+    },
+    "koso": {
+      "id": "koso",
+      "names": {
+        "Koko": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WSLN68of1975": 1
+      },
+      "council_mentions": {
+        "1098474380": 1
+      }
+    },
+    "gelede": {
+      "id": "gelede",
+      "names": {
+        "Gelede": 1
+      },
+      "shortdesc": "consult spreadsheet",
+      "longdesc": "consult spreadsheet",
+      "picture": "consult spreadsheet",
+      "law_mentions": {
+        "WSLN68of1975": 1
+      },
+      "council_mentions": {
+        "1098474380": 1
+      }
+    }
+  },
+  "councils": {
+    "53815980": {
+      "id": 53815980,
+      "name": "EREDO DISTRICT COUNCIL",
+      "location": {
+        "lat": 6.70836,
+        "lon": 3.9146
+      },
+      "laws": {
+        "WRLN88of1958": true
+      },
+      "drums": {}
+    },
+    "67847249": {
+      "id": 67847249,
+      "name": "ILA DISTRICT COUNCIL",
+      "location": {
+        "lat": 7.6666667,
+        "lon": 4.6666667
+      },
+      "laws": {
+        "WNLN474of1965": true,
+        "WSLN5of1970": true
+      },
+      "drums": {
+        "sakara": true,
+        "iyailu": true,
+        "dundun": true,
+        "kete": true,
+        "agasa": true,
+        "batakoto": true,
+        "apala": true,
+        "juju": true
+      }
+    },
+    "101312757": {
+      "id": 101312757,
+      "name": "ILEOLUJI/OKEIGBO DISTRICT COUNCIL",
+      "location": {
+        "lat": 7.166667,
+        "lon": 4.71667
+      },
+      "laws": {
+        "WRLN295of1956": true
+      },
+      "drums": {}
+    },
+    "123148755": {
+      "id": 123148755,
+      "name": "ONDO WESTERN DISTRICT COUNCIL",
+      "location": {
+        "lat": 7.0164,
+        "lon": 4.7456
+      },
+      "laws": {
+        "WNLN201of1965": true
+      },
+      "drums": {
+        "igbaji": true,
+        "akoto": true,
+        "sakara": true,
+        "iyailu": true,
+        "dundun": true,
+        "waka_music": true,
+        "batakoto": true,
+        "apala": true,
+        "juju": true,
+        "local_band_orchestra": true,
+        "recording_tape": true
+      }
+    },
+    "136502152": {
+      "id": 136502152,
+      "name": "OWO DISTRICT COUNCIL",
+      "location": {
+        "lat": 7.1962012,
+        "lon": 5.5868016
+      },
+      "laws": {
+        "WNLN612of1964": true
+      },
+      "drums": {
+        "osiji": true,
+        "oghosoro": true,
+        "gbedu": true,
+        "are": true,
+        "laghalogho": true,
+        "ijebu": true,
+        "arele": true,
+        "araba": true,
+        "gbudu": true,
+        "igbade": true,
+        "shekere": true,
+        "reso": true,
+        "kokoma": true,
+        "sakara": true,
+        "iyailu": true,
+        "dundun": true,
+        "apala": true,
+        "juju": true,
+        "ajabure": true,
+        "agbelege": true,
+        "ayu": true,
+        "akula": true,
+        "jejeko": true,
+        "amplifier": true
+      }
+    },
+    "221354256": {
+      "id": 221354256,
+      "name": "IFETEDO LOCAL COUNCIL",
+      "location": {
+        "lat": 7.1835,
+        "lon": 4.7
+      },
+      "laws": {
+        "WNLN388of1960": true
+      },
+      "drums": {
+        "sakara": true,
+        "iyailu": true,
+        "adamo": true,
+        "bata": true,
+        "ibembe": true,
+        "apala": true,
+        "kokoma": true
+      }
+    },
+    "221600722": {
+      "id": 221600722,
+      "name": "Agege District Council",
+      "location": {
+        "lat": 6.6229165,
+        "lon": 3.3203386
+      },
+      "laws": {
+        "WRLN286of1956": true
+      },
+      "drums": {}
+    },
+    "289645545": {
+      "id": 289645545,
+      "name": "AKOKO WEST PROVISIONAL AUTHORITY",
+      "location": null,
+      "laws": {
+        "WNLN163of1965": true
+      },
+      "drums": {
+        "osirigi": true,
+        "ogbele": true,
+        "kokoma": true,
+        "adan": true,
+        "ijebu": true,
+        "imore": true,
+        "sakara": true,
+        "iyailu": true,
+        "dundun": true,
+        "waka_music": true,
+        "batakoto": true,
+        "apala": true,
+        "juju": true,
+        "local_band_orchestra": true,
+        "recording_tape": true
+      }
+    },
+    "295250065": {
+      "id": 295250065,
+      "name": "OTUN DISTRICT COUNCIL",
+      "location": {
+        "lat": 7.4166667,
+        "lon": 3.35
+      },
+      "laws": {
+        "WNLN323of1965": true
+      },
+      "drums": {
+        "sakara": true,
+        "iyailu": true,
+        "dundun": true,
+        "apala": true,
+        "juju": true,
+        "local_band_orchestra": true,
+        "batakoto": true,
+        "ipesi": true,
+        "agidigbo": true
+      }
+    },
+    "355759601": {
+      "id": 355759601,
+      "name": "ODE REMO LOCAL COUNCIL",
+      "location": {
+        "lat": 6.970177,
+        "lon": 3.6757865
+      },
+      "laws": {
+        "WSLN10of1971": true
+      },
+      "drums": {
+        "sakara": true,
+        "iyailu": true,
+        "dundun": true,
+        "agidigbo": true,
+        "bata": true,
+        "batakoto": true,
+        "hale": true,
+        "ape": true,
+        "apala": true,
+        "juju": true,
+        "mambo": true,
+        "kete": true,
+        "Agasa": true,
+        "Alasa": true
+      }
+    },
+    "433587122": {
+      "id": 433587122,
+      "name": "AGEGE DISTRICT COUNCIL",
+      "location": {
+        "lat": 6.6229165,
+        "lon": 3.3203386
+      },
+      "laws": {
+        "WNLN367of1962": true
+      },
+      "drums": {
+        "sakara": true,
+        "iyailu": true,
+        "dundun": true,
+        "kete": true,
+        "agasa": true,
+        "batakoto": true,
+        "apala": true,
+        "juju": true,
+        "mambo": true,
+        "agidigbo": true
+      }
+    },
+    "500515034": {
+      "id": 500515034,
+      "name": "AJEROMI DISTRICT COUNCIL",
+      "location": {
+        "lat": 6.4554,
+        "lon": 3.3359
+      },
+      "laws": {
+        "WNLN252of1962": true
+      },
+      "drums": {
+        "sakara": true,
+        "iyailu": true,
+        "dundun": true,
+        "batakoto": true,
+        "apala": true,
+        "juju": true,
+        "kete": true,
+        "agasa": true,
+        "ukere": true,
+        "iyeyume": true,
+        "nkoro": true
+      }
+    },
+    "598315698": {
+      "id": 598315698,
+      "name": "OKEHO/IGANNA DISTRICT COUNCIL",
+      "location": {
+        "lat": 7.98334,
+        "lon": 3.25094
+      },
+      "laws": {
+        "WNLN446of1965": true
+      },
+      "drums": {
+        "sakara": true,
+        "iyailu": true,
+        "dundun": true,
+        "kete": true,
+        "agasa": true,
+        "batakoto": true,
+        "apala": true,
+        "juju": true
+      }
+    },
+    "632784017": {
+      "id": 632784017,
+      "name": "IJEDE LOCAL COUNCIL",
+      "location": {
+        "lat": 6.5655788,
+        "lon": 3.5918641
+      },
+      "laws": {
+        "WRLN504of1958": true
+      },
+      "drums": {}
+    },
+    "670694882": {
+      "id": 670694882,
+      "name": "EDUNABON/MORO LOCAL COUNCIL",
+      "location": {
+        "lat": 7.55,
+        "lon": 4.45094
+      },
+      "laws": {
+        "WRLN540of1959": true
+      },
+      "drums": {}
+    },
+    "936080985": {
+      "id": 936080985,
+      "name": "AKOKO SOUTH PROVISIONAL AUTHORITY",
+      "location": null,
+      "laws": {
+        "WSLN31of1970": true
+      },
+      "drums": {}
+    },
+    "938229995": {
+      "id": 938229995,
+      "name": "ESE-ODO DISTRICT COUNCIL",
+      "location": null,
+      "laws": {
+        "WNLN154of1965": true,
+        "WNLN229of1965": true
+      },
+      "drums": {}
+    },
+    "1062625083": {
+      "id": 1062625083,
+      "name": "EGBA-IKEREKU DISTRICT COUNCIL",
+      "location": null,
+      "laws": {
+        "WRLN275of1956": true
+      },
+      "drums": {}
+    },
+    "1098474380": {
+      "id": 1098474380,
+      "name": "IREPO LOCAL GOVERNMENT COUNCIL",
+      "location": {
+        "lat": 9.032,
+        "lon": 3.9463
+      },
+      "laws": {
+        "WSLN68of1975": true
+      },
+      "drums": {
+        "sakara_with_electronic_gadgets": true,
+        "juju_with_electronic_gadgets": true,
+        "sakara_without_electronic_gadgets": true,
+        "juju_without_electronic_gadgets": true,
+        "kete": true,
+        "agasa": true,
+        "apala": true,
+        "waka": true,
+        "iyailu": true,
+        "dundun": true,
+        "agidigbo": true,
+        "panseke": true,
+        "bata": true,
+        "sekere": true,
+        "aro": true,
+        "koso": true,
+        "adamo": true,
+        "gelede": true
+      }
+    },
+    "1124084716": {
+      "id": 1124084716,
+      "name": "IKOSI DISTRICT COUNCIL",
+      "location": {
+        "lat": 6.6131966,
+        "lon": 3.7061827
+      },
+      "laws": {
+        "WNLN107of1962": true,
+        "WRLN361of1959": true
+      },
+      "drums": {
+        "iyailu": true,
+        "dundun": true,
+        "kete": true,
+        "agasa": true,
+        "batakoto": true,
+        "apala": true,
+        "sakara": true,
+        "juju": true,
+        "elesa": true
+      }
+    },
+    "1146389063": {
+      "id": 1146389063,
+      "name": "IFE DISTRICT COUNCIL",
+      "location": {
+        "lat": 7.482,
+        "lon": 4.5507
+      },
+      "laws": {
+        "WSLN110of1968": true
+      },
+      "drums": {
+        "juju": true,
+        "iyailu": true,
+        "dundun": true,
+        "sekere": true,
+        "aro": true,
+        "apala": true,
+        "sakara": true,
+        "agidigbo": true,
+        "mambo_orchestra": true,
+        "bata": true,
+        "gangan": true,
+        "adamo": true,
+        "keregbe": true,
+        "agbe": true,
+        "ibembe": true,
+        "waka": true
+      }
+    },
+    "1175272142": {
+      "id": 1175272142,
+      "name": "IJEBU-IGBO DISTRICT COUNCIL",
+      "location": {
+        "lat": 6.9703057,
+        "lon": 4.0005264
+      },
+      "laws": {
+        "WNLN141of1964": true
+      },
+      "drums": {
+        "sakara": true,
+        "iyailu": true,
+        "dundun": true,
+        "kete": true,
+        "agasa": true,
+        "batakoto": true,
+        "apala": true,
+        "juju": true,
+        "waka": true,
+        "agidigbo": true
+      }
+    },
+    "1178717797": {
+      "id": 1178717797,
+      "name": "SHAKI DISTRICT COUNCIL",
+      "location": {
+        "lat": 7.9,
+        "lon": 4.766667
+      },
+      "laws": {
+        "WNLN56of1965": true
+      },
+      "drums": {
+        "sakara": true,
+        "iyailu": true,
+        "dundun": true,
+        "kete": true,
+        "agasa": true,
+        "batakoto": true,
+        "apala": true,
+        "juju": true
+      }
+    },
+    "1216760637": {
+      "id": 1216760637,
+      "name": "OTTA DISTRICT COUNCIL",
+      "location": {
+        "lat": 6.66667,
+        "lon": 3.7333333
+      },
+      "laws": {
+        "WRLN89of1958": true
+      },
+      "drums": {}
+    },
+    "1354365670": {
+      "id": 1354365670,
+      "name": "IREKARI DISTRICT COUNCIL",
+      "location": null,
+      "laws": {
+        "WNLN321of1965": true,
+        "WSLN10of1970": true
+      },
+      "drums": {
+        "etubu": true,
+        "ijebu": true,
+        "origbo": true,
+        "agbelege": true,
+        "juju": true,
+        "owe": true,
+        "kokoma": true,
+        "perubo": true,
+        "waka_music": true,
+        "raso": true,
+        "asiko": true,
+        "ogo": true,
+        "apala": true,
+        "sakara": true,
+        "iyailu": true,
+        "dundun": true,
+        "local_band_orchestra": true,
+        "tape_recording": true
+      }
+    },
+    "1421001994": {
+      "id": 1421001994,
+      "name": "IJEBU NORTHERN DISTRICT COUNCIL",
+      "location": null,
+      "laws": {
+        "WNLN20of1965": true,
+        "WRLN488of1959": true
+      },
+      "drums": {
+        "iyailu": true,
+        "dundun": true,
+        "kete": true,
+        "agasa": true,
+        "batakoto": true,
+        "apala": true,
+        "juju": true,
+        "waka_music": true,
+        "sakara": true,
+        "local_band_orchestra": true
+      }
+    },
+    "1467641846": {
+      "id": 1467641846,
+      "name": "ILAJE DISTRICT COUNCIL",
+      "location": {
+        "lat": 6.1972,
+        "lon": 4.7358
+      },
+      "laws": {
+        "WNLN630of1965": true
+      },
+      "drums": {
+        "asiko": true,
+        "biripo": true,
+        "juju": true,
+        "ojojo": true,
+        "ulale": true,
+        "agba": true,
+        "sakara": true,
+        "itsekiri_native_dance": true,
+        "iyere": true,
+        "kiriji": true,
+        "mabo_orchestra": true
+      }
+    },
+    "1526182173": {
+      "id": 1526182173,
+      "name": "ILUGUN/ALARO DISTRICT COUNCIL",
+      "location": null,
+      "laws": {
+        "WRLN323of1956": true
+      },
+      "drums": {}
+    },
+    "1540964093": {
+      "id": 1540964093,
+      "name": "ONDO LOCAL GOVERNMENT COUNCIL",
+      "location": {
+        "lat": 7.1,
+        "lon": 4.83333
+      },
+      "laws": {
+        "WSLN3of1975": true
+      },
+      "drums": {
+        "adan": true,
+        "sakara": true,
+        "apala": true,
+        "bata": true,
+        "keta": true,
+        "asiko": true,
+        "Ajigbo": true,
+        "juju": true,
+        "agidigbo": true,
+        "brass_band": true,
+        "iyailu": true
+      }
+    },
+    "1581691934": {
+      "id": 1581691934,
+      "name": "ISHARA LOCAL COUNCIL",
+      "location": {
+        "lat": 6.9923203,
+        "lon": 3.6808622
+      },
+      "laws": {
+        "WRLN305of1959": true
+      },
+      "drums": {
+        "all_types_of_drum": true
+      }
+    },
+    "1720040997": {
+      "id": 1720040997,
+      "name": "EKITI WESTERN DISTRICT COUNCIL",
+      "location": null,
+      "laws": {
+        "WRLN29of1958": true
+      },
+      "drums": {}
+    },
+    "1829229173": {
+      "id": 1829229173,
+      "name": "IPARA LOCAL COUNCIL",
+      "location": {
+        "lat": 7,
+        "lon": 3.666667
+      },
+      "laws": {
+        "WRLN145of1959": true
+      },
+      "drums": {
+        "iyailu": true,
+        "dundun": true,
+        "sakara": true,
+        "kitipo": true,
+        "kete": true,
+        "batakoto": true,
+        "apala": true,
+        "juju": true,
+        "agidigbo": true,
+        "alasha": true,
+        "orchestra": true
+      }
+    },
+    "1884613475": {
+      "id": 1884613475,
+      "name": "OFFIN (SHAGAMU) LOCAL COUNCIL",
+      "location": null,
+      "laws": {
+        "WRLN457of1958": true
+      },
+      "drums": {
+        "iyailu": true,
+        "dundun": true,
+        "sakara": true,
+        "kitipo": true,
+        "kete": true,
+        "batakoto": true,
+        "apala": true,
+        "juju": true,
+        "agidigbo": true,
+        "alasha": true,
+        "orchestra": true
+      }
+    },
+    "1906721724": {
+      "id": 1906721724,
+      "name": "IKALE ORISUNMETA DISTRICT COUNCIL",
+      "location": null,
+      "laws": {
+        "WNLN408of1964": true
+      },
+      "drums": {
+        "sakara": true,
+        "mambo": true,
+        "agidigbo": true,
+        "biripo": true,
+        "asiko": true,
+        "bata": true,
+        "juju": true,
+        "agere": true
+      }
+    },
+    "1910028838": {
+      "id": 1910028838,
+      "name": "IJEBU-IGBO LOCAL GOVERNMENT COUNCIL",
+      "location": {
+        "lat": 6.9703057,
+        "lon": 4.0005264
+      },
+      "laws": {
+        "WSLN83of1975": true
+      },
+      "drums": {
+        "sakara": true,
+        "iyailu": true,
+        "dundun": true,
+        "kete": true,
+        "agasa": true,
+        "batakoto": true,
+        "apala": true,
+        "juju": true,
+        "waka": true,
+        "agidigbo": true,
+        "agbe": true
+      }
+    },
+    "1921012532": {
+      "id": 1921012532,
+      "name": "ILARO DISTRICT COUNCIL",
+      "location": {
+        "lat": 6.88653,
+        "lon": 3.0205
+      },
+      "laws": {
+        "WRLN301of1956": true
+      },
+      "drums": {
+        "sakara": true,
+        "iyailu": true,
+        "dundun": true,
+        "kete": true,
+        "agasa": true,
+        "batakoto": true,
+        "apala": true,
+        "juju": true
+      }
+    },
+    "1946589246": {
+      "id": 1946589246,
+      "name": "IPETUMODU LOCAL COUNCIL",
+      "location": {
+        "lat": 7.516667,
+        "lon": 4.45
+      },
+      "laws": {
+        "WNLN289of1964": true
+      },
+      "drums": {}
+    },
+    "2132882239": {
+      "id": 2132882239,
+      "name": "LEKKI DISTRICT COUNCIL",
+      "location": {
+        "lat": 6.3606785,
+        "lon": 4.8333115
+      },
+      "laws": {
+        "WNLN341of1964": true
+      },
+      "drums": {
+        "all_types_of_drum": true
+      }
+    },
+    "2138215380": {
+      "id": 2138215380,
+      "name": "IPOKIA DISTRICT COUNCIL",
+      "location": {
+        "lat": 6.533333,
+        "lon": 2.85
+      },
+      "laws": {
+        "WRLN339of1958": true
+      },
+      "drums": {
+        "iyailu": true,
+        "dundun": true,
+        "kete": true,
+        "agasa": true,
+        "batakoto": true,
+        "apala": true,
+        "juju": true,
+        "kiriboto": true,
+        "ahangere": true,
+        "kokoma": true,
+        "agidigbo": true,
+        "woro": true,
+        "alemo": true,
+        "hungan": true
+      }
+    },
+    "-665618625": {
+      "id": -665618625,
+      "name": "AWORI DISTRICT COUNCIL",
+      "location": {
+        "lat": 7,
+        "lon": 3.85
+      },
+      "laws": {
+        "WNLN124of1961": true
+      },
+      "drums": {
+        "sakara": true,
+        "iyailu": true,
+        "dundun": true,
+        "kete": true,
+        "agasa": true,
+        "batakoto": true,
+        "apala": true,
+        "juju": true
+      }
+    },
+    "-1036460427": {
+      "id": -1036460427,
+      "name": "IJEBU-ODE DISTRICT COUNCIL",
+      "location": {
+        "lat": 6.8140077,
+        "lon": 3.9151668
+      },
+      "laws": {
+        "WNLN15of1961": true
+      },
+      "drums": {
+        "sakara": true,
+        "iyailu": true,
+        "dundun": true,
+        "kete": true,
+        "agasa": true,
+        "batakoto": true,
+        "apala": true,
+        "juju": true
+      }
+    },
+    "-1761246068": {
+      "id": -1761246068,
+      "name": "EGBEDORE DISTRICT COUNCIL",
+      "location": {
+        "lat": 7.7887,
+        "lon": 4.4445
+      },
+      "laws": {
+        "WNLN16of1962": true
+      },
+      "drums": {}
+    },
+    "-1054452648": {
+      "id": -1054452648,
+      "name": "IBEJU DISTRICT COUNCIL",
+      "location": {
+        "lat": 6.487,
+        "lon": 3.8927
+      },
+      "laws": {
+        "WNLN177of1962": true
+      },
+      "drums": {}
+    },
+    "-2145553509": {
+      "id": -2145553509,
+      "name": "ABEOKUTA URBAN DISTRICT COUNCIL",
+      "location": {
+        "lat": 7.161,
+        "lon": 3.348
+      },
+      "laws": {
+        "WNLN181of1962": true,
+        "WNLN385of1960": true,
+        "WNLN475of1965": true,
+        "WRLN200of1956": true
+      },
+      "drums": {
+        "selimoda": true,
+        "bembe": true,
+        "angoso": true,
+        "sakara": true,
+        "iyailu": true,
+        "dundun": true,
+        "sekere": true,
+        "aro": true,
+        "kete": true,
+        "agasa": true,
+        "konkoma": true,
+        "agidigbo": true,
+        "mambo_orchestra": true,
+        "batakoto": true,
+        "apala": true,
+        "juju": true
+      }
+    },
+    "-108537901": {
+      "id": -108537901,
+      "name": "ESE-ODO DISTRICT COUNCIL (COMMITTEE OF MANAGEMENT)",
+      "location": null,
+      "laws": {
+        "WNLN228of1965": true
+      },
+      "drums": {}
+    },
+    "-1034000692": {
+      "id": -1034000692,
+      "name": "AFIJO PROVISIONAL AUTHORITY",
+      "location": {
+        "lat": 7.713611,
+        "lon": 3.917222
+      },
+      "laws": {
+        "WNLN22of1967": true
+      },
+      "drums": {
+        "waka_music": true,
+        "batakoto": true,
+        "apala": true,
+        "juju": true
+      }
+    },
+    "-2009059457": {
+      "id": -2009059457,
+      "name": "OSHUNMAIYEGUN PROVISIONAL AUTHORITY",
+      "location": {
+        "lat": 6.433333,
+        "lon": 3.5166667
+      },
+      "laws": {
+        "WNLN24of1964": true
+      },
+      "drums": {
+        "sakara": true,
+        "apala": true,
+        "batakoto": true,
+        "kete": true,
+        "agasa": true,
+        "ashiko": true,
+        "juju": true,
+        "iyailu": true,
+        "dundun": true,
+        "mambo": true,
+        "agidigbo": true
+      }
+    },
+    "-2014409376": {
+      "id": -2014409376,
+      "name": "OYO SOUTHERN DISTRICT COUNCIL",
+      "location": {
+        "lat": 7.216667,
+        "lon": 4.233333
+      },
+      "laws": {
+        "WNLN250of1964": true
+      },
+      "drums": {}
+    },
+    "-1637534017": {
+      "id": -1637534017,
+      "name": "MAKUN (SHAGAMU) LOCAL COUNCIL",
+      "location": {
+        "lat": 6.854495,
+        "lon": 3.6272405
+      },
+      "laws": {
+        "WNLN267of1962": true,
+        "WRLN100of1959": true
+      },
+      "drums": {
+        "aro": true,
+        "sekere": true,
+        "iyailu": true,
+        "dundun": true,
+        "sakara": true,
+        "kitipo": true,
+        "kete": true,
+        "batakoto": true,
+        "apala": true,
+        "juju": true,
+        "agidigbo": true,
+        "alasha": true,
+        "orchestra": true
+      }
+    },
+    "-438198965": {
+      "id": -438198965,
+      "name": "EKITI NORTHERN DISTRICT COUNCIL",
+      "location": null,
+      "laws": {
+        "WNLN311of1965": true
+      },
+      "drums": {
+        "gangan": true,
+        "kokoma": true,
+        "ijebu": true,
+        "apiri": true,
+        "more": true,
+        "bembe": true,
+        "juju": true,
+        "apala": true,
+        "sekere": true
+      }
+    },
+    "-485183916": {
+      "id": -485183916,
+      "name": "IJEBU EAST CENTRAL DISTRICT COUNCIL",
+      "location": null,
+      "laws": {
+        "WNLN331of1965": true
+      },
+      "drums": {
+        "sakara": true,
+        "iyailu": true,
+        "dundun": true,
+        "kete": true,
+        "agasa": true,
+        "batakoto": true,
+        "apala": true,
+        "juju": true,
+        "aro": true,
+        "agbe": true
+      }
+    },
+    "-102449476": {
+      "id": -102449476,
+      "name": "JEBU IMUSIN PROVISIONAL AUTHORITY",
+      "location": null,
+      "laws": {
+        "WNLN35of1964": true
+      },
+      "drums": {
+        "sakara": true,
+        "apala": true,
+        "batakoto": true,
+        "kete": true,
+        "agasa": true,
+        "ashiko": true,
+        "juju": true,
+        "iyailu": true,
+        "dundun": true,
+        "mambo": true,
+        "agidigbo": true
+      }
+    },
+    "-316628867": {
+      "id": -316628867,
+      "name": "IMALA DISTRICT COUNCIL",
+      "location": {
+        "lat": 7.3,
+        "lon": 3.516667
+      },
+      "laws": {
+        "WNLN383of1961": true,
+        "WNLN504of1964": true
+      },
+      "drums": {
+        "sakara": true,
+        "iyailu": true,
+        "dundun": true,
+        "sekere": true,
+        "aro": true,
+        "kete": true,
+        "agasa": true,
+        "konkoma": true,
+        "agidigbo": true,
+        "mambo_orchestra": true,
+        "apala": true,
+        "juju": true,
+        "seli": true
+      }
+    },
+    "-2012079381": {
+      "id": -2012079381,
+      "name": "IKIRUN DISTRICT COUNCIL",
+      "location": {
+        "lat": 7.91667,
+        "lon": 4.666667
+      },
+      "laws": {
+        "WNLN384of1961": true,
+        "WSLN9of1970": true
+      },
+      "drums": {}
+    },
+    "-1078170515": {
+      "id": -1078170515,
+      "name": "MUSHIN DISTRICT COUNCIL",
+      "location": {
+        "lat": 6.526262,
+        "lon": 3.3571405
+      },
+      "laws": {
+        "WNLN38of1963": true
+      },
+      "drums": {
+        "sakara": true,
+        "iyailu": true,
+        "dundun": true,
+        "kete": true,
+        "batakoto": true,
+        "apala": true,
+        "juju": true,
+        "mambo": true,
+        "agidigbo": true
+      }
+    },
+    "-1861224663": {
+      "id": -1861224663,
+      "name": "IKOLE DISTRICT COUNCIL",
+      "location": {
+        "lat": 7.7897,
+        "lon": 5.5106
+      },
+      "laws": {
+        "WNLN447of1965": true
+      },
+      "drums": {
+        "sakara": true,
+        "apala": true,
+        "batakoto": true,
+        "kete": true,
+        "mambo": true,
+        "agidigbo": true,
+        "iyailu": true,
+        "dundun": true,
+        "juju": true,
+        "sekere": true,
+        "ireso": true,
+        "umore": true,
+        "omo_agogo": true,
+        "ayu": true
+      }
+    },
+    "-788616615": {
+      "id": -788616615,
+      "name": "Akoko South Provisional Authority",
+      "location": null,
+      "laws": {
+        "WNLN613of1964": true
+      },
+      "drums": {
+        "sakara": true,
+        "juju": true,
+        "apala": true,
+        "more": true,
+        "ere_ase": true,
+        "agbeleke": true,
+        "osirigi": true,
+        "iyailu": true,
+        "sekere": true,
+        "kokoma": true,
+        "bata": true,
+        "konkoloyo": true
+      }
+    },
+    "-557431890": {
+      "id": -557431890,
+      "name": "IJEBU NORTH-WESTERN DISTRICT COUNCIL",
+      "location": null,
+      "laws": {
+        "WNLN68of1963": true,
+        "WRLN489of1959": true
+      },
+      "drums": {
+        "sakara": true,
+        "gangan": true,
+        "sekere": true,
+        "apala": true,
+        "juju": true,
+        "alasa": true,
+        "ape": true
+      }
+    },
+    "-1261201523": {
+      "id": -1261201523,
+      "name": "IPERU LOCAL COUNCIL",
+      "location": {
+        "lat": 6.9117092,
+        "lon": 3.6643757
+      },
+      "laws": {
+        "WNLN74of1965": true
+      },
+      "drums": {
+        "sakara": true,
+        "iyailu": true,
+        "dundun": true,
+        "apala": true,
+        "juju": true,
+        "batakoto": true
+      }
+    },
+    "-1540626230": {
+      "id": -1540626230,
+      "name": "OKA DISTRICT COUNCIL",
+      "location": {
+        "lat": 7.4477,
+        "lon": 5.6204
+      },
+      "laws": {
+        "WRLN109of1960": true
+      },
+      "drums": {
+        "all_types_of_drum": true
+      }
+    },
+    "-1406515547": {
+      "id": -1406515547,
+      "name": "MOTHER LAW",
+      "location": null,
+      "laws": {
+        "WRLN13of1956": true
+      },
+      "drums": {
+        "sakara": true,
+        "iyailu": true,
+        "dundun": true,
+        "kete": true,
+        "agasa": true,
+        "batakoto": true,
+        "apala": true,
+        "juju": true
+      }
+    },
+    "-1825601452": {
+      "id": -1825601452,
+      "name": "LUGUN/ALARO DISTRICT COUNCIL",
+      "location": null,
+      "laws": {
+        "WRLN142of1958": true
+      },
+      "drums": {
+        "sakara": true,
+        "iyailu": true,
+        "dundun": true,
+        "kete": true,
+        "agasa": true,
+        "batakoto": true,
+        "apala": true,
+        "juju": true
+      }
+    },
+    "-2052189551": {
+      "id": -2052189551,
+      "name": "EGUN-AWORI DISTRICT COUNCIL",
+      "location": null,
+      "laws": {
+        "WRLN15of1958": true,
+        "WRLN280of1958": true,
+        "WRLN511of1958": true,
+        "WRLN90of1958": true
+      },
+      "drums": {
+        "hungan": true,
+        "iyailu": true,
+        "sakara": true,
+        "apala": true,
+        "juju": true,
+        "bembe": true,
+        "agbodaglome": true,
+        "sato": true,
+        "batakoto": true,
+        "akoto": true,
+        "agahun": true,
+        "dohun": true
+      }
+    },
+    "-817262782": {
+      "id": -817262782,
+      "name": "THE EGUN-AWORI DISTRICT COUNCIL",
+      "location": {
+        "lat": 6.6191233,
+        "lon": 3.5041271
+      },
+      "laws": {
+        "WRLN278of1958": true
+      },
+      "drums": {}
+    },
+    "-794056208": {
+      "id": -794056208,
+      "name": "Ado-Igbessa District Council",
+      "location": null,
+      "laws": {
+        "WRLN290of1956": true
+      },
+      "drums": {}
+    },
+    "-1438731820": {
+      "id": -1438731820,
+      "name": "IJEBU EASTERN DISTRICT COUNCIL",
+      "location": null,
+      "laws": {
+        "WRLN294of1956": true
+      },
+      "drums": {}
+    },
+    "-42779554": {
+      "id": -42779554,
+      "name": "WARRI URBAN DISTRICT COUNCIL",
+      "location": {
+        "lat": 5.517,
+        "lon": 5.75
+      },
+      "laws": {
+        "WRLN35of1959": true
+      },
+      "drums": {
+        "all_types_of_drum": true
+      }
+    },
+    "-1660651698": {
+      "id": -1660651698,
+      "name": "IKENNE LOCAL COUNCIL",
+      "location": {
+        "lat": 6.8657885,
+        "lon": 3.7151785
+      },
+      "laws": {
+        "WRLN363of1959": true
+      },
+      "drums": {
+        "iyailu": true,
+        "dundun": true,
+        "sakara": true,
+        "kitiko": true,
+        "kete": true,
+        "batakoto": true,
+        "apala": true,
+        "juju": true,
+        "agidigbo": true,
+        "alasha": true,
+        "orchestra": true,
+        "ape": true,
+        "abata": true,
+        "siginikoko": true
+      }
+    },
+    "-1943672278": {
+      "id": -1943672278,
+      "name": "IJEBU WATERSIDE DISTRICT COUNCIL",
+      "location": {
+        "lat": 6.4545,
+        "lon": 4.5219
+      },
+      "laws": {
+        "WRLN451of1959": true
+      },
+      "drums": {
+        "sakara": true,
+        "iyailu": true,
+        "dundun": true,
+        "kete": true,
+        "agasa": true,
+        "batakoto": true,
+        "apala": true,
+        "juju": true,
+        "biripo": true,
+        "asiko": true,
+        "asha": true,
+        "agidigbo": true,
+        "band_set": true
+      }
+    },
+    "-922037923": {
+      "id": -922037923,
+      "name": "Aiyedade District Council",
+      "location": {
+        "lat": 7.3441,
+        "lon": 4.2991
+      },
+      "laws": {
+        "WRLN503of1958": true
+      },
+      "drums": {}
+    },
+    "-374036": {
+      "id": -374036,
+      "name": "OGERE LOCAL COUNCIL",
+      "location": {
+        "lat": 6.9350435,
+        "lon": 3.6354235
+      },
+      "laws": {
+        "WRLN505of1958": true
+      },
+      "drums": {
+        "sakara": true,
+        "iyailu": true,
+        "dundun": true,
+        "kete": true,
+        "agasa": true,
+        "apala": true,
+        "juju": true
+      }
+    },
+    "-935783982": {
+      "id": -935783982,
+      "name": "IJEBU SOUTHERN DISTRICT COUNCIL",
+      "location": null,
+      "laws": {
+        "WRLN561of1959": true
+      },
+      "drums": {
+        "all_types_of_drum": true
+      }
+    },
+    "-555143480": {
+      "id": -555143480,
+      "name": "IBARAPA WEST DISTRICT COUNCIL",
+      "location": null,
+      "laws": {
+        "WSLN100of1967": true
+      },
+      "drums": {
+        "iyailu": true,
+        "dundun": true,
+        "sekere": true,
+        "bata": true,
+        "agere": true,
+        "apesi": true,
+        "sakara": true,
+        "agbe": true,
+        "kete": true,
+        "samba": true,
+        "local_band_orchestra": true,
+        "bembe": true,
+        "waka_music": true,
+        "aro": true,
+        "apala": true,
+        "gangan": true,
+        "kannango": true,
+        "kitipo": true
+      }
+    },
+    "-353033416": {
+      "id": -353033416,
+      "name": "IBARAPA EAST PROVISIONAL AUTHORITY",
+      "location": {
+        "lat": 7.5854,
+        "lon": 3.5173
+      },
+      "laws": {
+        "WSLN111of1967": true
+      },
+      "drums": {
+        "iyailu": true,
+        "dundun": true,
+        "sekere": true,
+        "bata": true,
+        "agere": true,
+        "apesi": true,
+        "sakara": true,
+        "agbe": true,
+        "kete": true,
+        "samba": true,
+        "local_band_orchestra": true,
+        "bembe": true,
+        "waka_music": true,
+        "aro": true,
+        "apala": true,
+        "gangan": true,
+        "kannango": true,
+        "kitipo": true
+      }
+    },
+    "-1705519794": {
+      "id": -1705519794,
+      "name": "IWO DISTRICT COUNCIL",
+      "location": {
+        "lat": 7.63333,
+        "lon": 4.183333
+      },
+      "laws": {
+        "WSLN65of1968": true
+      },
+      "drums": {
+        "iyailu": true,
+        "dundun": true,
+        "sakara": true,
+        "apala": true,
+        "age": true,
+        "bata": true,
+        "juju": true,
+        "aro": true,
+        "sekere": true,
+        "local_band_orchestra": true,
+        "waka_music": true,
+        "bembe": true,
+        "agogo": true
+      }
+    }
+  }
+}
